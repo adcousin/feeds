@@ -25,7 +25,7 @@ contentSelector = [".entete", ".contenu"]
 [thcornouaille]
 title = "Th^ Corn"
 url = "https://www.theatre-cornouaille.fr/agenda/"
-entrySelector = ":root"
+entrySelector = ".card"
 titleSelector = "*"
 linkSelector = "*"
 # contentSelector = ".card-content"
