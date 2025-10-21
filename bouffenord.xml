@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bouffesdunord.com/fr/la-saison</id>
     <title>Th^ Bouffe Nord</title>
-    <updated>2025-10-21T14:32:55.520Z</updated>
+    <updated>2025-10-21T14:48:08.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bouffesdunord.com/bundles/lehubagencebdn/images/favicon/android-icon-192x192.png?v5</icon>
     <entry>
@@ -10,13 +10,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/choeur-des-amants</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/choeur-des-amants"/>
         <updated>2025-10-21T14:32:54.623Z</updated>
-        <content type="html"><![CDATA[Du 23 au 27 septembre 2025]]></content>
+        <content type="html"><![CDATA[Tiago Rodrigues]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/choeur-des-amants</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/choeur-des-amants"/>
-        <updated>2025-10-21T14:32:54.490Z</updated>
+        <updated>2025-10-21T14:32:54.623Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/choeur-des-amants" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/choeur-des-amants-2" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://www.bouffesdunord.com/frvoir-clair-avec-monique-wittig</id>
         <link href="https://www.bouffesdunord.com/frvoir-clair-avec-monique-wittig"/>
         <updated>2025-10-21T14:32:54.624Z</updated>
-        <content type="html"><![CDATA[Du 8 au 12 octobre 2025]]></content>
+        <content type="html"><![CDATA[DameChevaliers • Caro Geryl • Adèle Haenel]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
@@ -38,13 +38,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/winterreise</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/winterreise"/>
         <updated>2025-10-21T14:32:54.626Z</updated>
-        <content type="html"><![CDATA[Du 18 au 23 novembre 2025]]></content>
+        <content type="html"><![CDATA[Franz Schubert • Wilhelm Müller • Deborah Warner]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/winterreise</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/winterreise"/>
-        <updated>2025-10-21T14:32:54.498Z</updated>
+        <updated>2025-10-21T14:32:54.626Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/winterreise" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/winterreise" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -52,13 +52,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites"/>
         <updated>2025-10-21T14:32:54.631Z</updated>
-        <content type="html"><![CDATA[Du 25 septembre 2025 au 13 mai 2026]]></content>
+        <content type="html"><![CDATA[David Geselson]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites"/>
-        <updated>2025-10-21T14:32:54.498Z</updated>
+        <updated>2025-10-21T14:32:54.631Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/lettres-non-ecrites" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/lettres-non-ecrites-1" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -66,13 +66,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/nous-les-heros</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/nous-les-heros"/>
         <updated>2025-10-21T14:32:54.637Z</updated>
-        <content type="html"><![CDATA[Du 16 octobre au 1<sup>er</sup> novembre 2025]]></content>
+        <content type="html"><![CDATA[Jean-Luc Lagarce • Clément Hervieu-Léger]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/nous-les-heros</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/nous-les-heros"/>
-        <updated>2025-10-21T14:32:54.499Z</updated>
+        <updated>2025-10-21T14:32:54.637Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/nous-les-heros" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/nous-les-heros" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -80,13 +80,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/lack</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/lack"/>
         <updated>2025-10-21T14:32:54.637Z</updated>
-        <content type="html"><![CDATA[Du 13 au 16 novembre 2025]]></content>
+        <content type="html"><![CDATA[Talents Adami Théâtre •&nbsp;Lorraine de Sagazan • Guillaume Poix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/lack</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/lack"/>
-        <updated>2025-10-21T14:32:54.501Z</updated>
+        <updated>2025-10-21T14:32:54.637Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/lack" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/talents-adami" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -94,13 +94,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/la-mouche</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/la-mouche"/>
         <updated>2025-10-21T14:32:54.654Z</updated>
-        <content type="html"><![CDATA[Du 4 au 20 décembre 2025]]></content>
+        <content type="html"><![CDATA[George Langelaan • Valérie Lesort • Christian Hecq]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[13]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/la-mouche</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/la-mouche"/>
-        <updated>2025-10-21T14:32:54.501Z</updated>
+        <updated>2025-10-21T14:32:54.654Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/la-mouche" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/la-mouche-1" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -108,13 +108,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque"/>
         <updated>2025-10-21T14:32:54.654Z</updated>
-        <content type="html"><![CDATA[Du 26 décembre 2025 au 4 janvier 2026]]></content>
+        <content type="html"><![CDATA[Marie Bourgeois • Yoann Bourgeois • Pomme]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[15]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque"/>
-        <updated>2025-10-21T14:32:54.502Z</updated>
+        <updated>2025-10-21T14:32:54.654Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/le-petit-cirque" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/le-petit-cirque" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -122,13 +122,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/chiens</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/chiens"/>
         <updated>2025-10-21T14:32:54.654Z</updated>
-        <content type="html"><![CDATA[Du 29 janvier au 14 février 2026]]></content>
+        <content type="html"><![CDATA[Lorraine de Sagazan •&nbsp;Romain Louveau •&nbsp;Othman Louati]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[17]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/chiens</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/chiens"/>
-        <updated>2025-10-21T14:32:54.503Z</updated>
+        <updated>2025-10-21T14:32:54.654Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/chiens" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/chiens" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -136,13 +136,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/ma-maison-est-noire</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/ma-maison-est-noire"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
-        <content type="html"><![CDATA[Du 20 février au 1<sup>er</sup> mars 2026]]></content>
+        <content type="html"><![CDATA[Mina Kavani]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[19]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/ma-maison-est-noire</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/ma-maison-est-noire"/>
-        <updated>2025-10-21T14:32:54.505Z</updated>
+        <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/ma-maison-est-noire" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/la-maison-est-noire" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -150,13 +150,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/niquer-la-fatalite</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/niquer-la-fatalite"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
-        <content type="html"><![CDATA[Du 2 au 11 avril 2026]]></content>
+        <content type="html"><![CDATA[Chemin(s) en forme de femme]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/niquer-la-fatalite</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/niquer-la-fatalite"/>
-        <updated>2025-10-21T14:32:54.505Z</updated>
+        <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/niquer-la-fatalite" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/niquer-la-fatalite" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -164,13 +164,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/le-proces-de-jeanne</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-proces-de-jeanne"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
-        <content type="html"><![CDATA[Du 14 au 29 avril 2026]]></content>
+        <content type="html"><![CDATA[Judith Chemla • Yves Beaunesne •&nbsp;Camille Rocailleux •&nbsp;Marion Bernède]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-proces-de-jeanne</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-proces-de-jeanne"/>
-        <updated>2025-10-21T14:32:54.506Z</updated>
+        <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/le-proces-de-jeanne" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/le-proces-de-jeanne-1" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -178,13 +178,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/quelle-journee</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/quelle-journee"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
-        <content type="html"><![CDATA[Jeudi 7 mai 2026 à 20h]]></content>
+        <content type="html"><![CDATA[L'Opéra c'est vous • Projet pédagogique et social]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[25]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/quelle-journee</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/quelle-journee"/>
-        <updated>2025-10-21T14:32:54.515Z</updated>
+        <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/quelle-journee" class="read_more"></a>]]></content>
     </entry>
     <entry>
@@ -192,12 +192,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-prince</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-prince"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
+        <content type="html"><![CDATA[Du 22 au 24 mai 2026]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[27]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-prince</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-prince"/>
-        <updated>2025-10-21T14:32:54.515Z</updated>
+        <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/le-petit-prince" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/le-petit-prince" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
@@ -205,13 +206,13 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/i-will-survive</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/i-will-survive"/>
         <updated>2025-10-21T14:32:54.661Z</updated>
-        <content type="html"><![CDATA[Du 29 mai au 27 juin 2026]]></content>
+        <content type="html"><![CDATA[Jean-Christophe Meurisse]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[29]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/i-will-survive</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/i-will-survive"/>
-        <updated>2025-10-21T14:32:54.539Z</updated>
+        <updated>2025-10-21T14:32:54.661Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/i-will-survive" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/i-will-survive" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
 </feed>
