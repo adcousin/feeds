@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-10-21T16:06:18.027Z</updated>
+    <updated>2025-10-21T16:10:46.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[Rave Lucid
-
-Brandon Masele / Laura Defretin / Cie Mazelfreten]]></title>
+        <title type="html"><![CDATA[Rave Lucid]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/rave-lucid-compagnie-mazelfreten-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/rave-lucid-compagnie-mazelfreten-25-26/"/>
-        <updated>2025-10-21T16:06:16.861Z</updated>
+        <updated>2025-10-21T16:10:45.812Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28161012/25-1021-rave-lucid-01_C_jonathan-godson-680x680.jpg?date=120775" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -38,12 +36,10 @@ Brandon Masele / Laura Defretin / Cie Mazelfreten]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exposition musée des Beaux-Arts
-
-Novembre – Décembre]]></title>
+        <title type="html"><![CDATA[Exposition musée des Beaux-Arts]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/"/>
-        <updated>2025-10-21T16:06:16.862Z</updated>
+        <updated>2025-10-21T16:10:45.815Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/11141420/Delavallee_batteuses-ble-680x680.jpg?date=139998" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -62,12 +58,10 @@ Novembre – Décembre]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bastard
-
-Krismenn / Teatr Piba]]></title>
+        <title type="html"><![CDATA[Bastard]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/bastard-krismenn-teatr-piba-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/bastard-krismenn-teatr-piba-25-26/"/>
-        <updated>2025-10-21T16:06:16.863Z</updated>
+        <updated>2025-10-21T16:10:45.816Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03145814/25-1104-bastard-01_C_sebastien-durand-680x680.jpg?date=109926" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -94,12 +88,10 @@ Krismenn / Teatr Piba]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[En addicto
-
-Thomas Quillardet]]></title>
+        <title type="html"><![CDATA[En addicto]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/en-addicto-thomas-quillardet-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/en-addicto-thomas-quillardet-25-26/"/>
-        <updated>2025-10-21T16:06:16.865Z</updated>
+        <updated>2025-10-21T16:10:45.818Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://www.theatre-cornouaille.fr/wp-content/uploads/2025/06/ENADDICTO©MelinaVernant-680x680.png" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -126,12 +118,10 @@ Thomas Quillardet]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orphée et Eurydice
-
-Gluck / Othman Louati / Miroirs Étendus]]></title>
+        <title type="html"><![CDATA[Orphée et Eurydice]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/orphee-et-eurydice-gluck-otman-louati-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/orphee-et-eurydice-gluck-otman-louati-25-26/"/>
-        <updated>2025-10-21T16:06:16.866Z</updated>
+        <updated>2025-10-21T16:10:45.819Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03145851/25-1105-orphee-eurydice-01_C_clemence-demesme-680x680.jpg?date=121085" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -158,12 +148,10 @@ Gluck / Othman Louati / Miroirs Étendus]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quand la culture populaire nous rend meilleurs
-
-Sandra Laugier]]></title>
+        <title type="html"><![CDATA[Quand la culture populaire nous rend meilleurs]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/conference-sandra-laugier-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/conference-sandra-laugier-25-26/"/>
-        <updated>2025-10-21T16:06:16.868Z</updated>
+        <updated>2025-10-21T16:10:45.820Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28160913/25-1112-sandra-lauguier-01_C_astrid-di-crollalanza-flammarion-680x680.jpg?date=72663" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -185,12 +173,10 @@ Sandra Laugier]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Opération Rumba
-
-Dieudonné Niangouna / Cie les bruits de la rue]]></title>
+        <title type="html"><![CDATA[Opération Rumba]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/operation-rumba-dieudonne-niangouna-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/operation-rumba-dieudonne-niangouna-25-26/"/>
-        <updated>2025-10-21T16:06:16.869Z</updated>
+        <updated>2025-10-21T16:10:45.822Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03145903/25-1113-operation-rumba-07_C_guillaume-heraud-680x680.jpg?date=152050" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -217,12 +203,10 @@ Dieudonné Niangouna / Cie les bruits de la rue]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brahms le Tzigane
-
-Chœur de Chambre Mélisme(s) / Bankal Trio]]></title>
+        <title type="html"><![CDATA[Brahms le Tzigane]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/brahms-le-tzigane-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/brahms-le-tzigane-25-26/"/>
-        <updated>2025-10-21T16:06:16.870Z</updated>
+        <updated>2025-10-21T16:10:45.823Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03145943/25-1116-melismes-02_C_nicolas-joubard-680x680.jpg?date=176386" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -246,12 +230,10 @@ Chœur de Chambre Mélisme(s) / Bankal Trio]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crari or not
-
-Performance immersive]]></title>
+        <title type="html"><![CDATA[Crari or not]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/crari-or-not-emilie-anna-maillet-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/crari-or-not-emilie-anna-maillet-25-26/"/>
-        <updated>2025-10-21T16:06:16.872Z</updated>
+        <updated>2025-10-21T16:10:45.824Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150047/25-1119-crari-or-not-10_C_noe-merckle-680x680.jpg?date=127781" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -278,12 +260,10 @@ Performance immersive]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To Like or not
-
-Émilie Anna Maillet / Cie Ex Voto à la lune]]></title>
+        <title type="html"><![CDATA[To Like or not]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/to-like-or-not-emilie-anna-maillet-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/to-like-or-not-emilie-anna-maillet-25-26/"/>
-        <updated>2025-10-21T16:06:16.873Z</updated>
+        <updated>2025-10-21T16:10:45.826Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150006/25-1119-to-like-or-not-05_C_pascale-cholette-680x680.jpg?date=120109" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -310,12 +290,10 @@ Performance immersive]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Étienne Manchon
-
-Musique du temps présent]]></title>
+        <title type="html"><![CDATA[Étienne Manchon]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/so-jazz-etienne-manchon-musique-du-temps-present-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/so-jazz-etienne-manchon-musique-du-temps-present-25-26/"/>
-        <updated>2025-10-21T16:06:16.874Z</updated>
+        <updated>2025-10-21T16:10:45.832Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150103/25-1122-etienne-manchon-04_C_charles-schneider-680x680.jpg?date=116081" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -345,7 +323,7 @@ Musique du temps présent]]></title>
         <title type="html"><![CDATA[Géraldine Laurent & Louis Sclavis  / Orchestre National de Jazz]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/so-jazz-geraldine-laurent-louis-sclavis-orchestre-national-de-jazz-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/so-jazz-geraldine-laurent-louis-sclavis-orchestre-national-de-jazz-25-26/"/>
-        <updated>2025-10-21T16:06:16.876Z</updated>
+        <updated>2025-10-21T16:10:45.832Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150137/25-1122-onj-01_C_julien-mignot-680x680.jpg?date=101937" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -372,12 +350,10 @@ Musique du temps présent]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marius
-
-Marcel Pagnol / Joël Pommerat]]></title>
+        <title type="html"><![CDATA[Marius]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/marius-marcel-pagnol-joel-pommerat-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/marius-marcel-pagnol-joel-pommerat-25-26/"/>
-        <updated>2025-10-21T16:06:16.877Z</updated>
+        <updated>2025-10-21T16:10:45.833Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150146/25-1125-marius-07_C_agathe-pommerat-680x680.jpg?date=115662" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -404,12 +380,10 @@ Marcel Pagnol / Joël Pommerat]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exposition musée des Beaux-Arts
-
-Novembre – Décembre]]></title>
+        <title type="html"><![CDATA[Exposition musée des Beaux-Arts]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/"/>
-        <updated>2025-10-21T16:06:16.879Z</updated>
+        <updated>2025-10-21T16:10:45.842Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/11141420/Delavallee_batteuses-ble-680x680.jpg?date=139998" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -428,12 +402,10 @@ Novembre – Décembre]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Décider de nous-même
-
-Pierre Zaoui]]></title>
+        <title type="html"><![CDATA[Décider de nous-même]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/conference-pierre-zaoui-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/conference-pierre-zaoui-25-26/"/>
-        <updated>2025-10-21T16:06:16.880Z</updated>
+        <updated>2025-10-21T16:10:45.843Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/13143350/PierreZaoui-%C2%A9-Jerome-Panconi-1-680x680.jpg?date=76699" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -455,12 +427,10 @@ Pierre Zaoui]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robinson Khoury trio / Lynn Adib
-
-MŸA]]></title>
+        <title type="html"><![CDATA[Robinson Khoury trio / Lynn Adib]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/robinson-khoury-trio-lynn-adib-mya-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/robinson-khoury-trio-lynn-adib-mya-25-26/"/>
-        <updated>2025-10-21T16:06:16.881Z</updated>
+        <updated>2025-10-21T16:10:45.847Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150228/25-1202-robinson-khoury-05_C_maxime-francois-680x680.jpg?date=103250" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -487,12 +457,10 @@ MŸA]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bezperan
-
-Collectif Bilaka / Daniel San Pedro]]></title>
+        <title type="html"><![CDATA[Bezperan]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/"/>
-        <updated>2025-10-21T16:06:16.882Z</updated>
+        <updated>2025-10-21T16:10:45.848Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150250/25-1203-bezperan-02_C_charlotte-costa-680x680.jpg?date=130196" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -519,12 +487,10 @@ Collectif Bilaka / Daniel San Pedro]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blind test musical
-
-Le printemps]]></title>
+        <title type="html"><![CDATA[Blind test musical]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/blind-test-musical-decembre-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/blind-test-musical-decembre-25-26/"/>
-        <updated>2025-10-21T16:06:16.884Z</updated>
+        <updated>2025-10-21T16:10:45.849Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/28164521/25-1009-blind-test-680x680.jpg?date=172817" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -543,12 +509,10 @@ Le printemps]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pour la nuit de Noël
-
-Il Gardellino Orchestra]]></title>
+        <title type="html"><![CDATA[Pour la nuit de Noël]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/pour-la-nuit-de-noel-ensemble-il-gardellino-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/pour-la-nuit-de-noel-ensemble-il-gardellino-25-26/"/>
-        <updated>2025-10-21T16:06:16.885Z</updated>
+        <updated>2025-10-21T16:10:45.850Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150339/25-1207-il-gardellino-01_C_wouter-maeckelberghe-680x680.jpg?date=151399" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -575,12 +539,10 @@ Il Gardellino Orchestra]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stage de théâtre et cirque
-
-Autour du spectacle Icare]]></title>
+        <title type="html"><![CDATA[Stage de théâtre et cirque]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/stage-de-theatre-et-cirque-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/stage-de-theatre-et-cirque-25-26/"/>
-        <updated>2025-10-21T16:06:16.888Z</updated>
+        <updated>2025-10-21T16:10:45.852Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/28171139/25-1211-icare-03_C_cie-coup-de-poker-680x680.jpg?date=73714" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -599,12 +561,10 @@ Autour du spectacle Icare]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Icare
-
-Guillaume Barbot / Cie Coup de Poker]]></title>
+        <title type="html"><![CDATA[Icare]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/icare-guillaume-barbot-cie-coup-de-poker-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/icare-guillaume-barbot-cie-coup-de-poker-25-26/"/>
-        <updated>2025-10-21T16:06:16.889Z</updated>
+        <updated>2025-10-21T16:10:45.853Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150404/25-1211-icare-10_C_cie-coup-de-poker-680x680.jpg?date=84637" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -631,12 +591,10 @@ Guillaume Barbot / Cie Coup de Poker]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cendrillon
-
-Pauline Viardot / Bianca Chillemi / David Lescot]]></title>
+        <title type="html"><![CDATA[Cendrillon]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/cendrillon-pauline-viardot-bianca-chillemi-david-lescot-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/cendrillon-pauline-viardot-bianca-chillemi-david-lescot-25-26/"/>
-        <updated>2025-10-21T16:06:16.896Z</updated>
+        <updated>2025-10-21T16:10:45.855Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/21180143/25-1217-cendrillon-03_Laurent-Guizard-680x680.jpg?date=169836" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -666,7 +624,7 @@ Pauline Viardot / Bianca Chillemi / David Lescot]]></title>
         <title type="html"><![CDATA[GILDAA]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/gildaa-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/gildaa-25-26/"/>
-        <updated>2025-10-21T16:06:16.898Z</updated>
+        <updated>2025-10-21T16:10:45.857Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150430/26-0108-gildaa-01_C_pierre-nativel-680x680.jpg?date=109510" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -693,12 +651,10 @@ Pauline Viardot / Bianca Chillemi / David Lescot]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Face aux murs
-
-Cie Hors Surface]]></title>
+        <title type="html"><![CDATA[Face aux murs]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/face-aux-murs-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/face-aux-murs-25-26/"/>
-        <updated>2025-10-21T16:06:16.899Z</updated>
+        <updated>2025-10-21T16:10:45.858Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150503/26-0113-face-murs-09_C_camille-la-verde-680x680.jpg?date=78120" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -725,12 +681,10 @@ Cie Hors Surface]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le Cabaret renversé
-
-Julien Candy / Cie La Faux Populaire]]></title>
+        <title type="html"><![CDATA[Le Cabaret renversé]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/le-cabaret-renverse-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/le-cabaret-renverse-25-26/"/>
-        <updated>2025-10-21T16:06:16.901Z</updated>
+        <updated>2025-10-21T16:10:45.859Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150616/26-0115-cabaret-renverse-07_C_sabine-chalaguier-680x680.jpg?date=134051" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -754,12 +708,10 @@ Julien Candy / Cie La Faux Populaire]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Week-end givré !
-
-Samedi 17 et dimanche 18 Janvier 2026]]></title>
+        <title type="html"><![CDATA[Week-end givré !]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/week-end-givre-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/week-end-givre-25-26/"/>
-        <updated>2025-10-21T16:06:16.903Z</updated>
+        <updated>2025-10-21T16:10:45.861Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150659/26-0117-petite-reine-01_C_pierre-planchenault-680x680.jpg?date=61262" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -783,12 +735,10 @@ Samedi 17 et dimanche 18 Janvier 2026]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spectacle des élèves
-
-Balles à fond]]></title>
+        <title type="html"><![CDATA[Spectacle des élèves]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/spectacle-des-eleves-balles-a-fond-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/spectacle-des-eleves-balles-a-fond-25-26/"/>
-        <updated>2025-10-21T16:06:16.904Z</updated>
+        <updated>2025-10-21T16:10:45.862Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/28155625/26-0120-BAF-680x680.jpg?date=112694" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -807,12 +757,10 @@ Balles à fond]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Biographies
-
-Cie EA EO / Neta Oren & Pierre Laloge]]></title>
+        <title type="html"><![CDATA[Biographies]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/biographies-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/biographies-25-26/"/>
-        <updated>2025-10-21T16:06:16.905Z</updated>
+        <updated>2025-10-21T16:10:45.863Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150801/26-0120-biographies-01_C_marc-lahore-680x680.jpg?date=70298" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -836,12 +784,10 @@ Cie EA EO / Neta Oren & Pierre Laloge]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ether
-
-Fanny Soriano / Cie Libertivore]]></title>
+        <title type="html"><![CDATA[Ether]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/ether-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/ether-25-26/"/>
-        <updated>2025-10-21T16:06:16.906Z</updated>
+        <updated>2025-10-21T16:10:45.865Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150834/26-0120-ether-03_C_gael-delaite-680x680.jpg?date=49253" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -868,12 +814,10 @@ Fanny Soriano / Cie Libertivore]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De bonnes raisons
-
-Cie la Volte-Cirque]]></title>
+        <title type="html"><![CDATA[De bonnes raisons]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/de-bonnes-raisons-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/de-bonnes-raisons-25-26/"/>
-        <updated>2025-10-21T16:06:16.908Z</updated>
+        <updated>2025-10-21T16:10:45.866Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150842/26-0121-bonnes-raisons-02_C_la-volte-cirque-680x680.jpg?date=123809" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -897,12 +841,10 @@ Cie la Volte-Cirque]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hourvari
-
-Marie Molliens / Cie Rasposo]]></title>
+        <title type="html"><![CDATA[Hourvari]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/hourvari-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/hourvari-25-26/"/>
-        <updated>2025-10-21T16:06:16.909Z</updated>
+        <updated>2025-10-21T16:10:45.867Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151003/26-0123-hourvari-10_C_ryo-ichii-680x680.jpg?date=111363" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -926,12 +868,10 @@ Marie Molliens / Cie Rasposo]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lucile Boulanger
-
-La Messagère]]></title>
+        <title type="html"><![CDATA[Lucile Boulanger]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/lucile-boulanger-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/lucile-boulanger-25-26/"/>
-        <updated>2025-10-21T16:06:16.910Z</updated>
+        <updated>2025-10-21T16:10:45.868Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151011/26-0125-lucile-boulanger-05_C_jerome-dupont-christina-batman-680x680.jpg?date=141922" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -958,12 +898,10 @@ La Messagère]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La Pointe du compas
-
-Cie HKC]]></title>
+        <title type="html"><![CDATA[La Pointe du compas]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/la-pointe-du-compas-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/la-pointe-du-compas-25-26/"/>
-        <updated>2025-10-21T16:06:16.912Z</updated>
+        <updated>2025-10-21T16:10:45.870Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151056/26-0126-pointe-compas-08_C_anne-rehbinder-680x680.jpg?date=69355" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -987,12 +925,10 @@ Cie HKC]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KA-IN
-
-Raphaëlle Boitel / Groupe Acrobatique de Tanger]]></title>
+        <title type="html"><![CDATA[KA-IN]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/ka-in-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/ka-in-25-26/"/>
-        <updated>2025-10-21T16:06:16.914Z</updated>
+        <updated>2025-10-21T16:10:45.871Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151154/26-0129-ka-in-28_C_pierre-planchenault-680x680.jpg?date=103201" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1019,12 +955,10 @@ Raphaëlle Boitel / Groupe Acrobatique de Tanger]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KA-IN
-
-Raphaëlle Boitel / Groupe Acrobatique de Tanger]]></title>
+        <title type="html"><![CDATA[KA-IN]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/ka-in-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/ka-in-25-26/"/>
-        <updated>2025-10-21T16:06:16.915Z</updated>
+        <updated>2025-10-21T16:10:45.872Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151154/26-0129-ka-in-28_C_pierre-planchenault-680x680.jpg?date=103201" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1051,12 +985,10 @@ Raphaëlle Boitel / Groupe Acrobatique de Tanger]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apprivoiser le vide qui est en nous
-
-Hélène L’Heuillet]]></title>
+        <title type="html"><![CDATA[Apprivoiser le vide qui est en nous]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/conference-helene-lheuillet-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/conference-helene-lheuillet-25-26/"/>
-        <updated>2025-10-21T16:06:16.918Z</updated>
+        <updated>2025-10-21T16:10:45.873Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28160928/26-0203-helene-lheuillet-01_C_alexandre-trehorel-680x680.jpg?date=154883" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1078,12 +1010,10 @@ Hélène L’Heuillet]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La Terre
-
-Émile Zola / Anne Barbot]]></title>
+        <title type="html"><![CDATA[La Terre]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/la-terre-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/la-terre-25-26/"/>
-        <updated>2025-10-21T16:06:16.920Z</updated>
+        <updated>2025-10-21T16:10:45.875Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151234/26-0205-terre-01_C_simon-gosselin-680x680.jpg?date=185667" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1110,12 +1040,10 @@ Hélène L’Heuillet]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amadeus
-
-Jeanne Bleuse / Quatuor Magenta]]></title>
+        <title type="html"><![CDATA[Amadeus]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/amadeus-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/amadeus-25-26/"/>
-        <updated>2025-10-21T16:06:16.921Z</updated>
+        <updated>2025-10-21T16:10:45.876Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151320/26-0208-jeanne-bleuse-02_C_pascale-cholette-680x680.jpg?date=171424" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1142,12 +1070,10 @@ Jeanne Bleuse / Quatuor Magenta]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tropique du Képone
-
-Myriam Soulanges & Marlène Myrtil]]></title>
+        <title type="html"><![CDATA[Tropique du Képone]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/tropique-du-kepone-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/tropique-du-kepone-25-26/"/>
-        <updated>2025-10-21T16:06:16.922Z</updated>
+        <updated>2025-10-21T16:10:45.877Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151440/26-0210-tropique-kepone-04_C_eloise-legay-680x680.jpg?date=114585" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1174,12 +1100,10 @@ Myriam Soulanges & Marlène Myrtil]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gounouj
-
-Léo Lérus]]></title>
+        <title type="html"><![CDATA[Gounouj]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/gounouj-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/gounouj-25-26/"/>
-        <updated>2025-10-21T16:06:16.930Z</updated>
+        <updated>2025-10-21T16:10:45.878Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151409/26-0210-gounouj-16_C_laurent-philippe-680x680.jpg?date=125069" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1206,12 +1130,10 @@ Léo Lérus]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’Inconnu
-
-Tob Browning / Sylvain Rifflet]]></title>
+        <title type="html"><![CDATA[L’Inconnu]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/linconnu-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/linconnu-25-26/"/>
-        <updated>2025-10-21T16:06:16.936Z</updated>
+        <updated>2025-10-21T16:10:45.879Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151458/26-0212-inconnu-12_C_herve-escario-680x680.jpg?date=68383" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1238,12 +1160,10 @@ Tob Browning / Sylvain Rifflet]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Annie Ebrel et Marie Berardy
-
-Paroles de compositrices]]></title>
+        <title type="html"><![CDATA[Annie Ebrel et Marie Berardy]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/rencontre-avec-annie-ebrel-et-marie-berardy-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/rencontre-avec-annie-ebrel-et-marie-berardy-25-26/"/>
-        <updated>2025-10-21T16:06:16.937Z</updated>
+        <updated>2025-10-21T16:10:45.881Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/10/21102049/26-03-marie-annie-680x680.jpg?date=102155" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1262,12 +1182,10 @@ Paroles de compositrices]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blind test musical
-
-Les chansons révolutionnaires]]></title>
+        <title type="html"><![CDATA[Blind test musical]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/blind-test-musical-mars-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/blind-test-musical-mars-25-26/"/>
-        <updated>2025-10-21T16:06:16.939Z</updated>
+        <updated>2025-10-21T16:10:45.883Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/28164521/25-1009-blind-test-680x680.jpg?date=172817" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1286,12 +1204,10 @@ Les chansons révolutionnaires]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’Abolition des privilèges
-
-Bertrand Guillot / Hugues Duchêne]]></title>
+        <title type="html"><![CDATA[L’Abolition des privilèges]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/labolition-des-privileges-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/labolition-des-privileges-25-26/"/>
-        <updated>2025-10-21T16:06:16.940Z</updated>
+        <updated>2025-10-21T16:10:45.885Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151212/26-0304-abolition-privileges-03_C_blokaus808-680x680.jpg?date=107597" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1318,12 +1234,10 @@ Bertrand Guillot / Hugues Duchêne]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kareen Guiock-Thuram
-
-Nina]]></title>
+        <title type="html"><![CDATA[Kareen Guiock-Thuram]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/kareen-guiock-thuram-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/kareen-guiock-thuram-25-26/"/>
-        <updated>2025-10-21T16:06:16.942Z</updated>
+        <updated>2025-10-21T16:10:45.886Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151516/26-0305-kareen-guiock-thuram-04_C_alice-le-marin-680x680.jpg?date=112463" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1350,12 +1264,10 @@ Nina]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aline Piboule
-
-Musique nocturnes]]></title>
+        <title type="html"><![CDATA[Aline Piboule]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/aline-piboule-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/aline-piboule-25-26/"/>
-        <updated>2025-10-21T16:06:16.943Z</updated>
+        <updated>2025-10-21T16:10:45.888Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05110157/Aline-Piboule-%C2%A9-Olivier-Lalane-24-680x680.png?date=140032" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1382,12 +1294,10 @@ Musique nocturnes]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Love Chapter 2
-
-Sharon Eyal]]></title>
+        <title type="html"><![CDATA[Love Chapter 2]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/love-chapter-2-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/love-chapter-2-25-26/"/>
-        <updated>2025-10-21T16:06:16.945Z</updated>
+        <updated>2025-10-21T16:10:45.889Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151615/26-0311-love-chapter-2-09_C_andre-le-corre-680x680.jpg?date=108467" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1414,12 +1324,10 @@ Sharon Eyal]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stage de danse brésilienne
-
-En lien avec le spectacle Nordestinoz]]></title>
+        <title type="html"><![CDATA[Stage de danse brésilienne]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/stage-de-danse-bresilienne-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/stage-de-danse-bresilienne-25-26/"/>
-        <updated>2025-10-21T16:06:16.946Z</updated>
+        <updated>2025-10-21T16:10:45.890Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/28170217/26-0320-nordestinoz-02_C_nicolas-antolino-680x680.jpg?date=154736" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1438,12 +1346,10 @@ En lien avec le spectacle Nordestinoz]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marie Berardy & Julien Stella 
-
-Mouezhioù an dud – Les Voix des Hommes]]></title>
+        <title type="html"><![CDATA[Marie Berardy & Julien Stella]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/so-breizh-marie-berardy-julien-stella-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/so-breizh-marie-berardy-julien-stella-25-26/"/>
-        <updated>2025-10-21T16:06:16.947Z</updated>
+        <updated>2025-10-21T16:10:45.892Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151659/26-0320-voix-hommes-01-marie-Berardy_C_eric-legret-680x680.jpg?date=80017" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1473,7 +1379,7 @@ Mouezhioù an dud – Les Voix des Hommes]]></title>
         <title type="html"><![CDATA[Annie Ebrel // NordestiNoz]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/so-breizh-annie-ebrel-nordestinoz-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/so-breizh-annie-ebrel-nordestinoz-25-26/"/>
-        <updated>2025-10-21T16:06:16.949Z</updated>
+        <updated>2025-10-21T16:10:45.893Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151638/26-0320-annie-ebrel-01_C_gwenael-saliou-680x680.jpg?date=188824" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1500,12 +1406,10 @@ Mouezhioù an dud – Les Voix des Hommes]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lacrima
-
-Caroline Guiela Nguyen]]></title>
+        <title type="html"><![CDATA[Lacrima]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/lacrima-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/lacrima-25-26/"/>
-        <updated>2025-10-21T16:06:16.950Z</updated>
+        <updated>2025-10-21T16:10:45.895Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151732/26-0325-lacrima-05_C_jean-louis-fernandez-680x680.jpg?date=135993" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1532,12 +1436,10 @@ Caroline Guiela Nguyen]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mad Maple « extended » + You Matter
-
-Séverine Morfin Quartet + Julie Campiche quartet]]></title>
+        <title type="html"><![CDATA[Mad Maple « extended » + You Matter]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/mad-maple-you-matter/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/mad-maple-you-matter/"/>
-        <updated>2025-10-21T16:06:16.952Z</updated>
+        <updated>2025-10-21T16:10:45.897Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/06101832/MAD-MAPLE-photo-de-groupe-Maxime-Francois-680x680.jpg?date=74370" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1564,12 +1466,10 @@ Séverine Morfin Quartet + Julie Campiche quartet]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I’m deranged
-
-Mina Kavani]]></title>
+        <title type="html"><![CDATA[I’m deranged]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/im-deranged-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/im-deranged-25-26/"/>
-        <updated>2025-10-21T16:06:16.955Z</updated>
+        <updated>2025-10-21T16:10:45.898Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05153408/Mina-KAVANI%C2%A9India-Lange-1-680x680.jpeg?date=69739" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1596,12 +1496,10 @@ Mina Kavani]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portrait de Ludmilla en Nina Simone
-
-David Lescot]]></title>
+        <title type="html"><![CDATA[Portrait de Ludmilla en Nina Simone]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/portrait-de-ludmilla-en-nina-simone-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/portrait-de-ludmilla-en-nina-simone-25-26/"/>
-        <updated>2025-10-21T16:06:16.956Z</updated>
+        <updated>2025-10-21T16:10:45.899Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05153943/nina_201709tjv_41-1-680x680.jpg?date=101756" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1628,12 +1526,10 @@ David Lescot]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’Épatante Épopée
-
-Jeanne Bleuse & Élise Caron]]></title>
+        <title type="html"><![CDATA[L’Épatante Épopée]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/lepatante-epopee-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/lepatante-epopee-25-26/"/>
-        <updated>2025-10-21T16:06:16.958Z</updated>
+        <updated>2025-10-21T16:10:45.901Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05154116/Epantante-Epopee-1-credit-C-Raynaud-de-Lage-680x680.jpg?date=113572" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1660,12 +1556,10 @@ Jeanne Bleuse & Élise Caron]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nadoz
-
-Chistelle Séry & Étienne Cabaret]]></title>
+        <title type="html"><![CDATA[Nadoz]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/nadoz-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/nadoz-25-26/"/>
-        <updated>2025-10-21T16:06:16.959Z</updated>
+        <updated>2025-10-21T16:10:45.902Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/06101926/03-Nadoz%C2%A9Eric-Legret-680x680.jpg?date=155906" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1692,12 +1586,10 @@ Chistelle Séry & Étienne Cabaret]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le Rêve de Polyphème
-
-Wassim Halal / Gamelan Puspawarna]]></title>
+        <title type="html"><![CDATA[Le Rêve de Polyphème]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/le-reve-de-polypheme-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/le-reve-de-polypheme-25-26/"/>
-        <updated>2025-10-21T16:06:16.960Z</updated>
+        <updated>2025-10-21T16:10:45.904Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05161531/3879%C2%A9-Eric-Legret-680x680.jpg?date=144364" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1724,12 +1616,10 @@ Wassim Halal / Gamelan Puspawarna]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trablos
-
-Robin Antunes & Benjamin Garson]]></title>
+        <title type="html"><![CDATA[Trablos]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/trablos-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/trablos-25-26/"/>
-        <updated>2025-10-21T16:06:16.962Z</updated>
+        <updated>2025-10-21T16:10:45.905Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/06102110/Portrait-2-%C2%A9-Leah-Cold-680x680.jpg?date=232656" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1756,12 +1646,10 @@ Robin Antunes & Benjamin Garson]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parler pointu
-
-Hélène François / Benjamin Tholozan]]></title>
+        <title type="html"><![CDATA[Parler pointu]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/parler-pointu-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/parler-pointu-25-26/"/>
-        <updated>2025-10-21T16:06:16.963Z</updated>
+        <updated>2025-10-21T16:10:45.908Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05162622/PARLER-POINTU_07-%C2%A9Blokaus808-680x680.jpg?date=202824" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1788,12 +1676,10 @@ Hélène François / Benjamin Tholozan]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La Vie d’après
-
-Duo Brady]]></title>
+        <title type="html"><![CDATA[La Vie d’après]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/la-vie-dapres-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/la-vie-dapres-25-26/"/>
-        <updated>2025-10-21T16:06:16.965Z</updated>
+        <updated>2025-10-21T16:10:45.910Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/06102236/Duo-Brady-paysage-%C2%A9-Zoe-Cavaro-couleurs-680x680.jpg?date=203139" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1820,12 +1706,10 @@ Duo Brady]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tomber sans bruit
-
-Élise Dabrowski]]></title>
+        <title type="html"><![CDATA[Tomber sans bruit]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/tomber-sans-bruit-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/tomber-sans-bruit-25-26/"/>
-        <updated>2025-10-21T16:06:16.966Z</updated>
+        <updated>2025-10-21T16:10:45.911Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05163120/TSB_VANVES-36-680x680.jpg?date=132826" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1852,12 +1736,10 @@ Duo Brady]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WhatsPop
-
-Aurélien Dumont / Ensemble Cairn]]></title>
+        <title type="html"><![CDATA[WhatsPop]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/whatspop-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/whatspop-25-26/"/>
-        <updated>2025-10-21T16:06:16.967Z</updated>
+        <updated>2025-10-21T16:10:45.912Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05170353/WhatsPop-%C2%A9Emeline-Guemene-7-680x680.jpg?date=123506" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1884,12 +1766,10 @@ Aurélien Dumont / Ensemble Cairn]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les Jeunes de l’Orchestre National de Jazz
-
-Marc Ducret]]></title>
+        <title type="html"><![CDATA[Les Jeunes de l’Orchestre National de Jazz]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/les-jeunes-de-lorchestre-national-de-jazz-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/les-jeunes-de-lorchestre-national-de-jazz-25-26/"/>
-        <updated>2025-10-21T16:06:16.969Z</updated>
+        <updated>2025-10-21T16:10:45.914Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05170433/Marc-Ducret-%C2%A9-Laurent-Poiget-680x680.jpg?date=100640" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1916,12 +1796,10 @@ Marc Ducret]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Howl 2122 + Nout
-
-Laure Catherin / Cie Ladude  + Delphine Joussein / Rafaëlle Rinaudo / Blanche Lafuente]]></title>
+        <title type="html"><![CDATA[Howl 2122 + Nout]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/howl-2122-nout-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/howl-2122-nout-25-26/"/>
-        <updated>2025-10-21T16:06:16.971Z</updated>
+        <updated>2025-10-21T16:10:45.915Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05172803/NOUT-VERTICAL-NOIR-ORANGE-SANS-NOUT-680x680.jpg?date=182334" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1948,12 +1826,10 @@ Laure Catherin / Cie Ladude  + Delphine Joussein / Rafaëlle Rinaudo / Blanche 
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D’amour
-
-Thomas Lebrun / CCN de Tours]]></title>
+        <title type="html"><![CDATA[D’amour]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/damour-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/damour-25-26/"/>
-        <updated>2025-10-21T16:06:16.972Z</updated>
+        <updated>2025-10-21T16:10:45.921Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05174324/IOV20250120_0602-680x680.jpg?date=160380" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1980,12 +1856,10 @@ Thomas Lebrun / CCN de Tours]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Craquage
-
-Marion Mezadorian]]></title>
+        <title type="html"><![CDATA[Craquage]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/craquage-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/craquage-25-26/"/>
-        <updated>2025-10-21T16:06:16.974Z</updated>
+        <updated>2025-10-21T16:10:45.922Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05174519/002-HD-680x680.jpg?date=77510" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2012,12 +1886,10 @@ Marion Mezadorian]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Entrez dans les coulisses du théâtre de Cornouaille
-
-Journées du patrimoine]]></title>
+        <title type="html"><![CDATA[Entrez dans les coulisses du théâtre de Cornouaille]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/entrez-dans-les-coulisses-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/entrez-dans-les-coulisses-25-26/"/>
-        <updated>2025-10-21T16:06:16.975Z</updated>
+        <updated>2025-10-21T16:10:45.923Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/10/04171708/patrimoine-680x675.jpg?date=86301" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2039,12 +1911,10 @@ Complet
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foutue bergerie
-
-Pierre Guillois]]></title>
+        <title type="html"><![CDATA[Foutue bergerie]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/foutue-bergerie-pierre-guillois-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/foutue-bergerie-pierre-guillois-25-26/"/>
-        <updated>2025-10-21T16:06:16.977Z</updated>
+        <updated>2025-10-21T16:10:45.925Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28160750/25-0930-foutue-bergerie-01_C_cie-le-fils-du-grand-reseau-680x680.jpg?date=173514" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2071,12 +1941,10 @@ Pierre Guillois]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foutue bergerie
-
-Pierre Guillois]]></title>
+        <title type="html"><![CDATA[Foutue bergerie]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/foutue-bergerie-pierre-guillois-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/foutue-bergerie-pierre-guillois-25-26/"/>
-        <updated>2025-10-21T16:06:16.978Z</updated>
+        <updated>2025-10-21T16:10:45.926Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28160750/25-0930-foutue-bergerie-01_C_cie-le-fils-du-grand-reseau-680x680.jpg?date=173514" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2106,7 +1974,7 @@ Pierre Guillois]]></title>
         <title type="html"><![CDATA[Walid Ben Selim // ÄKÄ Free Voices of Forest]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/walid-ben-selim-aka-free-voices-of-forest-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/walid-ben-selim-aka-free-voices-of-forest-25-26/"/>
-        <updated>2025-10-21T16:06:16.980Z</updated>
+        <updated>2025-10-21T16:10:45.927Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28160820/25-1004-walid-ben-selim-01_Cak-berlin-680x680.jpg?date=167643" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2130,12 +1998,10 @@ Pierre Guillois]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atelier Chants Yiddish
-
-Avec Nora Bisele]]></title>
+        <title type="html"><![CDATA[Atelier Chants Yiddish]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/atelier-chants-yiddish-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/atelier-chants-yiddish-25-26/"/>
-        <updated>2025-10-21T16:06:16.981Z</updated>
+        <updated>2025-10-21T16:10:45.929Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/28165138/25-1007-nora-bisele-03_C_florence-sagory-680x680.jpg?date=276941" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2154,12 +2020,10 @@ Avec Nora Bisele]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Habiter le monde en paysan
-
-Charles Stépanoff]]></title>
+        <title type="html"><![CDATA[Habiter le monde en paysan]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/conference-charles-stepanoff-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/conference-charles-stepanoff-25-26/"/>
-        <updated>2025-10-21T16:06:16.982Z</updated>
+        <updated>2025-10-21T16:10:45.930Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28160907/25-1006-charles-stepanoff-01_C_emmanuelle-marchadour-680x680.jpg?date=135269" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2178,12 +2042,10 @@ Charles Stépanoff]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aylulu
-
-Nora Bisele]]></title>
+        <title type="html"><![CDATA[Aylulu]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/aylulu-nora-bisele-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/aylulu-nora-bisele-25-26/"/>
-        <updated>2025-10-21T16:06:16.985Z</updated>
+        <updated>2025-10-21T16:10:45.932Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28160936/25-1007-nora-bisele-02_C_florence-sagory-680x680.jpg?date=179566" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2210,12 +2072,10 @@ Nora Bisele]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blind test musical
-
-Les instruments de musique]]></title>
+        <title type="html"><![CDATA[Blind test musical]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/blind-test-musical-01-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/blind-test-musical-01-25-26/"/>
-        <updated>2025-10-21T16:06:16.987Z</updated>
+        <updated>2025-10-21T16:10:45.933Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/28164521/25-1009-blind-test-680x680.jpg?date=172817" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2234,12 +2094,10 @@ Les instruments de musique]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orchestre National de Bretagne
-
-Fanny et Felix Mendelssohn / Golfam Khayam]]></title>
+        <title type="html"><![CDATA[Orchestre National de Bretagne]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/orchestre-national-de-bretagne-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/orchestre-national-de-bretagne-25-26/"/>
-        <updated>2025-10-21T16:06:16.988Z</updated>
+        <updated>2025-10-21T16:10:45.936Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/02180329/Orchestre-National-de-Bretagne-%C2%A9Laurent-Guizard-131-680x680.jpg?date=109514" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -2266,12 +2124,10 @@ Fanny et Felix Mendelssohn / Golfam Khayam]]></title>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marie Stuart
-
-Schiller / Chloé Dabert]]></title>
+        <title type="html"><![CDATA[Marie Stuart]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/marie-stuart-schiller-chloe-dabert-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/marie-stuart-schiller-chloe-dabert-25-26/"/>
-        <updated>2025-10-21T16:06:16.989Z</updated>
+        <updated>2025-10-21T16:10:45.938Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/10/07095852/25-1015-marie-stuart-06_C_marie-liebig-680x680.jpg?date=112659" alt="" class="w-full h-auto bg-primary">
 </picture>
