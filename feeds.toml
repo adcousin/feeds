@@ -5,9 +5,18 @@ entrySelector = "#mp-dyk > ul li"
 titleSelector = "b"
 linkSelector = "b a"
 
-[thcornouaille]
-title = "Th^ Corn"
-url = "https://www.theatre-cornouaille.fr/agenda/"
-entrySelector = ".card"
-titleSelector = "h3.title"
+# [thcornouaille]
+# title = "Th^ Corn"
+# url = "https://www.theatre-cornouaille.fr/agenda/"
+# entrySelector = ".card"
+# titleSelector = "h3.title"
+# linkSelector = "a.global_url"
+# contentSelector = ".subtitle"
+
+[bouffenord]
+title = "Th^ Bouffe Nord"
+url = "https://www.bouffesdunord.com/fr/la-saison"
+entrySelector = "div.content.theater div"
 linkSelector = "a"
+titleSelector = "a h2"
+contentSelector = "a p"
