@@ -16,10 +16,10 @@ linkSelector = "b a"
 [bouffenord]
 title = "Th^ Bouffe Nord"
 url = "https://www.bouffesdunord.com/fr/la-saison"
-entrySelector = "div.content.theater div"
+entrySelector = "div.content.theater > div"
 linkSelector = "a"
 titleSelector = "a h2"
-contentSelector = "a p:nth-of-type(2)"
+contentSelector = ["a p:first-of-type", "a p:nth-of-type(2)"]
 dateSelector = "a p:first-of-type"
 
 [archipelfouesnant]
@@ -28,4 +28,4 @@ url = "https://archipel.ville-fouesnant.fr/agenda-culturel/"
 entrySelector = ".grid-item"
 linkSelector = "a"
 titleSelector = ".contenu a h3"
-contentSelector = ".contenu a h4"
+contentSelector = ".contenu"
