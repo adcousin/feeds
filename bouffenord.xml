@@ -1,276 +1,214 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://adcousin.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2025-10-21T14:32:55.527Z</updated>
+    <id>https://www.bouffesdunord.com/fr/la-saison</id>
+    <title>Th^ Bouffe Nord</title>
+    <updated>2025-10-21T14:32:55.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.bouffesdunord.com/bundles/lehubagencebdn/images/favicon/android-icon-192x192.png?v5</icon>
     <entry>
-        <title type="html"><![CDATA[Panka Pelishek (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Panka_Pelishek</id>
-        <link href="https://en.wikipedia.org/wiki/Panka_Pelishek"/>
-        <updated>2025-10-21T14:12:59.211Z</updated>
-        <content type="html"><![CDATA[... that the pianist <b><a href="/wiki/Panka_Pelishek" title="Panka Pelishek">Panka Pelishek</a></b> <i>(pictured)</i> was a Heroine of Socialist Labor?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a British school inspired by a circus tent (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Burnham_Copse_Infant_School</id>
-        <link href="https://en.wikipedia.org/wiki/Burnham_Copse_Infant_School"/>
-        <updated>2025-10-21T14:12:59.213Z</updated>
-        <content type="html"><![CDATA[... that while <b><a href="/wiki/Burnham_Copse_Infant_School" title="Burnham Copse Infant School">a British school inspired by a circus tent</a></b> was described as "eclectic and witty", its "plain functional" replacement won an <a href="/wiki/Royal_Institute_of_British_Architects#RIBA_Awards" title="Royal Institute of British Architects">RIBA Award</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triệu Quân Sự (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Tri%E1%BB%87u_Qu%C3%A2n_S%E1%BB%B1</id>
-        <link href="https://en.wikipedia.org/wiki/Tri%E1%BB%87u_Qu%C3%A2n_S%E1%BB%B1"/>
-        <updated>2025-10-21T14:12:59.215Z</updated>
-        <content type="html"><![CDATA[... that Vietnamese prisoner <b><a href="/wiki/Tri%E1%BB%87u_Qu%C3%A2n_S%E1%BB%B1" title="Triệu Quân Sự">Triệu Quân Sự</a></b> escaped from jail four times, and was twice caught while playing online games at internet cafés?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29 BC Yellow River flood (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/29_BC_Yellow_River_flood</id>
-        <link href="https://en.wikipedia.org/wiki/29_BC_Yellow_River_flood"/>
-        <updated>2025-10-21T14:12:59.219Z</updated>
-        <content type="html"><![CDATA[... that China's imperial chancellor killed himself after he was blamed for the devastation of the&nbsp;<b><a href="/wiki/29_BC_Yellow_River_flood" title="29 BC Yellow River flood">29&nbsp;BC Yellow River flood</a></b>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruth El Saffar (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Ruth_El_Saffar</id>
-        <link href="https://en.wikipedia.org/wiki/Ruth_El_Saffar"/>
-        <updated>2025-10-21T14:12:59.221Z</updated>
-        <content type="html"><![CDATA[... that a hospitalized <b><a href="/wiki/Ruth_El_Saffar" title="Ruth El Saffar">Ruth El Saffar</a></b> had to dictate the introduction of <b><a href="/wiki/Rapture_Encaged" title="Rapture Encaged">her final book</a></b> to <b><a href="/wiki/Diana_de_Armas_Wilson" title="Diana de Armas Wilson">Diana de Armas Wilson</a></b>, with whom she had co-edited <i><b><a href="/wiki/Quixotic_Desire" title="Quixotic Desire">Quixotic Desire</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a public service announcement about drunk driving (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Ghost_Chips</id>
-        <link href="https://en.wikipedia.org/wiki/Ghost_Chips"/>
-        <updated>2025-10-21T14:12:59.222Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Ghost_Chips" title="Ghost Chips">a public service announcement about drunk driving</a></b> was voted the best television advertisement in New Zealand?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denise Stoklos (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Denise_Stoklos</id>
-        <link href="https://en.wikipedia.org/wiki/Denise_Stoklos"/>
-        <updated>2025-10-21T14:12:59.224Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Denise_Stoklos" title="Denise Stoklos">Denise Stoklos</a></b><span class="nowrap">'s</span> "essential theatre" involves minimizing her acting methods while maximizing "the power of drama"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donald Trump applies his own makeup (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Makeup_of_Donald_Trump</id>
-        <link href="https://en.wikipedia.org/wiki/Makeup_of_Donald_Trump"/>
-        <updated>2025-10-21T14:12:59.227Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Makeup_of_Donald_Trump" title="Makeup of Donald Trump">Donald Trump applies his own makeup</a></b> each day, according to <a href="/wiki/Stephanie_Grisham" title="Stephanie Grisham">his former press secretary</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spencer Reid (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Spencer_Reid_(American_football)</id>
-        <link href="https://en.wikipedia.org/wiki/Spencer_Reid_(American_football)"/>
-        <updated>2025-10-21T14:12:59.229Z</updated>
-        <content type="html"><![CDATA[... that where NFL player <b><a href="/wiki/Spencer_Reid_(American_football)" title="Spencer Reid (American football)">Spencer Reid</a></b> is from, "There's no McDonald's. There's no nothing"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chœur des amants (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Chœur des amants]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/choeur-des-amants</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/choeur-des-amants"/>
         <updated>2025-10-21T14:32:54.623Z</updated>
         <content type="html"><![CDATA[Du 23 au 27 septembre 2025]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/choeur-des-amants</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/choeur-des-amants"/>
         <updated>2025-10-21T14:32:54.490Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/choeur-des-amants" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/choeur-des-amants-2" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voir clair avec Monique Wittig (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Voir clair avec Monique Wittig]]></title>
         <id>https://www.bouffesdunord.com/frvoir-clair-avec-monique-wittig</id>
         <link href="https://www.bouffesdunord.com/frvoir-clair-avec-monique-wittig"/>
         <updated>2025-10-21T14:32:54.624Z</updated>
         <content type="html"><![CDATA[Du 8 au 12 octobre 2025]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://billetterie-bouffesdunord.tickandlive.com/evenement/voir-clair-avec-monique-wittig</id>
         <link href="https://billetterie-bouffesdunord.tickandlive.com/evenement/voir-clair-avec-monique-wittig"/>
         <updated>2025-10-21T14:32:54.493Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/voir-clair-avec-monique-wittig" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Winterreise (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Winterreise]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/winterreise</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/winterreise"/>
         <updated>2025-10-21T14:32:54.626Z</updated>
         <content type="html"><![CDATA[Du 18 au 23 novembre 2025]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/winterreise</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/winterreise"/>
         <updated>2025-10-21T14:32:54.498Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/winterreise" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/winterreise" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lettres non-écrites (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Lettres non-écrites]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites"/>
         <updated>2025-10-21T14:32:54.631Z</updated>
         <content type="html"><![CDATA[Du 25 septembre 2025 au 13 mai 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites"/>
         <updated>2025-10-21T14:32:54.498Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/lettres-non-ecrites" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/lettres-non-ecrites-1" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nous, les héros (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Nous, les héros]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/nous-les-heros</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/nous-les-heros"/>
         <updated>2025-10-21T14:32:54.637Z</updated>
         <content type="html"><![CDATA[Du 16 octobre au 1<sup>er</sup> novembre 2025]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/nous-les-heros</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/nous-les-heros"/>
         <updated>2025-10-21T14:32:54.499Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/nous-les-heros" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/nous-les-heros" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lack (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Lack]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/lack</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/lack"/>
         <updated>2025-10-21T14:32:54.637Z</updated>
         <content type="html"><![CDATA[Du 13 au 16 novembre 2025]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[11]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/lack</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/lack"/>
         <updated>2025-10-21T14:32:54.501Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/lack" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/talents-adami" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La Mouche (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[La Mouche]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/la-mouche</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/la-mouche"/>
         <updated>2025-10-21T14:32:54.654Z</updated>
         <content type="html"><![CDATA[Du 4 au 20 décembre 2025]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[13]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/la-mouche</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/la-mouche"/>
         <updated>2025-10-21T14:32:54.501Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/la-mouche" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/la-mouche-1" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le Petit cirque (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Le Petit cirque]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque"/>
         <updated>2025-10-21T14:32:54.654Z</updated>
         <content type="html"><![CDATA[Du 26 décembre 2025 au 4 janvier 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[15]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque"/>
         <updated>2025-10-21T14:32:54.502Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/le-petit-cirque" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/le-petit-cirque" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chiens (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Chiens]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/chiens</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/chiens"/>
         <updated>2025-10-21T14:32:54.654Z</updated>
         <content type="html"><![CDATA[Du 29 janvier au 14 février 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[17]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/chiens</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/chiens"/>
         <updated>2025-10-21T14:32:54.503Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/chiens" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/chiens" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ma maison est noire (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Ma maison est noire]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/ma-maison-est-noire</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/ma-maison-est-noire"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[Du 20 février au 1<sup>er</sup> mars 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/ma-maison-est-noire</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/ma-maison-est-noire"/>
         <updated>2025-10-21T14:32:54.505Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/ma-maison-est-noire" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/la-maison-est-noire" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NIQUER LA FATALITÉ (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[NIQUER LA FATALITÉ]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/niquer-la-fatalite</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/niquer-la-fatalite"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[Du 2 au 11 avril 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/niquer-la-fatalite</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/niquer-la-fatalite"/>
         <updated>2025-10-21T14:32:54.505Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/niquer-la-fatalite" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/niquer-la-fatalite" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le Procès de Jeanne (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Le Procès de Jeanne]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-proces-de-jeanne</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-proces-de-jeanne"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[Du 14 au 29 avril 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[23]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-proces-de-jeanne</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-proces-de-jeanne"/>
         <updated>2025-10-21T14:32:54.506Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/le-proces-de-jeanne" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/le-proces-de-jeanne-1" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quelle journée ! (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Quelle journée !]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/quelle-journee</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/quelle-journee"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
         <content type="html"><![CDATA[Jeudi 7 mai 2026 à 20h]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[25]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/quelle-journee</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/quelle-journee"/>
         <updated>2025-10-21T14:32:54.515Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/quelle-journee" class="read_more"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le Petit Prince (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[Le Petit Prince]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-prince</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-prince"/>
         <updated>2025-10-21T14:32:54.655Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[27]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-prince</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-prince"/>
         <updated>2025-10-21T14:32:54.515Z</updated>
         <content type="html"><![CDATA[<a href="/fr/la-saison/le-petit-prince" class="read_more"></a>                    <a href="https://billetterie-bouffesdunord.tickandlive.com/evenement/le-petit-prince" class="single_event_ticket " target="_blank"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I will survive (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[I will survive]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/i-will-survive</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/i-will-survive"/>
         <updated>2025-10-21T14:32:54.661Z</updated>
         <content type="html"><![CDATA[Du 29 mai au 27 juin 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Th^ Bouffe Nord)]]></title>
+        <title type="html"><![CDATA[29]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/i-will-survive</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/i-will-survive"/>
         <updated>2025-10-21T14:32:54.539Z</updated>
