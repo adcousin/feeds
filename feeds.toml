@@ -5,14 +5,6 @@ entrySelector = "#mp-dyk > ul li"
 titleSelector = "b"
 linkSelector = "b a"
 
-# [thcornouaille]
-# title = "Th^ Corn"
-# url = "https://www.theatre-cornouaille.fr/agenda/"
-# entrySelector = ".card"
-# titleSelector = "h3.title"
-# linkSelector = "a.global_url"
-# contentSelector = ".subtitle"
-
 [bouffenord]
 title = "Th^ Bouffe Nord"
 url = "https://www.bouffesdunord.com/fr/la-saison"
@@ -28,4 +20,14 @@ url = "https://archipel.ville-fouesnant.fr/agenda-culturel/"
 entrySelector = ".grid-item"
 linkSelector = "a"
 titleSelector = ".contenu a h3"
-contentSelector = ".contenu"
+contentSelector = [".entete", .contenu"]
+
+[thcornouaille]
+title = "Th^ Corn"
+url = "https://www.theatre-cornouaille.fr/agenda/"
+entrySelector = ".card"
+titleSelector = "h3.title"
+linkSelector = "a.global_url"
+contentSelector = ".card-infos"
+waitUntil = "load"
+onFail = "stale"
