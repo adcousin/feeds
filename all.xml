@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adcousin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-22T04:15:40.196Z</updated>
+    <updated>2025-10-22T16:16:09.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sarah Fischer (Wiki - Did u know)]]></title>
@@ -23,7 +23,7 @@
         <id>https://en.wikipedia.org/wiki/Dorothy_Sproule</id>
         <link href="https://en.wikipedia.org/wiki/Dorothy_Sproule"/>
         <updated>2025-10-22T04:15:07.253Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Dorothy_Sproule" title="Dorothy Sproule">Dorothy Sproule</a></b> received letters from five <a href="/wiki/List_of_British_monarchs" title="List of British monarchs">British monarchs</a>, earning her the title "Canadian Poet-Laureate to Royalty"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Dorothy_Sproule" title="Dorothy Sproule">Dorothy Sproule</a></b> received letters from five <a href="/wiki/List_of_British_monarchs" title="List of British monarchs">British monarchs</a>, earning her the epithet "Canadian Poet-Laureate to Royalty"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jiaoyu zazhi (Wiki - Did u know)]]></title>
@@ -4079,6 +4079,33 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marie Berardy et Julien Stella (Th^ Corn)]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/marie-berardy-et-hulien-stella-a-lubo-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/marie-berardy-et-hulien-stella-a-lubo-25-26/"/>
+        <updated>2025-10-22T16:16:00.780Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/10/22103246/25-1110-ubo-marie-berardy-680x680.jpg?date=87262" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Impromptu</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
+ <p> Musique </p> 
+&nbsp;/&nbsp;
+ <p> Chanson - Chant </p> 
+</div>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">LU <span class="bold">10</span>  12:30 
+
+</p>
+<p class="hidden md:block bold lieu">Pôle Universitaire de Quimper Pierre-Jakez Hélias</p>
+
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quand la culture populaire nous rend meilleurs (Th^ Corn)]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/conference-sandra-laugier-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/conference-sandra-laugier-25-26/"/>
@@ -6220,6 +6247,33 @@ Complet
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marie Berardy et Julien Stella (Th^ Corn)]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/marie-berardy-et-hulien-stella-a-lubo-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/marie-berardy-et-hulien-stella-a-lubo-25-26/"/>
+        <updated>2025-10-22T16:16:08.466Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/10/22103246/25-1110-ubo-marie-berardy-680x680.jpg?date=87262" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Impromptu</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
+ <p> Musique </p> 
+&nbsp;/&nbsp;
+ <p> Chanson - Chant </p> 
+</div>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">LU <span class="bold">10</span>  12:30 
+
+</p>
+<p class="hidden md:block bold lieu">Pôle Universitaire de Quimper Pierre-Jakez Hélias</p>
+
 </div>
 </div>]]></content>
     </entry>
