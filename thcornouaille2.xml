@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-10-21T16:17:35.408Z</updated>
+    <updated>2025-10-22T04:15:40.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -383,7 +383,7 @@
         <title type="html"><![CDATA[Exposition musée des Beaux-Arts]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/"/>
-        <updated>2025-10-21T16:17:34.625Z</updated>
+        <updated>2025-10-21T16:17:34.613Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/11141420/Delavallee_batteuses-ble-680x680.jpg?date=139998" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -958,7 +958,7 @@
         <title type="html"><![CDATA[KA-IN]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/ka-in-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/ka-in-25-26/"/>
-        <updated>2025-10-21T16:17:34.662Z</updated>
+        <updated>2025-10-21T16:17:34.661Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151154/26-0129-ka-in-28_C_pierre-planchenault-680x680.jpg?date=103201" alt="" class="w-full h-auto bg-primary">
 </picture>
@@ -1944,7 +1944,7 @@ Complet
         <title type="html"><![CDATA[Foutue bergerie]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/foutue-bergerie-pierre-guillois-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/foutue-bergerie-pierre-guillois-25-26/"/>
-        <updated>2025-10-21T16:17:34.725Z</updated>
+        <updated>2025-10-21T16:17:34.724Z</updated>
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/05/28160750/25-0930-foutue-bergerie-01_C_cie-le-fils-du-grand-reseau-680x680.jpg?date=173514" alt="" class="w-full h-auto bg-primary">
 </picture>
