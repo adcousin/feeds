@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bouffesdunord.com/fr/la-saison</id>
     <title>Th^ Bouffe Nord</title>
-    <updated>2025-11-01T16:11:15.409Z</updated>
+    <updated>2025-11-02T04:16:38.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bouffesdunord.com/bundles/lehubagencebdn/images/favicon/android-icon-192x192.png?v5</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[Du 8 au 12 octobre 2025 DameChevaliers • Caro Geryl • Adèle Haenel]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nous, les héros]]></title>
+        <id>https://www.bouffesdunord.com/fr/la-saison/nous-les-heros</id>
+        <link href="https://www.bouffesdunord.com/fr/la-saison/nous-les-heros"/>
+        <updated>2025-10-21T14:32:54.637Z</updated>
+        <content type="html"><![CDATA[Du 16 octobre au 1er novembre 2025 Jean-Luc Lagarce • Clément Hervieu-Léger]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Winterreise]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/winterreise</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/winterreise"/>
@@ -32,13 +39,6 @@
         <link href="https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites"/>
         <updated>2025-10-21T14:32:54.631Z</updated>
         <content type="html"><![CDATA[Du 25 septembre 2025 au 13 mai 2026 David Geselson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nous, les héros]]></title>
-        <id>https://www.bouffesdunord.com/fr/la-saison/nous-les-heros</id>
-        <link href="https://www.bouffesdunord.com/fr/la-saison/nous-les-heros"/>
-        <updated>2025-10-21T14:32:54.637Z</updated>
-        <content type="html"><![CDATA[Du 16 octobre au 1er novembre 2025 Jean-Luc Lagarce • Clément Hervieu-Léger]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lack]]></title>
