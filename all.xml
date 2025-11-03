@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adcousin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-03T04:20:16.221Z</updated>
+    <updated>2025-11-03T16:15:56.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[a 13th-century wooden sculpture (Wiki - Did u know)]]></title>
         <id>https://en.wikipedia.org/wiki/Seated_R%C4%81gar%C4%81ja_(Nara_National_Museum)</id>
         <link href="https://en.wikipedia.org/wiki/Seated_R%C4%81gar%C4%81ja_(Nara_National_Museum)"/>
         <updated>2025-11-03T04:19:39.314Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Seated_R%C4%81gar%C4%81ja_(Nara_National_Museum)" title="Seated Rāgarāja (Nara National Museum)">a 13th-century wooden sculpture</a></b> <i>(pictured)</i> of the bodhisattva <a href="/wiki/R%C4%81gar%C4%81ja" title="Rāgarāja">Rāgarāja</a> was carved from the debris of the Great Buddha Hall at <a href="/wiki/T%C5%8Ddai-ji" title="Tōdai-ji">Tōdai-ji</a> in Nara, Japan?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Seated_R%C4%81gar%C4%81ja_(Nara_National_Museum)" title="Seated Rāgarāja (Nara National Museum)">a 13th-century wooden sculpture</a></b> <i>(pictured)</i> of <a href="/wiki/R%C4%81gar%C4%81ja" title="Rāgarāja">Rāgarāja</a> was carved from the debris of the Great Buddha Hall at <a href="/wiki/T%C5%8Ddai-ji" title="Tōdai-ji">Tōdai-ji</a> in Nara, Japan?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Habib Mousa (Wiki - Did u know)]]></title>
@@ -26,11 +26,11 @@
         <content type="html"><![CDATA[... that the leading engineer during the <b><a href="/wiki/Capture_of_Li%C3%A8ge_(1702)" title="Capture of Liège (1702)">1702 siege of Liège</a></b> was so angered by a colleague's disobedience that he threatened to abandon the siege?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Far Better Thing (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/A_Far_Better_Thing</id>
-        <link href="https://en.wikipedia.org/wiki/A_Far_Better_Thing"/>
-        <updated>2025-11-03T04:19:39.321Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/A_Far_Better_Thing" title="A Far Better Thing">A Far Better Thing</a></b></i> is a retelling of Charles Dickens's <i><a href="/wiki/A_Tale_of_Two_Cities" title="A Tale of Two Cities">A Tale of Two Cities</a></i> with fairy changelings?]]></content>
+        <title type="html"><![CDATA[Antirrhinum barrelieri (Wiki - Did u know)]]></title>
+        <id>https://en.wikipedia.org/wiki/Antirrhinum_barrelieri</id>
+        <link href="https://en.wikipedia.org/wiki/Antirrhinum_barrelieri"/>
+        <updated>2025-11-03T04:19:39.328Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Antirrhinum_barrelieri" title="Antirrhinum barrelieri">Antirrhinum barrelieri</a></b></i> was split into two species in 1896, the other being <i><b><a href="/wiki/Antirrhinum_controversum" title="Antirrhinum controversum">Antirrhinum controversum</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Soebekti Soenarto (Wiki - Did u know)]]></title>
@@ -54,18 +54,11 @@
         <content type="html"><![CDATA[... that actor <b><a href="/wiki/Rory_Gibson" title="Rory Gibson">Rory Gibson</a></b> was cast on <i><a href="/wiki/The_Young_and_the_Restless" title="The Young and the Restless">The Young and the Restless</a></i> despite the producers not liking his initial self-tape?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Antirrhinum barrelieri (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Antirrhinum_barrelieri</id>
-        <link href="https://en.wikipedia.org/wiki/Antirrhinum_barrelieri"/>
-        <updated>2025-11-03T04:19:39.328Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Antirrhinum_barrelieri" title="Antirrhinum barrelieri">Antirrhinum barrelieri</a></b></i> was split into two species in 1896, the other being <i><b><a href="/wiki/Antirrhinum_controversum" title="Antirrhinum controversum">Antirrhinum controversum</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robert Uzgalis (Wiki - Did u know)]]></title>
-        <id>https://en.wikipedia.org/wiki/Robert_Uzgalis</id>
-        <link href="https://en.wikipedia.org/wiki/Robert_Uzgalis"/>
-        <updated>2025-11-03T04:19:39.330Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Robert_Uzgalis" title="Robert Uzgalis">Robert Uzgalis</a></b> made the Leaning Tower of Pisa straight?]]></content>
+        <title type="html"><![CDATA[A Far Better Thing (Wiki - Did u know)]]></title>
+        <id>https://en.wikipedia.org/wiki/A_Far_Better_Thing</id>
+        <link href="https://en.wikipedia.org/wiki/A_Far_Better_Thing"/>
+        <updated>2025-11-03T04:19:39.321Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/A_Far_Better_Thing" title="A Far Better Thing">A Far Better Thing</a></b></i> is a retelling of Charles Dickens's <i><a href="/wiki/A_Tale_of_Two_Cities" title="A Tale of Two Cities">A Tale of Two Cities</a></i> with fairy changelings?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chœur des amants (Th^ Bouffe Nord)]]></title>
@@ -482,6 +475,28 @@
 												Voir]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Moment musical : flûte et saxophone (Archipel Fouesnant)]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-flute-et-saxophone/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-flute-et-saxophone/"/>
+        <updated>2025-11-03T16:13:52.650Z</updated>
+        <content type="html"><![CDATA[mercredi 12 novembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : flûte et saxophone
+
+										
+										Classes de Laurence Hekster et Yannick Cognet
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bébé-musiciens #3 (Archipel Fouesnant)]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-3/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-3/"/>
@@ -774,6 +789,28 @@
 
 										
 										Hamit Bozarslan
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : clavecin (Archipel Fouesnant)]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-clavecin/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-clavecin/"/>
+        <updated>2025-11-03T16:13:52.676Z</updated>
+        <content type="html"><![CDATA[mardi 25 novembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : clavecin
+
+										
+										Classe de Jérôme Brodin 
 
 										
 										
@@ -1157,6 +1194,28 @@
 												Voir]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Moment musical : percussions (Archipel Fouesnant)]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-percussions/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-percussions/"/>
+        <updated>2025-11-03T16:13:52.699Z</updated>
+        <content type="html"><![CDATA[lundi 8 décembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : percussions
+
+										
+										Classe de Florent Bigoin
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Le saz (Archipel Fouesnant)]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/le-saz/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/le-saz/"/>
@@ -1172,6 +1231,72 @@
 
 										
 										Ali Topcuoglu
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : piano (Archipel Fouesnant)]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-piano/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-piano/"/>
+        <updated>2025-11-03T16:13:52.701Z</updated>
+        <content type="html"><![CDATA[mercredi 10 décembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : piano
+
+										
+										Classe d'Émilie Fichter
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : Chant (Archipel Fouesnant)]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-chant/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-chant/"/>
+        <updated>2025-11-03T16:13:52.703Z</updated>
+        <content type="html"><![CDATA[mercredi 10 décembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : Chant
+
+										
+										Classe de Pierre-Emmanuel Clair
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : saxophone (Archipel Fouesnant)]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-saxophone/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-saxophone/"/>
+        <updated>2025-11-03T16:13:52.705Z</updated>
+        <content type="html"><![CDATA[mercredi 10 décembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : saxophone
+
+										
+										Classe de Yannick Cognet
 
 										
 										
@@ -1381,6 +1506,50 @@
 											
 																							
 													Réserver]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : piano (Archipel Fouesnant)]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-piano-2/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-piano-2/"/>
+        <updated>2025-11-03T16:13:52.715Z</updated>
+        <content type="html"><![CDATA[mercredi 17 décembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : piano
+
+										
+										Classe d'Arnaud Tessier
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : violon (Archipel Fouesnant)]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-violon/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-violon/"/>
+        <updated>2025-11-03T16:13:52.717Z</updated>
+        <content type="html"><![CDATA[mercredi 17 décembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : violon
+
+										
+										Classe d'Antonina Koslova
+
+										
+										
+											
+												Voir]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[La boîte à histoire #2 (Archipel Fouesnant)]]></title>
