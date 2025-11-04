@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-11-04T04:15:19.828Z</updated>
+    <updated>2025-11-04T16:16:30.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -593,7 +593,7 @@
         <link href="https://www.theatre-cornouaille.fr/projects/cendrillon-pauline-viardot-bianca-chillemi-david-lescot-25-26/"/>
         <updated>2025-10-21T16:15:22.817Z</updated>
         <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/21180143/25-1217-cendrillon-03_Laurent-Guizard-680x680.jpg?date=169836" alt="" class="w-full h-auto bg-primary">
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/04124615/25-1217-cendrillon-02_raynaud-de-lage-680x680.jpg?date=135071" alt="" class="w-full h-auto bg-primary">
 </picture>
 <div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
   
@@ -1920,9 +1920,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Théâtre </p>&nbsp;/&nbsp;<p> Humour </p> 
 
@@ -1933,7 +1930,7 @@ Complet
  &gt; JE <span class="bold">02</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -1950,9 +1947,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Théâtre </p>&nbsp;/&nbsp;<p> Humour </p> 
 
@@ -1963,7 +1957,7 @@ Complet
  &gt; JE <span class="bold">02</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -2051,9 +2045,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Musique </p> 
 &nbsp;/&nbsp;
@@ -2064,7 +2055,7 @@ Complet
  &gt; MA <span class="bold">14</span> 
 </p>
 <p class="hidden md:block bold lieu">Divers lieux</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -2103,9 +2094,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Musique </p> 
 &nbsp;/&nbsp;
@@ -2116,7 +2104,7 @@ Complet
 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -2160,9 +2148,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Danse </p> 
 
@@ -2173,7 +2158,7 @@ Complet
  &gt; ME <span class="bold">22</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
