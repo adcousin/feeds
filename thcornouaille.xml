@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-11-06T16:14:37.623Z</updated>
+    <updated>2025-11-07T04:14:01.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -24,96 +24,6 @@
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
 
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bastard]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/bastard-krismenn-teatr-piba-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/bastard-krismenn-teatr-piba-25-26/"/>
-        <updated>2025-10-21T16:15:22.791Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/10/23101533/25-1104-bastard-11_C_sebastien-durand-680x680.jpg?date=237956" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Musique </p> 
-&nbsp;/&nbsp;
- <p> Chanson - Chant </p> 
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">MA <span class="bold">04</span> 
- &gt; JE <span class="bold">06</span> 
-</p>
-<p class="hidden md:block bold lieu">Le Terrain Blanc - MPT de Penhars</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En addicto]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/en-addicto-thomas-quillardet-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/en-addicto-thomas-quillardet-25-26/"/>
-        <updated>2025-10-21T16:15:22.792Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03145843/25-1105-addicto-06_C_melina-vernant-680x680.jpg?date=26040" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Théâtre </p> 
-
-  
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">ME <span class="bold">05</span> 
- &gt; JE <span class="bold">06</span> 
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille - L'Atelier</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orphée et Eurydice]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/orphee-et-eurydice-gluck-otman-louati-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/orphee-et-eurydice-gluck-otman-louati-25-26/"/>
-        <updated>2025-10-21T16:15:22.792Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03145851/25-1105-orphee-eurydice-01_C_clemence-demesme-680x680.jpg?date=121085" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Opéra </p> 
-
-  
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">ME <span class="bold">05</span> 
- &gt; JE <span class="bold">06</span> 
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
     </entry>
@@ -2159,6 +2069,96 @@ Complet
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bastard]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/bastard-krismenn-teatr-piba-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/bastard-krismenn-teatr-piba-25-26/"/>
+        <updated>2025-10-21T16:15:22.791Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/10/23101533/25-1104-bastard-11_C_sebastien-durand-680x680.jpg?date=237956" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+   
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
+<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
+ <p> Musique </p> 
+&nbsp;/&nbsp;
+ <p> Chanson - Chant </p> 
+</div>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">MA <span class="bold">04</span> 
+ &gt; JE <span class="bold">06</span> 
+</p>
+<p class="hidden md:block bold lieu">Le Terrain Blanc - MPT de Penhars</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En addicto]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/en-addicto-thomas-quillardet-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/en-addicto-thomas-quillardet-25-26/"/>
+        <updated>2025-10-21T16:15:22.792Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03145843/25-1105-addicto-06_C_melina-vernant-680x680.jpg?date=26040" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+   
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
+<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
+ <p> Théâtre </p> 
+
+  
+</div>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">ME <span class="bold">05</span> 
+ &gt; JE <span class="bold">06</span> 
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille - L'Atelier</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orphée et Eurydice]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/orphee-et-eurydice-gluck-otman-louati-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/orphee-et-eurydice-gluck-otman-louati-25-26/"/>
+        <updated>2025-10-21T16:15:22.792Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03145851/25-1105-orphee-eurydice-01_C_clemence-demesme-680x680.jpg?date=121085" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+   
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
+<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
+ <p> Opéra </p> 
+
+  
+</div>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">ME <span class="bold">05</span> 
+ &gt; JE <span class="bold">06</span> 
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
     </entry>
