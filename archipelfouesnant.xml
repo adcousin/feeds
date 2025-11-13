@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-11-13T04:17:24.734Z</updated>
+    <updated>2025-11-13T16:14:49.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -824,28 +824,6 @@
 												Voir]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moment musical : saxophone]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-saxophone/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-saxophone/"/>
-        <updated>2025-11-03T16:13:52.705Z</updated>
-        <content type="html"><![CDATA[mercredi 10 décembre 2025 
-															
-														
-														
-																												
-
-													
-													  Moment musical Moment musical : saxophone
-
-										
-										Classe de Yannick Cognet
-
-										
-										
-											
-												Voir]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ruşan Filiztek]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/rusan-filiztek/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/rusan-filiztek/"/>
@@ -1070,6 +1048,28 @@
 											
 																							
 													Réserver]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : saxophone]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-saxophone/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-saxophone/"/>
+        <updated>2025-11-03T16:13:52.705Z</updated>
+        <content type="html"><![CDATA[mardi 16 décembre 2025 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : saxophone
+
+										
+										Classe de Yannick Cognet
+
+										
+										
+											
+												Voir]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moment musical : piano]]></title>
