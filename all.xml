@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adcousin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-16T04:17:53.701Z</updated>
+    <updated>2025-11-16T16:11:12.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Boghead (Wiki - Did u know)]]></title>
@@ -16,7 +16,7 @@
         <id>https://en.wikipedia.org/wiki/Adolf_Real</id>
         <link href="https://en.wikipedia.org/wiki/Adolf_Real"/>
         <updated>2025-11-16T04:17:24.784Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Adolf_Real" title="Adolf Real">Adolf Real</a></b> declined re-election as Mayor of Vaduz in 1900?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Adolf_Real" title="Adolf Real">Adolf Real</a></b> was re-elected as mayor of Vaduz in 1900, but he refused to take the office?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Velký vlastenecký výlet (Wiki - Did u know)]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[Du 16 octobre au 1er novembre 2025 Jean-Luc Lagarce • Clément Hervieu-Léger]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lack (Th^ Bouffe Nord)]]></title>
+        <id>https://www.bouffesdunord.com/fr/la-saison/lack</id>
+        <link href="https://www.bouffesdunord.com/fr/la-saison/lack"/>
+        <updated>2025-10-21T14:32:54.637Z</updated>
+        <content type="html"><![CDATA[Du 13 au 16 novembre 2025 Talents Adami Théâtre • Lorraine de Sagazan • Guillaume Poix]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Winterreise (Th^ Bouffe Nord)]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/winterreise</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/winterreise"/>
@@ -101,13 +108,6 @@
         <link href="https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites"/>
         <updated>2025-10-21T14:32:54.631Z</updated>
         <content type="html"><![CDATA[Du 25 septembre 2025 au 13 mai 2026 David Geselson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lack (Th^ Bouffe Nord)]]></title>
-        <id>https://www.bouffesdunord.com/fr/la-saison/lack</id>
-        <link href="https://www.bouffesdunord.com/fr/la-saison/lack"/>
-        <updated>2025-10-21T14:32:54.637Z</updated>
-        <content type="html"><![CDATA[Du 13 au 16 novembre 2025 Talents Adami Théâtre • Lorraine de Sagazan • Guillaume Poix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[La Mouche (Th^ Bouffe Nord)]]></title>
