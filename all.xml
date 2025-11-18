@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adcousin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-18T04:14:59.541Z</updated>
+    <updated>2025-11-18T16:14:30.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Teck Lee station (Wiki - Did u know)]]></title>
@@ -5785,15 +5785,12 @@ Complet
  <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Conférence</div>  
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
 <p class="date mr-2">ME <span class="bold">12</span>  19:00 
 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille - L'Atelier</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -5810,9 +5807,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Théâtre </p>&nbsp;/&nbsp;<p> Musique </p> 
 
@@ -5823,7 +5817,7 @@ Complet
  &gt; VE <span class="bold">14</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -7942,15 +7936,12 @@ Complet
  <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Conférence</div>  
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
 <p class="date mr-2">ME <span class="bold">12</span>  19:00 
 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille - L'Atelier</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -7967,9 +7958,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Théâtre </p>&nbsp;/&nbsp;<p> Musique </p> 
 
@@ -7980,7 +7968,7 @@ Complet
  &gt; VE <span class="bold">14</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
