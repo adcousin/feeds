@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adcousin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-20T04:14:06.960Z</updated>
+    <updated>2025-11-20T16:13:49.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Masoud El Amaratly (Wiki - Did u know)]]></title>
@@ -51,7 +51,7 @@
         <id>https://en.wikipedia.org/wiki/Kate_Nambiar</id>
         <link href="https://en.wikipedia.org/wiki/Kate_Nambiar"/>
         <updated>2025-11-20T04:13:31.038Z</updated>
-        <content type="html"><![CDATA[... that in 2023 <b><a href="/wiki/Kate_Nambiar" title="Kate Nambiar">Kate Nambiar</a></b> advised the <i>EastEnders</i> team around HIV treatment options for a storyline?]]></content>
+        <content type="html"><![CDATA[... that in 2023 <b><a href="/wiki/Kate_Nambiar" title="Kate Nambiar">Kate Nambiar</a></b> advised the <i><a href="/wiki/EastEnders" title="EastEnders">EastEnders</a></i> team around HIV treatment options for a storyline?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[identify with no gender (Wiki - Did u know)]]></title>
@@ -987,7 +987,7 @@
 												Voir]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le ballon du petit par la théâtre des « 3 coups de Bénodet » (Archipel Fouesnant)]]></title>
+        <title type="html"><![CDATA[Le ballon du petit par le théâtre des « 3 coups de Bénodet » (Archipel Fouesnant)]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/le-ballon-du-petit-par-la-theatre-des-3-coups-de-benodet/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/le-ballon-du-petit-par-la-theatre-des-3-coups-de-benodet/"/>
         <updated>2025-11-12T16:15:04.896Z</updated>
@@ -998,7 +998,7 @@
 																												
 
 													
-													Accueil de la vie locale Le ballon du petit par la théâtre des « 3 coups de Bénodet »
+													Accueil de la vie locale Le ballon du petit par le théâtre des « 3 coups de Bénodet »
 
 										
 										Accueil de la vie locale
