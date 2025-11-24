@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adcousin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-24T04:26:05.938Z</updated>
+    <updated>2025-11-24T16:12:01.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Emma Finucane (Wiki - Did u know)]]></title>
@@ -217,7 +217,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/la-turquie-legs-du-passe-de-lempire-a-la-republique/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/la-turquie-legs-du-passe-de-lempire-a-la-republique/"/>
         <updated>2025-10-21T14:48:07.400Z</updated>
-        <content type="html"><![CDATA[mardi 25 novembre 2025 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																mardi 25 novembre 2025 
 															
 														
 														
@@ -322,16 +331,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/le-roi-lear-1/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/le-roi-lear-1/"/>
         <updated>2025-10-21T14:48:07.405Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
-											
-
-																							
-													
-													
-														
-																													
-																mardi 2 décembre 2025 
+        <content type="html"><![CDATA[mardi 2 décembre 2025 
 															
 														
 														
@@ -391,7 +391,9 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/club-de-lecture-1/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/club-de-lecture-1/"/>
         <updated>2025-10-21T14:48:07.408Z</updated>
-        <content type="html"><![CDATA[Liste d'attente
+        <content type="html"><![CDATA[complet
+											
+											
 											
 
 																							
@@ -473,7 +475,9 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-5/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-5/"/>
         <updated>2025-10-21T14:48:07.412Z</updated>
-        <content type="html"><![CDATA[Liste d'attente
+        <content type="html"><![CDATA[complet
+											
+											
 											
 
 																							
@@ -503,7 +507,9 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-6/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-6/"/>
         <updated>2025-10-21T14:48:07.413Z</updated>
-        <content type="html"><![CDATA[Liste d'attente
+        <content type="html"><![CDATA[complet
+											
+											
 											
 
 																							
@@ -3625,6 +3631,28 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rencontres paysannes (Th^ Corn)]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/"/>
+        <updated>2025-11-24T16:11:52.809Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/24113336/25-1203-rencontre-paysannes-01-680x680.jpg?date=109680" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Rencontre</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">ME <span class="bold">03</span>  18:30 
+
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille - Espace cabaret</p>
+
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bezperan (Th^ Corn)]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/"/>
@@ -5772,6 +5800,28 @@ Complet
 </p>
 <p class="hidden md:block bold lieu">Le Triskell - Pont-L’Abbé</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rencontres paysannes (Th^ Corn)]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/"/>
+        <updated>2025-11-24T16:12:00.685Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/24113336/25-1203-rencontre-paysannes-01-680x680.jpg?date=109680" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Rencontre</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">ME <span class="bold">03</span>  18:30 
+
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille - Espace cabaret</p>
+
 </div>
 </div>]]></content>
     </entry>

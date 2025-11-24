@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-11-24T04:26:05.920Z</updated>
+    <updated>2025-11-24T16:12:01.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -131,6 +131,28 @@
 </p>
 <p class="hidden md:block bold lieu">Le Triskell - Pont-L’Abbé</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rencontres paysannes]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/"/>
+        <updated>2025-11-24T16:11:52.809Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/24113336/25-1203-rencontre-paysannes-01-680x680.jpg?date=109680" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Rencontre</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">ME <span class="bold">03</span>  18:30 
+
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille - Espace cabaret</p>
+
 </div>
 </div>]]></content>
     </entry>
