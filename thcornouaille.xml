@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-11-25T04:19:32.224Z</updated>
+    <updated>2025-11-25T16:14:37.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -248,14 +248,14 @@
 </picture>
 <div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
   
- <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Impromptu</div>  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Stage</div>  
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">ME <span class="bold">10</span>  16:30 
+<p class="date mr-2">ME <span class="bold">10</span>  17:00 
 
 </p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille - L'Atelier</p>
 
 </div>
 </div>]]></content>
