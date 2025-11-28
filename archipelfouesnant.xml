@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-11-27T16:13:24.486Z</updated>
+    <updated>2025-11-28T04:15:05.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -44,32 +44,6 @@
 										
 											
 												Voir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathieu Boogaerts]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/mathieu-boogaerts/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/mathieu-boogaerts/"/>
-        <updated>2025-10-21T14:48:07.401Z</updated>
-        <content type="html"><![CDATA[jeudi 27 novembre 2025 
-															
-														
-														
-																												
-
-													
-													Musique Mathieu Boogaerts
-
-										
-										LE GRAND PIANO
-
-										
-										
-											
-												Voir
-											
-											
-																							
-													Réserver]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ouverture des inscriptions aux animations de la Médiathèque]]></title>
