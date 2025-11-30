@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://billetterie-usconcarneau.tickandlive.com/</id>
+    <title>US Concarneau</title>
+    <updated>2025-11-30T19:19:13.723Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://billetterie-usconcarneau.tickandlive.com/media/cache/favicon_16/images/62de9030ebaf57e61e0fc24cf44a9f582665326b.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WEB / Pack Hiver]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver"/>
+        <updated>2025-11-30T19:18:26.079Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/8d2a5cc4790a0a6a9b814d8443ce18507ce1a3e3.jpg" alt="WEB / Pack Hiver">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">WEB / Pack Hiver</h4>
+                                                                                                                                                                        <span>Du 5 décembre 2025 au 16 janvier 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB / Pack Hiver]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver"/>
+        <updated>2025-11-30T19:18:26.079Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver" data-cy="home-event-link">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/8d2a5cc4790a0a6a9b814d8443ce18507ce1a3e3.jpg" alt="WEB / Pack Hiver">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">WEB / Pack Hiver</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Du 5 décembre 2025 au 16 janvier 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / STADE BRIOCHIN]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310"/>
+        <updated>2025-11-30T19:18:26.080Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/8c48fe2fb09b2c24d3dc0138105d28d1700cc5b2.jpg" alt="USC / STADE BRIOCHIN">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / STADE BRIOCHIN</h4>
+                                                                                                                                                                        <span>Vendredi 5 décembre 2025</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / SM CAEN]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311"/>
+        <updated>2025-11-30T19:18:26.082Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/75c68652adbbadec446d7b98792404d3508e68b4.jpg" alt="USC / SM CAEN">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / SM CAEN</h4>
+                                                                                                                                                                        <span>Vendredi 16 janvier 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / FC BOURG-PERONNAS 01]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312"/>
+        <updated>2025-11-30T19:18:26.088Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/dc0f06a53a975c1c489cb0e473119ced9358697d.jpg" alt="USC / FC BOURG-PERONNAS 01">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / FC BOURG-PERONNAS 01</h4>
+                                                                                                                                                                        <span>Vendredi 30 janvier 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / SC AUBAGNE AIR BEL]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297"/>
+        <updated>2025-11-30T19:18:26.089Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/84815a301e14e4948a3391974ff5c0bb90b6c873.jpg" alt="USC / SC AUBAGNE AIR BEL">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / SC AUBAGNE AIR BEL</h4>
+                                                                                                                                                                        <span>Vendredi 6 février 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / FC VERSAILLES]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298"/>
+        <updated>2025-11-30T19:18:26.091Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/715291172d8d896d5cdafc7e4ecdfeb393c3d696.jpg" alt="USC / FC VERSAILLES">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / FC VERSAILLES</h4>
+                                                                                                                                                                        <span>Vendredi 20 février 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / DIJON FCO]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299"/>
+        <updated>2025-11-30T19:18:26.093Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/c2244bdb936e584ff3ed3a71e26492bd5bed7645.jpg" alt="USC / DIJON FCO">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / DIJON FCO</h4>
+                                                                                                                                                                        <span>Vendredi 6 mars 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / VALENCIENNES FC]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300"/>
+        <updated>2025-11-30T19:18:26.094Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/c5b1ea97005a7fa97dbc6b4272b16002faddefb8.jpg" alt="USC / VALENCIENNES FC">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / VALENCIENNES FC</h4>
+                                                                                                                                                                        <span>Vendredi 20 mars 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / LE PUY FOOT 43]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301"/>
+        <updated>2025-11-30T19:18:26.096Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/95588c4feef71bde9b6be5e2d36d994809fd5be8.jpg" alt="USC / LE PUY FOOT 43">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / LE PUY FOOT 43</h4>
+                                                                                                                                                                        <span>Vendredi 3 avril 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / FC ROUEN]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302"/>
+        <updated>2025-11-30T19:18:26.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/eeefd75063f825fc6ee5ee3910cc622e292cc70b.jpg" alt="USC / FC ROUEN">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / FC ROUEN</h4>
+                                                                                                                                                                        <span>Vendredi 17 avril 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / PARIS 13 ATLETICO]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303"/>
+        <updated>2025-11-30T19:18:26.099Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/843c71b46341b2657eba49ee0443773a19d25b84.jpg" alt="USC / PARIS 13 ATLETICO">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / PARIS 13 ATLETICO</h4>
+                                                                                                                                                                        <span>Vendredi 1 mai 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / FC VILLEFRANCHE BEAUJOLAIS]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304"/>
+        <updated>2025-11-30T19:18:26.100Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
+                                                            <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/a6f13d568f4a460bc3b831c4c6279fa35212ef04.jpg" alt="USC / FC VILLEFRANCHE BEAUJOLAIS">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">USC / FC VILLEFRANCHE BEAUJOLAIS</h4>
+                                                                                                                                                                        <span>Vendredi 15 mai 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / STADE BRIOCHIN]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310"/>
+        <updated>2025-11-30T19:18:26.101Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310" data-cy="home-event-link">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/8c48fe2fb09b2c24d3dc0138105d28d1700cc5b2.jpg" alt="USC / STADE BRIOCHIN">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / STADE BRIOCHIN</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 5 décembre 2025</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / SM CAEN]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311"/>
+        <updated>2025-11-30T19:18:26.104Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311" data-cy="home-event-link">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/75c68652adbbadec446d7b98792404d3508e68b4.jpg" alt="USC / SM CAEN">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / SM CAEN</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 16 janvier 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / FC BOURG-PERONNAS 01]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312"/>
+        <updated>2025-11-30T19:18:26.105Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312" data-cy="home-event-link">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/dc0f06a53a975c1c489cb0e473119ced9358697d.jpg" alt="USC / FC BOURG-PERONNAS 01">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / FC BOURG-PERONNAS 01</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 30 janvier 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / SC AUBAGNE AIR BEL]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297"/>
+        <updated>2025-11-30T19:18:26.106Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297" data-cy="home-event-link">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/84815a301e14e4948a3391974ff5c0bb90b6c873.jpg" alt="USC / SC AUBAGNE AIR BEL">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / SC AUBAGNE AIR BEL</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 6 février 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / FC VERSAILLES]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298"/>
+        <updated>2025-11-30T19:18:26.108Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298" data-cy="home-event-link" tabindex="-1">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/715291172d8d896d5cdafc7e4ecdfeb393c3d696.jpg" alt="USC / FC VERSAILLES">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / FC VERSAILLES</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 20 février 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / DIJON FCO]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299"/>
+        <updated>2025-11-30T19:18:26.114Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299" data-cy="home-event-link" tabindex="-1">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/c2244bdb936e584ff3ed3a71e26492bd5bed7645.jpg" alt="USC / DIJON FCO">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / DIJON FCO</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 6 mars 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / VALENCIENNES FC]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300"/>
+        <updated>2025-11-30T19:18:26.115Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300" data-cy="home-event-link" tabindex="-1">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/c5b1ea97005a7fa97dbc6b4272b16002faddefb8.jpg" alt="USC / VALENCIENNES FC">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / VALENCIENNES FC</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 20 mars 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / LE PUY FOOT 43]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301"/>
+        <updated>2025-11-30T19:18:26.116Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301" data-cy="home-event-link" tabindex="-1">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/95588c4feef71bde9b6be5e2d36d994809fd5be8.jpg" alt="USC / LE PUY FOOT 43">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / LE PUY FOOT 43</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 3 avril 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / FC ROUEN]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302"/>
+        <updated>2025-11-30T19:18:26.117Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302" data-cy="home-event-link" tabindex="-1">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/eeefd75063f825fc6ee5ee3910cc622e292cc70b.jpg" alt="USC / FC ROUEN">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / FC ROUEN</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 17 avril 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / PARIS 13 ATLETICO]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303"/>
+        <updated>2025-11-30T19:18:26.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303" data-cy="home-event-link" tabindex="-1">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/843c71b46341b2657eba49ee0443773a19d25b84.jpg" alt="USC / PARIS 13 ATLETICO">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / PARIS 13 ATLETICO</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 1 mai 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USC / FC VILLEFRANCHE BEAUJOLAIS]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304"/>
+        <updated>2025-11-30T19:18:26.120Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304" data-cy="home-event-link" tabindex="-1">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
+                                                                <div class="shop-item-status">Bientôt en vente</div>
+                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/a6f13d568f4a460bc3b831c4c6279fa35212ef04.jpg" alt="USC / FC VILLEFRANCHE BEAUJOLAIS">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / FC VILLEFRANCHE BEAUJOLAIS</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Vendredi 15 mai 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+</feed>
