@@ -1,72 +1,483 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://runarpuns.com/agenda/</id>
-    <title>Run Ar Puns</title>
-    <updated>2025-11-30T19:19:13.708Z</updated>
+    <id>https://www.atelier-culturel.fr/</id>
+    <title>Atelier Culture</title>
+    <updated>2025-11-30T19:29:09.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://runarpuns.com/wp-content/uploads/fbrfg/favicon-32x32.png</icon>
+    <icon>https://www.atelier-culturel.fr/images/atelier_culturel/2020_21/favicon/AC_2020_21.png</icon>
     <entry>
-        <title type="html"><![CDATA[MARCHÉ DE NOËL]]></title>
-        <id>https://runarpuns.com/events/marche-de-noel-2/?occurrence=2025-12-03</id>
-        <link href="https://runarpuns.com/events/marche-de-noel-2/?occurrence=2025-12-03"/>
-        <updated>2025-11-30T19:18:43.457Z</updated>
-        <content type="html"><![CDATA[<div class="mec-event-image"><a data-event-id="20342" href="https://runarpuns.com/events/marche-de-noel-2/?occurrence=2025-12-03" target="m1" rel="noopener"><img width="850" height="611" src="https://runarpuns.com/wp-content/uploads/2025/11/NOEL.jpg" class="attachment-medium size-medium wp-post-image entered lazyloaded" alt="" decoding="async" data-mec-postid="20342" data-lazy-srcset="https://runarpuns.com/wp-content/uploads/2025/11/NOEL.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/11/NOEL-480x345.jpg 480w" data-lazy-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" data-lazy-src="https://runarpuns.com/wp-content/uploads/2025/11/NOEL.jpg" data-ll-status="loaded" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" srcset="https://runarpuns.com/wp-content/uploads/2025/11/NOEL.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/11/NOEL-480x345.jpg 480w"><noscript><img width="850" height="611" src="https://runarpuns.com/wp-content/uploads/2025/11/NOEL.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" data-mec-postid="20342" loading="lazy" srcset="https://runarpuns.com/wp-content/uploads/2025/11/NOEL.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/11/NOEL-480x345.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" /></noscript></a></div>
-                        <div class="mec-event-content">
-                                    <div class="mec-event-date mec-bg-color">
-                        <span class="mec-start-date-label" itemprop="startDate">03 décembre 2025</span>                                                                    </div>
-                                                                <h4 class="mec-event-title"><a class="mec-color-hover" data-event-id="20342" href="https://runarpuns.com/events/marche-de-noel-2/?occurrence=2025-12-03" target="m1" rel="noopener">MARCHÉ DE NOËL</a><span class="event-color" style="background: #fdd700"></span></h4>
-                                <p class="mec-grid-event-location"></p>
-                                                            </div>
-            <div class="mec-event-footer">
-                                                <a class="mec-booking-button" data-event-id="20342" href="https://runarpuns.com/events/marche-de-noel-2/?occurrence=2025-12-03" target="m1" rel="noopener">En savoir plus</a>            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE AU BAR]]></title>
-        <id>https://runarpuns.com/events/live-au-bar-cracotte-328-497/?occurrence=2025-12-12</id>
-        <link href="https://runarpuns.com/events/live-au-bar-cracotte-328-497/?occurrence=2025-12-12"/>
-        <updated>2025-11-30T19:18:43.459Z</updated>
-        <content type="html"><![CDATA[<div class="mec-event-image"><a data-event-id="20224" href="https://runarpuns.com/events/live-au-bar-cracotte-328-497/?occurrence=2025-12-12" target="m1" rel="noopener"><img width="850" height="611" src="https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR.jpg" class="attachment-medium size-medium wp-post-image entered lazyloaded" alt="" decoding="async" data-mec-postid="20224" data-lazy-srcset="https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR-480x345.jpg 480w" data-lazy-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" data-lazy-src="https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR.jpg" data-ll-status="loaded" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" srcset="https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR-480x345.jpg 480w"><noscript><img width="850" height="611" src="https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" data-mec-postid="20224" loading="lazy" srcset="https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/06/LIVE-AU-BAR-480x345.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" /></noscript></a></div>
-                        <div class="mec-event-content">
-                                    <div class="mec-event-date mec-bg-color">
-                        <span class="mec-start-date-label" itemprop="startDate">12 décembre 2025</span>                                                                    </div>
-                                                                <h4 class="mec-event-title"><a class="mec-color-hover" data-event-id="20224" href="https://runarpuns.com/events/live-au-bar-cracotte-328-497/?occurrence=2025-12-12" target="m1" rel="noopener">LIVE AU BAR</a><span class="event-color" style="background: #fdd700"></span></h4>
-                                <p class="mec-grid-event-location"></p>
-                                                            </div>
-            <div class="mec-event-footer">
-                                                <a class="mec-booking-button" data-event-id="20224" href="https://runarpuns.com/events/live-au-bar-cracotte-328-497/?occurrence=2025-12-12" target="m1" rel="noopener">En savoir plus</a>            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONIRI : CONCERT FAMILLE]]></title>
-        <id>https://runarpuns.com/events/oniri-concert-famille/?occurrence=2025-12-14</id>
-        <link href="https://runarpuns.com/events/oniri-concert-famille/?occurrence=2025-12-14"/>
-        <updated>2025-11-30T19:18:43.462Z</updated>
-        <content type="html"><![CDATA[<div class="mec-event-image"><a data-event-id="20262" href="https://runarpuns.com/events/oniri-concert-famille/?occurrence=2025-12-14" target="m1" rel="noopener"><picture class="attachment-medium size-medium wp-post-image" decoding="async" data-mec-postid="20262" loading="lazy">
-<source type="image/webp" data-lazy-srcset="https://runarpuns.com/wp-content/uploads/2025/07/ONIRI.jpg.webp 850w, https://runarpuns.com/wp-content/uploads/2025/07/ONIRI-480x345.jpg.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" srcset="https://runarpuns.com/wp-content/uploads/2025/07/ONIRI.jpg.webp 850w, https://runarpuns.com/wp-content/uploads/2025/07/ONIRI-480x345.jpg.webp 480w">
-<img width="850" height="611" src="https://runarpuns.com/wp-content/uploads/2025/07/ONIRI.jpg" alt="" decoding="async" data-mec-postid="20262" data-lazy-srcset="https://runarpuns.com/wp-content/uploads/2025/07/ONIRI.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/07/ONIRI-480x345.jpg 480w" data-lazy-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" data-lazy-src="https://runarpuns.com/wp-content/uploads/2025/07/ONIRI.jpg" data-ll-status="loading" class="entered lazyloading" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" srcset="https://runarpuns.com/wp-content/uploads/2025/07/ONIRI.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/07/ONIRI-480x345.jpg 480w"><noscript><img width="850" height="611" src="https://runarpuns.com/wp-content/uploads/2025/07/ONIRI.jpg" alt="" decoding="async" data-mec-postid="20262" loading="lazy" srcset="https://runarpuns.com/wp-content/uploads/2025/07/ONIRI.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/07/ONIRI-480x345.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw"/></noscript>
+        <title type="html"><![CDATA[Rollercoaster]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/rollercoaster</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/rollercoaster"/>
+        <updated>2025-11-30T19:28:31.195Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/rollercoaster">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/95/Wes%20Peden%20carre%202-951437be.webp 610w, /templates/yootheme/cache/ab/Wes%20Peden%20carre%202-ab2ca902.webp 768w, /templates/yootheme/cache/41/Wes%20Peden%20carre%202-418f50b4.webp 1024w, /templates/yootheme/cache/d2/Wes%20Peden%20carre%202-d22ff653.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/e4/Wes%20Peden%20carre%202-e4f50c70.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
 </picture>
-</a></div>
-                        <div class="mec-event-content">
-                                    <div class="mec-event-date mec-bg-color">
-                        <span class="mec-start-date-label" itemprop="startDate">14 décembre 2025</span>                                                                    </div>
-                                                                <h4 class="mec-event-title"><a class="mec-color-hover" data-event-id="20262" href="https://runarpuns.com/events/oniri-concert-famille/?occurrence=2025-12-14" target="m1" rel="noopener">ONIRI : CONCERT FAMILLE</a><span class="event-color" style="background: #fdd700"></span></h4>
-                                <p class="mec-grid-event-location"></p>
-                                                            </div>
-            <div class="mec-event-footer">
-                                                <a class="mec-booking-button" data-event-id="20262" href="https://runarpuns.com/events/oniri-concert-famille/?occurrence=2025-12-14" target="m1" rel="noopener">En savoir plus</a>            </div>]]></content>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Rollercoaster    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 29 novembre à 20h</div>
+<div class="el-content uk-panel">cirque</div>
+
+</div></div>            
+        
+        </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ADI SHANKARA + DUB ENGINE + MAHOM]]></title>
-        <id>https://runarpuns.com/events/adi-shankara-dub-engine-mahom/?occurrence=2025-12-20</id>
-        <link href="https://runarpuns.com/events/adi-shankara-dub-engine-mahom/?occurrence=2025-12-20"/>
-        <updated>2025-11-30T19:18:43.464Z</updated>
-        <content type="html"><![CDATA[<div class="mec-event-image"><a data-event-id="20210" href="https://runarpuns.com/events/adi-shankara-dub-engine-mahom/?occurrence=2025-12-20" target="m1" rel="noopener"><img width="850" height="611" src="https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE.jpg" class="attachment-medium size-medium wp-post-image entered lazyloaded" alt="" decoding="async" data-mec-postid="20210" data-lazy-srcset="https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE-480x345.jpg 480w" data-lazy-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" data-lazy-src="https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE.jpg" data-ll-status="loaded" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" srcset="https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE-480x345.jpg 480w"><noscript><img width="850" height="611" src="https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" data-mec-postid="20210" loading="lazy" srcset="https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE.jpg 850w, https://runarpuns.com/wp-content/uploads/2025/06/DUB-ENGINE-480x345.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" /></noscript></a></div>
-                        <div class="mec-event-content">
-                                    <div class="mec-event-date mec-bg-color">
-                        <span class="mec-start-date-label" itemprop="startDate">20 décembre 2025</span>                                                                    </div>
-                                                                <h4 class="mec-event-title"><a class="mec-color-hover" data-event-id="20210" href="https://runarpuns.com/events/adi-shankara-dub-engine-mahom/?occurrence=2025-12-20" target="m1" rel="noopener">ADI SHANKARA + DUB ENGINE + MAHOM</a><span class="event-color" style="background: #fdd700"></span></h4>
-                                <p class="mec-grid-event-location"></p>
-                                                            </div>
-            <div class="mec-event-footer">
-                                                <a class="mec-booking-button" data-event-id="20210" href="https://runarpuns.com/events/adi-shankara-dub-engine-mahom/?occurrence=2025-12-20" target="m1" rel="noopener">En savoir plus</a>            </div>]]></content>
+        <title type="html"><![CDATA[Ensemble Matheus]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/ensemble-matheus</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/ensemble-matheus"/>
+        <updated>2025-11-30T19:28:31.195Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/ensemble-matheus">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/89/Matheus%20carre%202-89bd91de.webp 610w, /templates/yootheme/cache/b7/Matheus%20carre%202-b7850f62.webp 768w, /templates/yootheme/cache/c4/Matheus%20carre%202-c447d3f7.webp 1024w, /templates/yootheme/cache/57/Matheus%20carre%202-57e77510.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/74/Matheus%20carre%202-740796be.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Ensemble Matheus    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Dimanche 14 décembre à 17h</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hourvari]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/hourvari</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/hourvari"/>
+        <updated>2025-11-30T19:28:31.199Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/hourvari">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/e1/Hourvari%20carre%202-e1ce9d1a.webp 610w, /templates/yootheme/cache/df/Hourvari%20carre%202-dff603a6.webp 768w, /templates/yootheme/cache/87/Hourvari%20carre%202-870faeb2.webp 1024w, /templates/yootheme/cache/14/Hourvari%20carre%202-14af0855.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/74/Hourvari%20carre%202-74779be7.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Hourvari    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 17 janvier à 20h</div>
+<div class="el-content uk-panel">cirque</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Festival Rives de Nuits]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/rives-de-nuits</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/rives-de-nuits"/>
+        <updated>2025-11-30T19:28:31.204Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/rives-de-nuits">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/4c/Meta_profil-4c8b8964.webp 610w, /templates/yootheme/cache/35/Meta_profil-35afcf63.webp 720w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/75/Meta_profil-754de101.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Festival Rives de Nuits    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Du jeudi 22 au dimanche 25 janvier</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesparrow]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/mesparrow</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/mesparrow"/>
+        <updated>2025-11-30T19:28:31.204Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/mesparrow">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/c6/Mesparrow%203%20c%20Cecile%20Andre-c64fc521.webp 610w, /templates/yootheme/cache/f8/Mesparrow%203%20c%20Cecile%20Andre-f8775b9d.webp 768w, /templates/yootheme/cache/92/Mesparrow%203%20c%20Cecile%20Andre-92390abc.webp 1024w, /templates/yootheme/cache/01/Mesparrow%203%20c%20Cecile%20Andre-0199ac5b.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/f4/Mesparrow%203%20c%20Cecile%20Andre-f4ff7dc6.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Mesparrow    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 24 janvier à 17h</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bastard]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/bastard</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/bastard"/>
+        <updated>2025-11-30T19:28:31.206Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/bastard">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/23/Bastard%20carre%202-23616e98.webp 610w, /templates/yootheme/cache/1d/Bastard%20carre%202-1d59f024.webp 768w, /templates/yootheme/cache/0b/Bastard%20carre%202-0b05d619.webp 1024w, /templates/yootheme/cache/98/Bastard%20carre%202-98a570fe.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/91/Bastard%20carre%202-915fff1f.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Bastard    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Jeudi 5 février à 20h</div>
+<div class="el-content uk-panel">théâtre</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Borderless]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/borderless</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/borderless"/>
+        <updated>2025-11-30T19:28:31.208Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/borderless">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/48/Borderless%20carre%204-4817a436.webp 610w, /templates/yootheme/cache/76/Borderless%20carre%204-762f3a8a.webp 768w, /templates/yootheme/cache/36/Borderless%20carre%204-36f55d07.webp 1024w, /templates/yootheme/cache/a5/Borderless%20carre%204-a555fbe0.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/ea/Borderless%20carre%204-ea8c3bb4.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Borderless    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Mardi 17 février à 20h</div>
+<div class="el-content uk-panel">cirque</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Izo Fitzroy + Liza Mauzole]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/izo-fitzroy-liza-mauzole</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/izo-fitzroy-liza-mauzole"/>
+        <updated>2025-11-30T19:28:31.209Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/izo-fitzroy-liza-mauzole">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/e0/Izo%20FitzRoy%20carre-e04f22da.webp 610w, /templates/yootheme/cache/de/Izo%20FitzRoy%20carre-de77bc66.webp 768w, /templates/yootheme/cache/2d/Izo%20FitzRoy%20carre-2da70362.webp 1024w, /templates/yootheme/cache/be/Izo%20FitzRoy%20carre-be07a585.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/ae/Izo%20FitzRoy%20carre-ae2c089e.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Izo Fitzroy + Liza Mauzole    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 28 février à 20h</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pling-Klang]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/pling-klang</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/pling-klang"/>
+        <updated>2025-11-30T19:28:31.212Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/pling-klang">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/65/Pling-Klang%20carre%202-658e71db.webp 610w, /templates/yootheme/cache/5b/Pling-Klang%20carre%202-5bb6ef67.webp 768w, /templates/yootheme/cache/5d/Pling-Klang%20carre%202-5df5348a.webp 1024w, /templates/yootheme/cache/ce/Pling-Klang%20carre%202-ce55926d.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/38/Pling-Klang%20carre%202-38d112f4.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Pling-Klang    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Vendredi 13 &amp; samedi 14 mars à 20h</div>
+<div class="el-content uk-panel">cirque</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tout D'abord]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/tout-dabord</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/tout-dabord"/>
+        <updated>2025-11-30T19:28:31.217Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/tout-dabord">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/ef/tout%20dabord%20carre-ef076e8f.webp 610w, /templates/yootheme/cache/d1/tout%20dabord%20carre-d13ff033.webp 768w, /templates/yootheme/cache/b1/tout%20dabord%20carre-b1dc2228.webp 1024w, /templates/yootheme/cache/73/tout%20dabord%20carre-7301f102.webp 1133w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/66/tout%20dabord%20carre-662edd73.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Tout D'abord    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Mercredi 18 mars à 9h30 et 11h</div>
+<div class="el-content uk-panel">cirque</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor Solf]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/victor-solf</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/victor-solf"/>
+        <updated>2025-11-30T19:28:31.219Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/victor-solf">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/ad/Victor%20Solf%20carre-add3f9a2.webp 610w, /templates/yootheme/cache/93/Victor%20Solf%20carre-93eb671e.webp 768w, /templates/yootheme/cache/15/Victor%20Solf%20carre-1573a160.webp 933w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/72/Victor%20Solf%20carre-7277e2bd.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Victor Solf    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 4 avril à 20h</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Festival SOÑJ]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/sonj</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/sonj"/>
+        <updated>2025-11-30T19:28:31.221Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/sonj">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/44/SONJ-WEBCmargotmontigny-2544-44e9b70a.webp 610w, /templates/yootheme/cache/7a/SONJ-WEBCmargotmontigny-2544-7ad129b6.webp 768w, /templates/yootheme/cache/48/SONJ-WEBCmargotmontigny-2544-48d80472.webp 1024w, /templates/yootheme/cache/b2/SONJ-WEBCmargotmontigny-2544-b2fe5810.webp 1088w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/d4/SONJ-WEBCmargotmontigny-2544-d42174b3.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Festival SOÑJ    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Mai 2026</div>
+
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaz Delorean Trio]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/jaz-delorean-trio</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/jaz-delorean-trio"/>
+        <updated>2025-11-30T19:28:31.223Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/jaz-delorean-trio">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/65/JAZ%20DELOREAN%20carre%20bichrome-6544effd.webp 610w, /templates/yootheme/cache/5b/JAZ%20DELOREAN%20carre%20bichrome-5b7c7141.webp 768w, /templates/yootheme/cache/92/JAZ%20DELOREAN%20carre%20bichrome-92d2a32f.webp 1024w, /templates/yootheme/cache/01/JAZ%20DELOREAN%20carre%20bichrome-017205c8.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/55/JAZ%20DELOREAN%20carre%20bichrome-552a9ad7.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Jaz Delorean Trio    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 5 juillet à 19h</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wacky Jugs]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/the-wacky-jugs</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/the-wacky-jugs"/>
+        <updated>2025-11-30T19:28:31.224Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/the-wacky-jugs">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/f0/The%20Wacky%20Jugs%20carre%20bichrome-f0f6adcf.webp 610w, /templates/yootheme/cache/ce/The%20Wacky%20Jugs%20carre%20bichrome-cece3373.webp 768w, /templates/yootheme/cache/15/The%20Wacky%20Jugs%20carre%20bichrome-1570ffc1.webp 1024w, /templates/yootheme/cache/9b/The%20Wacky%20Jugs%20carre%20bichrome-9b0c10d5.webp 1065w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/5c/The%20Wacky%20Jugs%20carre%20bichrome-5c09feb3.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        The Wacky Jugs    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 30 août à 19h</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rouge Merveille]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/rouge-merveille</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/rouge-merveille"/>
+        <updated>2025-11-30T19:28:31.226Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/rouge-merveille">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/0f/Rhizome%20carre%20bichrome-0faf9a74.webp 610w, /templates/yootheme/cache/31/Rhizome%20carre%20bichrome-319704c8.webp 768w, /templates/yootheme/cache/aa/Rhizome%20carre%20bichrome-aafcd2e4.webp 1024w, /templates/yootheme/cache/39/Rhizome%20carre%20bichrome-395c7403.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/a5/Rhizome%20carre%20bichrome-a5f9d733.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Rouge Merveille    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 13 septembre à 19h</div>
+<div class="el-content uk-panel">cirque</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mes-Anges : la langue des oiseaux]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/mes-anges-la-langue-des-oiseaux</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/mes-anges-la-langue-des-oiseaux"/>
+        <updated>2025-11-30T19:28:31.228Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/mes-anges-la-langue-des-oiseaux">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/72/Sarah%20Floch%201%20carre%20bichrome-72981869.webp 610w, /templates/yootheme/cache/4c/Sarah%20Floch%201%20carre%20bichrome-4ca086d5.webp 768w, /templates/yootheme/cache/56/Sarah%20Floch%201%20carre%20bichrome-562621c3.webp 1024w, /templates/yootheme/cache/c5/Sarah%20Floch%201%20carre%20bichrome-c5868724.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/a5/Sarah%20Floch%201%20carre%20bichrome-a5ce878a.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Mes-Anges : la langue des oiseaux    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 27 septembre à 9h30 et 11h</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[À la ligne]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/a-la-ligne</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/a-la-ligne"/>
+        <updated>2025-11-30T19:28:31.230Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/a-la-ligne">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/c9/A%20la%20ligne%20carre%20bichrome-c9ecba36.webp 610w, /templates/yootheme/cache/f7/A%20la%20ligne%20carre%20bichrome-f7d4248a.webp 768w, /templates/yootheme/cache/53/A%20la%20ligne%20carre%20bichrome-53dd19e8.webp 1024w, /templates/yootheme/cache/c0/A%20la%20ligne%20carre%20bichrome-c07dbf0f.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/c3/A%20la%20ligne%20carre%20bichrome-c355aef1.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        À la ligne    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Jeudi 9 octobre à 20h</div>
+<div class="el-content uk-panel">théâtre</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Dé)formation professionnelle]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/de-formation-professionnelle</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/de-formation-professionnelle"/>
+        <updated>2025-11-30T19:28:31.231Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/de-formation-professionnelle">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/97/AMA%20carre%20bichrome-970cd12d.webp 610w, /templates/yootheme/cache/a9/AMA%20carre%20bichrome-a9344f91.webp 768w, /templates/yootheme/cache/20/AMA%20carre%20bichrome-208b3442.webp 1024w, /templates/yootheme/cache/b3/AMA%20carre%20bichrome-b32b92a5.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/02/AMA%20carre%20bichrome-02e2ca3c.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        (Dé)formation professionnelle    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Mardi 28 octobre à 20h</div>
+<div class="el-content uk-panel">cirque</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bywater Call + Tiwayo]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/bywater-call-tiwayo</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/bywater-call-tiwayo"/>
+        <updated>2025-11-30T19:28:31.233Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/bywater-call-tiwayo">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/13/Bywater%20call%20carre%20bichrome-13f85c0b.webp 610w, /templates/yootheme/cache/2d/Bywater%20call%20carre%20bichrome-2dc0c2b7.webp 768w, /templates/yootheme/cache/70/Bywater%20call%20carre%20bichrome-705ccc0f.webp 1024w, /templates/yootheme/cache/e3/Bywater%20call%20carre%20bichrome-e3fc6ae8.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/27/Bywater%20call%20carre%20bichrome-270c7fd6.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Bywater Call + Tiwayo    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Vendredi 14 novembre à 20h</div>
+<div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
     </entry>
 </feed>

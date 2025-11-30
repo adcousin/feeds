@@ -1,103 +1,1044 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.foret-fouesnant.bzh/nautile/spectacles/</id>
-    <title>Nautile</title>
-    <updated>2025-11-30T19:19:13.714Z</updated>
+    <id>https://www.lesarcs.bzh/programmation/</id>
+    <title>Les Arcs</title>
+    <updated>2025-11-30T19:29:09.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.foret-fouesnant.bzh/nautile/wp-content/themes/nautile_2024/favicon.png</icon>
+    <icon>https://www.lesarcs.bzh/wp-content/themes/artgomedia-base/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Exposition « Quand peinture et musique se rencontre »]]></title>
-        <id>https://www.foret-fouesnant.bzh/nautile/evenements/exposition-quand-peinture-et-musique-se-rencontre/</id>
-        <link href="https://www.foret-fouesnant.bzh/nautile/evenements/exposition-quand-peinture-et-musique-se-rencontre/"/>
-        <updated>2025-11-30T19:18:35.870Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.foret-fouesnant.bzh/nautile/evenements/exposition-quand-peinture-et-musique-se-rencontre/">
-        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/AFFICHE-NYBE-page-0001-360x460.jpg" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async" fetchpriority="high">        <div class="calendar-meta">
-                                        <div class="day">12</div>
-                <div class="month">septembre 2025</div>
-                    </div>
-        <section>
-            <div class="title-event">Exposition «&nbsp;Quand peinture et musique se rencontre&nbsp;»</div>
-                    </section>
-    </a>]]></content>
+        <title type="html"><![CDATA[Ciné Films Junior #2 | « L’Île de Black Mor »                                                                                    de Jean-François Laguionie]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-junior-2-lile-de-black-mor/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-junior-2-lile-de-black-mor/"/>
+        <updated>2025-11-30T19:28:22.243Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>10 déc</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/4-l-ile-de-black-mor-900x600-listing.jpg" alt="Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»">
+                                    </div>
+                                                                        <div class="agenda_listing_statut_spectacle">
+
+                                        <div class="agenda_listing_statut_spectacle_inner">
+
+                                            <div class="agenda_listing_statut_spectacle_top agenda_listing_statut_spectacle_top_annule">
+
+                                            </div>
+
+                                            <div class="agenda_listing_statut_spectacle_bottom">
+                                                Annulé                                                                                            </div>
+                                        
+                                        </div>
+                                        
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»                                                                                    <span>de Jean-François Laguionie</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mer 10 déc</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            14h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LES DEMOISELLES DU K BARRE – BURLESK]]></title>
-        <id>https://www.foret-fouesnant.bzh/nautile/evenements/les-demoiselles-du-k-barre-burlesk/</id>
-        <link href="https://www.foret-fouesnant.bzh/nautile/evenements/les-demoiselles-du-k-barre-burlesk/"/>
-        <updated>2025-11-30T19:18:35.872Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.foret-fouesnant.bzh/nautile/evenements/les-demoiselles-du-k-barre-burlesk/">
-        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/photo-3-BurlesK-Les-Demoiselles-du-K-barre-Credit-photo-Eric-Delage-360x460.jpg" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async">        <div class="calendar-meta">
-                                        <div class="day">20</div>
-                <div class="month">décembre 2025</div>
-                    </div>
-        <section>
-            <div class="title-event">LES DEMOISELLES DU K BARRE – BURLESK</div>
-                            <div class="horaires"><i class="fal fa-clock fa-"></i> 20:30</div>
-                    </section>
-    </a>]]></content>
+        <title type="html"><![CDATA[Ciné Films Junior #2 | « Flow »                                                                                    de Gints Zilbalodis]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-junior-2-flow/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-junior-2-flow/"/>
+        <updated>2025-11-30T19:28:22.243Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>10 déc</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/11/4-flow-900x600-listing.jpg" alt="Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/11/4-flow-900x600-listing.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/11/4-flow-900x600-listing.jpg" alt="Ciné Films Junior #2 | « Flow »"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»                                                                                    <span>de Gints Zilbalodis</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mer 10 déc</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            14h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SOIS PARFAITE ET T’ES TOI – Elyse Fruttero et Lucille Brunel]]></title>
-        <id>https://www.foret-fouesnant.bzh/nautile/evenements/sois-parfaite-et-tes-toi-elyse-fruttero-et-lucille-brunel/</id>
-        <link href="https://www.foret-fouesnant.bzh/nautile/evenements/sois-parfaite-et-tes-toi-elyse-fruttero-et-lucille-brunel/"/>
-        <updated>2025-11-30T19:18:35.874Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.foret-fouesnant.bzh/nautile/evenements/sois-parfaite-et-tes-toi-elyse-fruttero-et-lucille-brunel/">
-        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/DSC-7920-360x460.jpg" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async">        <div class="calendar-meta">
-                                        <div class="day">31</div>
-                <div class="month">janvier 2026</div>
-                    </div>
-        <section>
-            <div class="title-event">SOIS PARFAITE ET T’ES TOI – Elyse Fruttero et Lucille Brunel</div>
-                            <div class="horaires"><i class="fal fa-clock fa-"></i> 20:30</div>
-                    </section>
-    </a>]]></content>
+        <title type="html"><![CDATA[Le Trio Joubran]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/le-trio-joubran/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/le-trio-joubran/"/>
+        <updated>2025-11-30T19:28:22.246Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>13 déc</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/7-joubran-900x600-listing.jpg" alt="Le Trio Joubran">
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Le Trio Joubran                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Musique du Monde                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Le Trio Joubran                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + 1re partie                                                        </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 13 déc</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caroline FAGET et Pêr Vari KERVAREC]]></title>
-        <id>https://www.foret-fouesnant.bzh/nautile/evenements/caroline-faget-et-per-vari-kervarec/</id>
-        <link href="https://www.foret-fouesnant.bzh/nautile/evenements/caroline-faget-et-per-vari-kervarec/"/>
-        <updated>2025-11-30T19:18:35.875Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.foret-fouesnant.bzh/nautile/evenements/caroline-faget-et-per-vari-kervarec/">
-        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/1000025757-360x460.jpg" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async">        <div class="calendar-meta">
-                                        <div class="day">28</div>
-                <div class="month">février 2026</div>
-                    </div>
-        <section>
-            <div class="title-event">Caroline FAGET et Pêr Vari KERVAREC</div>
-                            <div class="horaires"><i class="fal fa-clock fa-"></i> 20:30</div>
-                    </section>
-    </a>]]></content>
+        <title type="html"><![CDATA[Sebastian Marx • « On est bien là »                                                                                    STardusT ProducTions présenTe]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/sebastian-marx/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/sebastian-marx/"/>
+        <updated>2025-11-30T19:28:22.246Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>10 jan</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/8-marx-900x600-listing.jpg" alt="Sebastian Marx • «&nbsp;On est bien là&nbsp;»">
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Sebastian Marx • «&nbsp;On est bien là&nbsp;»                                                                                    <span>STardusT ProducTions présenTe</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Humour                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Sebastian Marx • «&nbsp;On est bien là&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 10 jan</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Magic Beam Sisters and Robert]]></title>
-        <id>https://www.foret-fouesnant.bzh/nautile/evenements/the-magic-beam-sisters-and-robert/</id>
-        <link href="https://www.foret-fouesnant.bzh/nautile/evenements/the-magic-beam-sisters-and-robert/"/>
-        <updated>2025-11-30T19:18:35.877Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.foret-fouesnant.bzh/nautile/evenements/the-magic-beam-sisters-and-robert/">
-        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/AFFICHES-Magic-360x460.png" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async">        <div class="calendar-meta">
-                                        <div class="day">04</div>
-                <div class="month">avril 2026</div>
-                    </div>
-        <section>
-            <div class="title-event">The Magic Beam Sisters and Robert</div>
-                            <div class="horaires"><i class="fal fa-clock fa-"></i> 20:30</div>
-                    </section>
-    </a>]]></content>
+        <title type="html"><![CDATA[Ciné Films #3 | « Le grand bain »                                                                                    de Gilles Lellouche]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-3-le-grand-bain/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-3-le-grand-bain/"/>
+        <updated>2025-11-30T19:28:22.248Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>13 jan</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/5-le-grand-bain-900x600-listing.jpg" alt="Ciné Films #3 | «&nbsp;Le grand bain&nbsp;»">
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films #3 | «&nbsp;Le grand bain&nbsp;»                                                                                    <span>de Gilles Lellouche</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films #3 | «&nbsp;Le grand bain&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mar 13 jan</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EBEN – Création Douar Nevez (Nouvelle terre)]]></title>
-        <id>https://www.foret-fouesnant.bzh/nautile/evenements/eben-creation-douar-nevez-nouvelle-terre/</id>
-        <link href="https://www.foret-fouesnant.bzh/nautile/evenements/eben-creation-douar-nevez-nouvelle-terre/"/>
-        <updated>2025-11-30T19:18:35.878Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.foret-fouesnant.bzh/nautile/evenements/eben-creation-douar-nevez-nouvelle-terre/">
-        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/EBEN-CC-03331-360x460.jpg" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async">        <div class="calendar-meta">
-                                        <div class="day">23</div>
-                <div class="month">mai 2026</div>
-                    </div>
-        <section>
-            <div class="title-event">EBEN – Création Douar Nevez (Nouvelle terre)</div>
-                            <div class="horaires"><i class="fal fa-clock fa-"></i> 20:30</div>
-                    </section>
-    </a>]]></content>
+        <title type="html"><![CDATA[Jeanne Cherhal]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/jeanne-cherhal/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/jeanne-cherhal/"/>
+        <updated>2025-11-30T19:28:22.249Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>17 jan</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/9-cherhal-900x600-listing.jpg" alt="Jeanne Cherhal">
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Jeanne Cherhal                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Chanson                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Jeanne Cherhal                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + 1re partie                                                        </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 17 jan</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ben l’Oncle Soul]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/ben-loncle-soul/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/ben-loncle-soul/"/>
+        <updated>2025-11-30T19:28:22.250Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>30 jan</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ben l’Oncle Soul" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/10-ben-soul-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/10-ben-soul-900x600-listing.jpg" alt="Ben l&rsquo;Oncle Soul"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ben l’Oncle Soul                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Funk Soul                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ben l’Oncle Soul                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + 1re partie                                                        </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>ven 30 jan</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciné Films Junior #3 | « Hugo Cabret »                                                                                    de MarTin Scorsese]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-junior-3-hugo-cabret/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-junior-3-hugo-cabret/"/>
+        <updated>2025-11-30T19:28:22.252Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>04 fév</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ciné Films Junior #3 | «&nbsp;Hugo Cabret&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/6-hugo-cabret-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/6-hugo-cabret-900x600-listing.jpg" alt="Ciné Films Junior #3 | « Hugo Cabret »"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films Junior #3 | «&nbsp;Hugo Cabret&nbsp;»                                                                                    <span>de MarTin Scorsese</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                             </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films Junior #3 | «&nbsp;Hugo Cabret&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mer 04 fév</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            14h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yves Jamait                                                                                    213 ProducTions présenTe]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/yves-jamait-2/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/yves-jamait-2/"/>
+        <updated>2025-11-30T19:28:22.253Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>14 fév</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Yves Jamait" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/11-jamait-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/11-jamait-900x600-listing.jpg" alt="Yves Jamait"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Yves Jamait                                                                                    <span>213 ProducTions présenTe</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Chanson                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Yves Jamait                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 14 fév</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciné Films #4 | « 12 hommes en colère »                                                                                    de Sydney LumeT]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-4-12-hommes-en-colere/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-4-12-hommes-en-colere/"/>
+        <updated>2025-11-30T19:28:22.255Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>03 mars</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ciné Films #4 | «&nbsp;12 hommes en colère&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/7-12-hommes-en-colere-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/7-12-hommes-en-colere-900x600-listing.jpg" alt="Ciné Films #4 | « 12 hommes en colère »"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films #4 | «&nbsp;12 hommes en colère&nbsp;»                                                                                    <span>de Sydney LumeT</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films #4 | «&nbsp;12 hommes en colère&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mar 03 mars</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bertrand Belin]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/bertrand-belin/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/bertrand-belin/"/>
+        <updated>2025-11-30T19:28:22.256Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>03 avr</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Bertrand Belin" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/12-belin-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/12-belin-900x600-listing.jpg" alt="Bertrand Belin"></noscript>
+                                    </div>
+                                                                        <div class="agenda_listing_statut_spectacle">
+
+                                        <div class="agenda_listing_statut_spectacle_inner">
+
+                                            <div class="agenda_listing_statut_spectacle_top agenda_listing_statut_spectacle_top_complet">
+
+                                            </div>
+
+                                            <div class="agenda_listing_statut_spectacle_bottom">
+                                                Complet                                                                                            </div>
+                                        
+                                        </div>
+                                        
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Bertrand Belin                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Chanson                                             </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Bertrand Belin                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + Paul Barreyre                                                        </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>ven 03 avr</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciné Films #5 | « La part des anges »                                                                                    de Ken Loach]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-5-la-part-des-anges/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-5-la-part-des-anges/"/>
+        <updated>2025-11-30T19:28:22.257Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>07 avr</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ciné Films #5 | «&nbsp;La part des anges&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/8-la-part-des-anges-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/8-la-part-des-anges-900x600-listing.jpg" alt="Ciné Films #5 | « La part des anges »"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films #5 | «&nbsp;La part des anges&nbsp;»                                                                                    <span>de Ken Loach</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films #5 | «&nbsp;La part des anges&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mar 07 avr</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yael Naïm]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/yael-naim/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/yael-naim/"/>
+        <updated>2025-11-30T19:28:22.260Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>10 avr</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Yael Naïm" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/13-naim-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/13-naim-900x600-listing.jpg" alt="Yael Naïm"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Yael Naïm                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Chanson                                             </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Yael Naïm                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + 1re partie                                                        </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>ven 10 avr</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Djamil Le Schlag • “Exode(s)”                                                                                    213 ProducTions en accord avec ODT Prod présenTenT]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/djamil-le-schlag-exodes/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/djamil-le-schlag-exodes/"/>
+        <updated>2025-11-30T19:28:22.261Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>30 avr</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Djamil Le Schlag • “Exode(s)”" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/14-djamil-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/14-djamil-900x600-listing.jpg" alt="Djamil Le Schlag • “Exode(s)”"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Djamil Le Schlag • “Exode(s)”                                                                                    <span>213 ProducTions en accord avec ODT Prod présenTenT</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Humour                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Djamil Le Schlag • “Exode(s)”                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>jeu 30 avr</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zentone]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/zentone/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/zentone/"/>
+        <updated>2025-11-30T19:28:22.262Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                                                                    <span>13 mai</span>
+                                                                            </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Zentone" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/15-zentone-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/15-zentone-900x600-listing.jpg" alt="Zentone"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Zentone                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Dub                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Zentone                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + DubChroniks                                                         </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mer 13 mai</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinclair                                                                                    213 ProducTions présenTe]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/sinclair/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/sinclair/"/>
+        <updated>2025-11-30T19:28:22.264Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>29 nov</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/6-sinclair-900x600-listing.jpg" alt="Sinclair">
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Sinclair                                                                                    <span>213 ProducTions présenTe</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Funk                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Sinclair                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 29 nov</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chicago Blues Festival 2025                                                                                    Avec Selwyn Birchwood • Carly Harvey]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/chicago-blues-festival-2025/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/chicago-blues-festival-2025/"/>
+        <updated>2025-11-30T19:28:22.265Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>22 nov</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/5-chicago-blues-900x600-listing.jpg" alt="Chicago Blues Festival 2025">
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Chicago Blues Festival 2025                                                                                    <span>Avec Selwyn Birchwood • Carly Harvey</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Blues                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Chicago Blues Festival 2025                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + Képa                                                        </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 22 nov</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciné Films #2 | « Une affaire de famille »                                                                                    de Hirokazu Kore-Eda]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-2-une-affaire-de-famille/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-2-une-affaire-de-famille/"/>
+        <updated>2025-11-30T19:28:22.267Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>18 nov</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/3-une-affaire-de-famille-900x600-listing.jpg" alt="Ciné Films #2 | «&nbsp;Une affaire de famille&nbsp;»">
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films #2 | «&nbsp;Une affaire de famille&nbsp;»                                                                                    <span>de Hirokazu Kore-Eda</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                             </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films #2 | «&nbsp;Une affaire de famille&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mar 18 nov</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thomas Dutronc]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/thomas-dutronc/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/thomas-dutronc/"/>
+        <updated>2025-11-30T19:28:22.268Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>14 nov</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/4-dutronc-900x600-listing.jpg" alt="Thomas Dutronc">
+                                    </div>
+                                                                        <div class="agenda_listing_statut_spectacle">
+
+                                        <div class="agenda_listing_statut_spectacle_inner">
+
+                                            <div class="agenda_listing_statut_spectacle_top agenda_listing_statut_spectacle_top_complet">
+
+                                            </div>
+
+                                            <div class="agenda_listing_statut_spectacle_bottom">
+                                                Complet                                            </div>
+                                        
+                                        </div>
+                                        
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Thomas Dutronc                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Chanson                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Thomas Dutronc                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + Joseph Chedid                                                        </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>ven 14 nov</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yoa • Concert à l’Hydrophone                                                                                    Dans le cadre du “FesTival Les Indisciplinées”]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/yoa/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/yoa/"/>
+        <updated>2025-11-30T19:28:22.270Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>08 nov</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Yoa • Concert à l’Hydrophone" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/3-yoa-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/3-yoa-900x600-listing.jpg" alt="Yoa • Concert à l&rsquo;Hydrophone"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Yoa • Concert à l’Hydrophone                                                                                    <span>Dans le cadre du “FesTival Les Indisciplinées”</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Pop                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Yoa • Concert à l’Hydrophone                                                                                                        <div class="agenda_listing_spectacle_inner_partie">
+                                                            + 1re partie                                                        </div>
+                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 08 nov</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swann Périssé                                                                                    CarTel ConcerTs présenTe]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/swann-perisse/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/swann-perisse/"/>
+        <updated>2025-11-30T19:28:22.271Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>25 oct</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Swann Périssé" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/2-perisse-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/2-perisse-900x600-listing.jpg" alt="Swann Périssé"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Swann Périssé                                                                                    <span>CarTel ConcerTs présenTe</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Humour                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Swann Périssé                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 25 oct</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciné Films Junior #1 | « Là-Haut »                                                                                    de PeTe DocTer]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-junior-1-la-haut/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-junior-1-la-haut/"/>
+        <updated>2025-11-30T19:28:22.273Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>22 oct</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ciné Films Junior #1 | «&nbsp;Là-Haut&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/2-la-haut-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/2-la-haut-900x600-listing.jpg" alt="Ciné Films Junior #1 | « Là-Haut »"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films Junior #1 | «&nbsp;Là-Haut&nbsp;»                                                                                    <span>de PeTe DocTer</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films Junior #1 | «&nbsp;Là-Haut&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mer 22 oct</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            14h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciné Films #1 | « Je verrai toujours vos visages »                                                                                    de Jeanne Herry]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-1-je-verrai-toujours-vos-visages/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-1-je-verrai-toujours-vos-visages/"/>
+        <updated>2025-11-30T19:28:22.274Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>14 oct</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ciné Films #1 | «&nbsp;Je verrai toujours vos visages&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/1-je-verrais--900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/1-je-verrais--900x600-listing.jpg" alt="Ciné Films #1 | « Je verrai toujours vos visages »"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films #1 | «&nbsp;Je verrai toujours vos visages&nbsp;»                                                                                    <span>de Jeanne Herry</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films #1 | «&nbsp;Je verrai toujours vos visages&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mar 14 oct</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GiedRé]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/giedre/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/giedre/"/>
+        <updated>2025-11-30T19:28:22.275Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>05 oct</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="GiedRé" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/1-giedre-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/1-giedre-900x600-listing.jpg" alt="GiedRé"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        GiedRé                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Chanson - Humour                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                GiedRé                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>dim 05 oct</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            17h                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
     </entry>
 </feed>
