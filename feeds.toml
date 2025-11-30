@@ -14,6 +14,7 @@ titleSelector = "a h2"
 contentSelector = ["a p:first-of-type", "a p:nth-of-type(2)"]
 # dateSelector = "a p:first-of-type"
 
+
 [archipelfouesnant]
 title = "Archipel Fouesnant"
 url = "https://archipel.ville-fouesnant.fr/agenda-culturel/"
@@ -21,25 +22,180 @@ entrySelector = ".grid-item"
 linkSelector = "a"
 titleSelector = ".contenu a h3"
 contentSelector = [".entete", ".contenu"]
+onFail = "stale"
 
 [thcornouaille]
 title = "Th^ Corn"
 url = "https://www.theatre-cornouaille.fr/agenda/"
 entrySelector = ".card"
-titleSelector = ".card-infos > h3.title.bold"
+titleSelector = ".card-infos > h3"
 linkSelector = "a.global_url"
 contentSelector = ".card-content"
 waitUntil = "networkidle"
 waitForSelector = ".card"
 onFail = "stale"
 
-[thcornouaille2]
-title = "Th^ Corn"
-url = "https://www.theatre-cornouaille.fr/agenda/"
-entrySelector = ".card"
-titleSelector = ".card-infos > h3.title.bold"
-linkSelector = "a.global_url"
-contentSelector = ".card-content"
+[capcaval]
+title = "Cap Caval Penmac'h"
+url = "https://www.cap-caval.fr/programmation/"
+entrySelector = ".evenement"
+titleSelector = "h3"
+linkSelector = "*"
+contentSelector = ["img", "div", "h3", "span"]
 waitUntil = "networkidle"
 waitForSelector = ".card"
+onFail = "stale"
+
+[centreculturosporden]
+title = "Centre culturel Rosporden"
+url = "https://centreculturelrosporden.bzh/categorie-spectacle/saison/"
+entrySelector = ".blocSpectacle"
+titleSelector = "h3"
+linkSelector = "a"
+onFail = "stale"
+
+[hydrophone]
+title = "Hydrophone"
+url = "https://www.hydrophone.fr/-Agenda-.html"
+entrySelector = ".agenda-item"
+titleSelector = ".divTexte > .item-container > .agenda-item-nom > div > h3"
+linkSelector = "a"
+onFail = "stale"
+
+[komzblog]
+title = 'Komzblog'
+url = 'https://www.komzblog.bzh/evenements/'
+entrySelector = '.item-liste'
+titleSelector = 'span'
+linkSelector = 'div > div:nth-child(4) > div:nth-child(1) > img'
+onFail = "stale"
+
+[athenaergue]
+title = 'Athena Ergue'
+url = 'https://www.lathena.bzh/systeme/agenda/?systemeParams=events&pages=10'
+entrySelector = 'article'
+titleSelector = 'a > .card__container .card__content > h3'
+linkSelector = 'a'
+onFail = "stale"
+
+[lacarene]
+title = 'La Carène Brest'
+url = [
+  'https://www.lacarene.fr/-agenda-.html',
+  'https://www.lacarene.fr/-agenda-.html?debut_agenda=25#pagination_agenda',
+]
+entrySelector = 'li.item.evenement'
+titleSelector = 'a > div > figure > figcaption > h2'
+linkSelector = 'a'
+onFail = "stale"
+
+[usconcarneau]
+title = 'US Concarneau'
+url = ['https://billetterie-usconcarneau.tickandlive.com/']
+entrySelector = '.uk-card'
+titleSelector = 'a > div > h4'
+linkSelector = 'a'
+dateSelector = 'a > div > span'
+dateFormat = 'EEEE d MMMM yyyy'
+onFail = "stale"
+
+[sterenn]
+title = 'Sterenn'
+url = ['https://www.mjctregunc.fr/%C3%A9v%C3%A9nements/programmation/']
+entrySelector = '.j-module.n.j-hgrid'
+titleSelector = 'div:nth-child(3) > div > div > h1'
+linkSelector = 'div > div > div > figure > a'
+onFail = "stale"
+
+[lesarcsqueven]
+title = 'Les Arcs'
+url = ['https://www.lesarcs.bzh/programmation/']
+entrySelector = '.agenda_listing_spectacle_hover'
+titleSelector = 'div > div  h2'
+linkSelector = '*'
+onFail = "stale"
+
+[nautile]
+title = 'Nautile'
+url = ['https://www.foret-fouesnant.bzh/nautile/spectacles/']
+entrySelector = '.bloc-lastevent'
+titleSelector = 'a > section > div'
+linkSelector = 'a'
+onFail = "stale"
+
+[atelierculturel]
+title = 'Atelier Culture'
+url = 'https://www.atelier-culturel.fr/'
+entrySelector = '.el-item.uk-inverse-dark'
+titleSelector = 'a > div > div > h3'
+linkSelector = 'a'
+onFail = "stale"
+
+[runarpuns]
+title = 'Run Ar Puns'
+url = 'https://runarpuns.com/agenda/'
+entrySelector = 'article'
+titleSelector = 'div:nth-child(2) > h4 > a'
+linkSelector = 'div > a'
+onFail = "stale"
+
+[triskell]
+title = 'Triskell'
+url = 'https://triskell.ville-pontlabbe.bzh/agenda-saison-culturelle-finistere/'
+entrySelector = '.item'
+titleSelector = 'div:nth-child(2) > div'
+linkSelector = 'div > a'
+onFail = "stale"
+
+[novomax]
+title = 'Novomax'
+url = 'https://lenovomax.bzh/agenda/'
+entrySelector = '.unevt.evenement'
+titleSelector = [
+  'div > div > div:nth-child(3) > a > div',
+  'div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1)',
+]
+linkSelector = 'div > div > div:nth-child(3) > a'
+onFail = "stale"
+
+[quimperbasket]
+title = 'Quimper Basket'
+url = 'https://nm1.ffbb.com/equipe/calendrier/264-quimper'
+entrySelector = 'tr'
+titleSelector = ['td:nth-child(3) > a']
+linkSelector = 'td:nth-child(3) > a'
+onFail = "stale"
+
+[theatrelorient]
+title = 'Th^ Lorient'
+url = 'https://theatredelorient.fr/saison/'
+entrySelector = '.col-xxs-12.col-md-6.col-lg-4'
+titleSelector = ['a > div > h2']
+linkSelector = 'a'
+onFail = "stale"
+
+[cabaretvauban]
+title = 'Cabaret Vauban'
+url = [
+  'https://cabaretvauban.com/programme.html?page=1',
+  'https://cabaretvauban.com/programme.html?page=2',
+  'https://cabaretvauban.com/programme.html?page=3',
+  'https://cabaretvauban.com/programme.html?page=4',
+]
+entrySelector = '.ic-list-event'
+titleSelector = ['div.ic-event-title']
+linkSelector = 'a'
+waitUntil = "networkidle"
+onFail = "stale"
+# waitForSelector = ".card"
+
+
+[officetourisme]
+title = 'Office Tourisme'
+url = [
+  'https://www.deconcarneauapontaven.com/sortir/agenda-des-animation-de-concarneau-a-pont-aven/?dates&tri=dates_desc&list_type=list',
+]
+entrySelector = '.listing_inner_row_v2'
+titleSelector = ['a > h2']
+linkSelector = 'a'
 onFail = "stale"
