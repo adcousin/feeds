@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://billetterie-usconcarneau.tickandlive.com/</id>
     <title>US Concarneau</title>
-    <updated>2025-11-30T19:29:09.087Z</updated>
+    <updated>2025-12-01T04:53:51.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://billetterie-usconcarneau.tickandlive.com/media/cache/favicon_16/images/62de9030ebaf57e61e0fc24cf44a9f582665326b.png</icon>
     <entry>
@@ -23,7 +23,7 @@
         <title type="html"><![CDATA[WEB / Pack Hiver]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver"/>
-        <updated>2025-11-30T19:28:14.155Z</updated>
+        <updated>2025-11-30T19:28:14.154Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver" data-cy="home-event-link">
                                                         <div class="tk-card-image">
                                                                                                                                                                                                                                                 <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/8d2a5cc4790a0a6a9b814d8443ce18507ce1a3e3.jpg" alt="WEB / Pack Hiver">
@@ -211,7 +211,7 @@
         <title type="html"><![CDATA[USC / STADE BRIOCHIN]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310"/>
-        <updated>2025-11-30T19:28:14.173Z</updated>
+        <updated>2025-11-30T19:28:14.156Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-7/129310" data-cy="home-event-link">
                                                         <div class="tk-card-image">
                                                                                                                                                                                                                                                 <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/8c48fe2fb09b2c24d3dc0138105d28d1700cc5b2.jpg" alt="USC / STADE BRIOCHIN">
@@ -225,7 +225,7 @@
         <title type="html"><![CDATA[USC / SM CAEN]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311"/>
-        <updated>2025-11-30T19:28:14.175Z</updated>
+        <updated>2025-11-30T19:28:14.158Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311" data-cy="home-event-link">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -241,7 +241,7 @@
         <title type="html"><![CDATA[USC / FC BOURG-PERONNAS 01]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312"/>
-        <updated>2025-11-30T19:28:14.176Z</updated>
+        <updated>2025-11-30T19:28:14.160Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312" data-cy="home-event-link">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -257,7 +257,7 @@
         <title type="html"><![CDATA[USC / SC AUBAGNE AIR BEL]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297"/>
-        <updated>2025-11-30T19:28:14.178Z</updated>
+        <updated>2025-11-30T19:28:14.161Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-10/129297" data-cy="home-event-link">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -273,7 +273,7 @@
         <title type="html"><![CDATA[USC / FC VERSAILLES]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298"/>
-        <updated>2025-11-30T19:28:14.181Z</updated>
+        <updated>2025-11-30T19:28:14.162Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298" data-cy="home-event-link" tabindex="-1">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -289,7 +289,7 @@
         <title type="html"><![CDATA[USC / DIJON FCO]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299"/>
-        <updated>2025-11-30T19:28:14.182Z</updated>
+        <updated>2025-11-30T19:28:14.164Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-12/129299" data-cy="home-event-link" tabindex="-1">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -305,7 +305,7 @@
         <title type="html"><![CDATA[USC / VALENCIENNES FC]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300"/>
-        <updated>2025-11-30T19:28:14.184Z</updated>
+        <updated>2025-11-30T19:28:14.167Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-13/129300" data-cy="home-event-link" tabindex="-1">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -321,7 +321,7 @@
         <title type="html"><![CDATA[USC / LE PUY FOOT 43]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301"/>
-        <updated>2025-11-30T19:28:14.185Z</updated>
+        <updated>2025-11-30T19:28:14.168Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-14/129301" data-cy="home-event-link" tabindex="-1">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -337,7 +337,7 @@
         <title type="html"><![CDATA[USC / FC ROUEN]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302"/>
-        <updated>2025-11-30T19:28:14.187Z</updated>
+        <updated>2025-11-30T19:28:14.169Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-15/129302" data-cy="home-event-link" tabindex="-1">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -353,7 +353,7 @@
         <title type="html"><![CDATA[USC / PARIS 13 ATLETICO]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303"/>
-        <updated>2025-11-30T19:28:14.188Z</updated>
+        <updated>2025-11-30T19:28:14.171Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-16/129303" data-cy="home-event-link" tabindex="-1">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
@@ -369,7 +369,7 @@
         <title type="html"><![CDATA[USC / FC VILLEFRANCHE BEAUJOLAIS]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304"/>
-        <updated>2025-11-30T19:28:14.189Z</updated>
+        <updated>2025-11-30T19:28:14.172Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-17/129304" data-cy="home-event-link" tabindex="-1">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
