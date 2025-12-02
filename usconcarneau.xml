@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://billetterie-usconcarneau.tickandlive.com/</id>
     <title>US Concarneau</title>
-    <updated>2025-12-01T04:53:51.160Z</updated>
+    <updated>2025-12-02T04:34:27.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://billetterie-usconcarneau.tickandlive.com/media/cache/favicon_16/images/62de9030ebaf57e61e0fc24cf44a9f582665326b.png</icon>
     <entry>
@@ -20,6 +20,20 @@
                                                 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abonnement Mi Saison 25/26]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26"/>
+        <updated>2025-12-02T04:32:28.949Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26">
+                                                    <div class="tk-card-image">
+                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/fallback_placeholder/rc/SvJwcmrI/images/a4aadb978db13ed71cdef85da3212c5b31f7b111.png" alt="Abonnement Mi Saison 25/26">
+                                                    </div>
+                                                    <div class="uk-padding-small uk-padding-remove-top">
+                                                        <h4 class="uk-text-bold uk-margin-top">Abonnement Mi Saison 25/26</h4>
+                                                                                                                                                                        <span>Du 16 janvier 2026 au 15 mai 2026</span>                                                                                                            </div>
+                                                </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WEB / Pack Hiver]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver"/>
@@ -31,6 +45,20 @@
                                                         <div class="uk-padding-small uk-padding-remove-top">
                                                             <h4 class="uk-text-bold uk-margin-top tk-event-title">WEB / Pack Hiver</h4>
                                                                                                                                                                                     <span style="font-size:13px">Du 5 décembre 2025 au 16 janvier 2026</span>                                                                                                                    </div>
+                                                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abonnement Mi Saison 25/26]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26"/>
+        <updated>2025-12-02T04:32:28.950Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26" data-cy="home-event-link">
+                                                        <div class="tk-card-image">
+                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/fallback_placeholder/rc/SvJwcmrI/images/a4aadb978db13ed71cdef85da3212c5b31f7b111.png" alt="Abonnement Mi Saison 25/26">
+                                                        </div>
+                                                        <div class="uk-padding-small uk-padding-remove-top">
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">Abonnement Mi Saison 25/26</h4>
+                                                                                                                                                                                    <span style="font-size:13px">Du 16 janvier 2026 au 15 mai 2026</span>                                                                                                                    </div>
                                                     </a>]]></content>
     </entry>
     <entry>
@@ -54,9 +82,7 @@
         <updated>2025-11-30T19:28:14.158Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311">
                                                     <div class="tk-card-image">
-                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
-                                                            <div class="shop-item-status">Bientôt en vente</div>
-                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/75c68652adbbadec446d7b98792404d3508e68b4.jpg" alt="USC / SM CAEN">
+                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/75c68652adbbadec446d7b98792404d3508e68b4.jpg" alt="USC / SM CAEN">
                                                     </div>
                                                     <div class="uk-padding-small uk-padding-remove-top">
                                                         <h4 class="uk-text-bold uk-margin-top">USC / SM CAEN</h4>
@@ -228,9 +254,7 @@
         <updated>2025-11-30T19:28:14.158Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311" data-cy="home-event-link">
                                                         <div class="tk-card-image">
-                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
-                                                                <div class="shop-item-status">Bientôt en vente</div>
-                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/75c68652adbbadec446d7b98792404d3508e68b4.jpg" alt="USC / SM CAEN">
+                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/75c68652adbbadec446d7b98792404d3508e68b4.jpg" alt="USC / SM CAEN">
                                                         </div>
                                                         <div class="uk-padding-small uk-padding-remove-top">
                                                             <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / SM CAEN</h4>

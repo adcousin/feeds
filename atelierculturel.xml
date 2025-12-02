@@ -2,34 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.atelier-culturel.fr/</id>
     <title>Atelier Culture</title>
-    <updated>2025-12-01T04:53:51.173Z</updated>
+    <updated>2025-12-02T04:34:27.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.atelier-culturel.fr/images/atelier_culturel/2020_21/favicon/AC_2020_21.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Rollercoaster]]></title>
-        <id>https://www.atelier-culturel.fr/saison-25-26/rollercoaster</id>
-        <link href="https://www.atelier-culturel.fr/saison-25-26/rollercoaster"/>
-        <updated>2025-11-30T19:28:31.195Z</updated>
-        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/rollercoaster">    
-        
-            
-<picture>
-<source type="image/webp" srcset="/templates/yootheme/cache/95/Wes%20Peden%20carre%202-951437be.webp 610w, /templates/yootheme/cache/ab/Wes%20Peden%20carre%202-ab2ca902.webp 768w, /templates/yootheme/cache/41/Wes%20Peden%20carre%202-418f50b4.webp 1024w, /templates/yootheme/cache/d2/Wes%20Peden%20carre%202-d22ff653.webp 1220w" sizes="(min-width: 610px) 610px">
-<img src="/templates/yootheme/cache/e4/Wes%20Peden%20carre%202-e4f50c70.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
-</picture>
-
-            
-            
-                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
-
-<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Rollercoaster    </h3>
-<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 29 novembre à 20h</div>
-<div class="el-content uk-panel">cirque</div>
-
-</div></div>            
-        
-        </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ensemble Matheus]]></title>
         <id>https://www.atelier-culturel.fr/saison-25-26/ensemble-matheus</id>
@@ -475,6 +450,31 @@
 <h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Bywater Call + Tiwayo    </h3>
 <div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Vendredi 14 novembre à 20h</div>
 <div class="el-content uk-panel">musique</div>
+
+</div></div>            
+        
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollercoaster]]></title>
+        <id>https://www.atelier-culturel.fr/saison-25-26/rollercoaster</id>
+        <link href="https://www.atelier-culturel.fr/saison-25-26/rollercoaster"/>
+        <updated>2025-11-30T19:28:31.195Z</updated>
+        <content type="html"><![CDATA[<a class="uk-flex-1 uk-inline-clip uk-link-toggle" href="/saison-25-26/rollercoaster">    
+        
+            
+<picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/34/Wes%20Peden%20carre%20bichrome-34f9abcc.webp 610w, /templates/yootheme/cache/0a/Wes%20Peden%20carre%20bichrome-0ac13570.webp 768w, /component/ajax/?p=image&amp;src=%7B%22file%22%3A%22images%2Fatelier_culturel%2F2025_26%2FSaison%2FWes%20Peden%20carre%20bichrome.jpg%22%2C%22type%22%3A%22webp%2C85%22%2C%22thumbnail%22%3A%221024%2C1024%2C%22%7D&amp;hash=cc58a103 1024w, /templates/yootheme/cache/44/Wes%20Peden%20carre%20bichrome-449e6bdf.webp 1220w" sizes="(min-width: 610px) 610px">
+<img src="/templates/yootheme/cache/37/Wes%20Peden%20carre%20bichrome-375240f2.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
+</picture>
+
+            
+            
+                        <div class="uk-position-bottom-right uk-position-small uk-tile-default"><div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+
+<h3 class="el-title uk-h1 uk-margin-small-top uk-margin-remove-bottom">        Rollercoaster    </h3>
+<div class="el-meta uk-text-small uk-text-emphasis uk-margin-small-top">Samedi 29 novembre à 20h</div>
+<div class="el-content uk-panel">cirque</div>
 
 </div></div>            
         

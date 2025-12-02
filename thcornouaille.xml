@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-12-01T04:53:51.262Z</updated>
+    <updated>2025-12-02T04:34:27.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -46,31 +46,6 @@
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
 
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Décider de nous-même]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/conference-pierre-zaoui-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/conference-pierre-zaoui-25-26/"/>
-        <updated>2025-10-21T16:15:22.805Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/05152957/25-1201-pierre-zaoui-01_C_jerome-panconi-680x680.jpg?date=97929" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
- <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Conférence</div>  
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">LU <span class="bold">01</span>  19:00 
-
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille - L'Atelier</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
     </entry>
@@ -974,14 +949,14 @@
         <content type="html"><![CDATA[<picture>
 <img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151615/26-0311-love-chapter-2-09_C_andre-le-corre-680x680.jpg?date=108467" alt="" class="w-full h-auto bg-primary">
 </picture>
+<div class="statut absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-primary text-white uppercase px-2 py-1">
+Annulé
+</div>
 <div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
   
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Danse </p> 
 
@@ -992,7 +967,7 @@
  &gt; VE <span class="bold">13</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -2165,6 +2140,31 @@ Complet
  &gt; VE <span class="bold">28</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Décider de nous-même]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/conference-pierre-zaoui-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/conference-pierre-zaoui-25-26/"/>
+        <updated>2025-10-21T16:15:22.805Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/05152957/25-1201-pierre-zaoui-01_C_jerome-panconi-680x680.jpg?date=97929" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Conférence</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">LU <span class="bold">01</span>  19:00 
+
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille - L'Atelier</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
