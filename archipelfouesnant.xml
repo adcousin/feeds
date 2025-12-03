@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-12-02T04:34:27.154Z</updated>
+    <updated>2025-12-03T04:31:23.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -44,66 +44,6 @@
 										
 											
 												Voir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Roi Lear #2]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/le-roi-lear-1/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/le-roi-lear-1/"/>
-        <updated>2025-10-21T14:48:07.405Z</updated>
-        <content type="html"><![CDATA[mardi 2 décembre 2025 
-															
-														
-														
-																												
-
-													
-													Théâtre Le Roi Lear #2
-
-										
-										Théâtre Amer | Mathieu Coblentz | d’après William Shakespeare
-
-										
-										
-											
-												Voir
-											
-											
-																							
-													Réserver]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Roi Lear #1]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/le-roi-lear-1-2/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/le-roi-lear-1-2/"/>
-        <updated>2025-10-21T14:48:07.407Z</updated>
-        <content type="html"><![CDATA[Liste d'attente
-											
-
-																							
-													
-													
-														
-																													
-																mardi 2 décembre 2025 
-															
-														
-														
-																												
-
-													
-													Théâtre Le Roi Lear #1
-
-										
-										Théâtre Amer | Mathieu Coblentz | d’après William Shakespeare
-
-										
-										
-											
-												Voir
-											
-											
-																							
-													Réserver]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Club de lecture #2]]></title>
@@ -588,7 +528,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-1/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-1/"/>
         <updated>2025-10-21T14:48:07.429Z</updated>
-        <content type="html"><![CDATA[lundi 15 décembre 2025 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																lundi 15 décembre 2025 
 															
 														
 														
@@ -614,7 +563,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-2/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-2/"/>
         <updated>2025-10-21T14:48:07.430Z</updated>
-        <content type="html"><![CDATA[mardi 16 décembre 2025 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																mardi 16 décembre 2025 
 															
 														
 														
@@ -640,7 +598,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-3/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-3/"/>
         <updated>2025-10-21T14:48:07.431Z</updated>
-        <content type="html"><![CDATA[mardi 16 décembre 2025 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																mardi 16 décembre 2025 
 															
 														
 														
@@ -1043,7 +1010,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-8/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-8/"/>
         <updated>2025-10-21T14:48:07.451Z</updated>
-        <content type="html"><![CDATA[samedi 17 janvier 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																samedi 17 janvier 2026 
 															
 														
 														
@@ -1207,7 +1183,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-8/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-8/"/>
         <updated>2025-10-21T14:48:07.460Z</updated>
-        <content type="html"><![CDATA[samedi 24 janvier 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																samedi 24 janvier 2026 
 															
 														
 														
@@ -1416,7 +1401,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/club-de-lecture-3/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/club-de-lecture-3/"/>
         <updated>2025-10-21T14:48:07.474Z</updated>
-        <content type="html"><![CDATA[mercredi 4 février 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																mercredi 4 février 2026 
 															
 														
 														
@@ -1560,7 +1554,15 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-10/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-10/"/>
         <updated>2025-10-21T14:48:07.481Z</updated>
-        <content type="html"><![CDATA[samedi 7 février 2026 
+        <content type="html"><![CDATA[Liste d'attente
+											
+
+																							
+													
+													
+														
+																													
+																samedi 7 février 2026 
 															
 														
 														
@@ -2016,7 +2018,15 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/patisseries-turques/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/patisseries-turques/"/>
         <updated>2025-10-21T14:48:07.507Z</updated>
-        <content type="html"><![CDATA[samedi 7 mars 2026 
+        <content type="html"><![CDATA[Liste d'attente
+											
+
+																							
+													
+													
+														
+																													
+																samedi 7 mars 2026 
 															
 														
 														
@@ -2311,7 +2321,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-12/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-12/"/>
         <updated>2025-10-21T14:48:07.524Z</updated>
-        <content type="html"><![CDATA[samedi 14 mars 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																samedi 14 mars 2026 
 															
 														
 														

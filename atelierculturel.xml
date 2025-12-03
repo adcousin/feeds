@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.atelier-culturel.fr/</id>
     <title>Atelier Culture</title>
-    <updated>2025-12-02T04:34:27.147Z</updated>
+    <updated>2025-12-03T04:31:23.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.atelier-culturel.fr/images/atelier_culturel/2020_21/favicon/AC_2020_21.png</icon>
     <entry>
@@ -464,7 +464,7 @@
         
             
 <picture>
-<source type="image/webp" srcset="/templates/yootheme/cache/34/Wes%20Peden%20carre%20bichrome-34f9abcc.webp 610w, /templates/yootheme/cache/0a/Wes%20Peden%20carre%20bichrome-0ac13570.webp 768w, /component/ajax/?p=image&amp;src=%7B%22file%22%3A%22images%2Fatelier_culturel%2F2025_26%2FSaison%2FWes%20Peden%20carre%20bichrome.jpg%22%2C%22type%22%3A%22webp%2C85%22%2C%22thumbnail%22%3A%221024%2C1024%2C%22%7D&amp;hash=cc58a103 1024w, /templates/yootheme/cache/44/Wes%20Peden%20carre%20bichrome-449e6bdf.webp 1220w" sizes="(min-width: 610px) 610px">
+<source type="image/webp" srcset="/templates/yootheme/cache/34/Wes%20Peden%20carre%20bichrome-34f9abcc.webp 610w, /templates/yootheme/cache/0a/Wes%20Peden%20carre%20bichrome-0ac13570.webp 768w, /templates/yootheme/cache/d7/Wes%20Peden%20carre%20bichrome-d73ecd38.webp 1024w, /templates/yootheme/cache/44/Wes%20Peden%20carre%20bichrome-449e6bdf.webp 1220w" sizes="(min-width: 610px) 610px">
 <img src="/templates/yootheme/cache/37/Wes%20Peden%20carre%20bichrome-375240f2.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
 </picture>
 

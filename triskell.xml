@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://triskell.ville-pontlabbe.bzh/agenda-saison-culturelle-finistere/</id>
     <title>Triskell</title>
-    <updated>2025-12-02T04:34:27.186Z</updated>
+    <updated>2025-12-03T04:31:23.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://triskell.ville-pontlabbe.bzh/wp-content/uploads/sites/5/2025/08/cropped-logo-triskell-500px-x-500px-1-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[MÿA – Robinson Khoury / Lynn Adib]]></title>
-        <id>https://triskell.ville-pontlabbe.bzh/evenement/mya-robinson-khoury-lynn-adib/</id>
-        <link href="https://triskell.ville-pontlabbe.bzh/evenement/mya-robinson-khoury-lynn-adib/"/>
-        <updated>2025-11-30T19:28:39.949Z</updated>
-        <content type="html"><![CDATA[<div class="layer-media"><a href="https://triskell.ville-pontlabbe.bzh/evenement/mya-robinson-khoury-lynn-adib/"><img decoding="async" alt="" src="https://triskell.ville-pontlabbe.bzh/wp-content/uploads/sites/5/2025/08/laureenburton-5460-370x370.jpg"></a></div><div class="layer-content"><div class="element element_0 title">MÿA – Robinson Khoury / Lynn Adib</div><div class="element element_1 meta_key"><span class="grid-date">2025-12-02</span></div><div class="element element_3 meta_key"><a class="grid-reserver" target="_blank" href="https://billetterie.ville-pontlabbe.bzh/agenda/125-mya-robinson-khoury">Réserver</a></div><a target="_self" class="element element_2 read_more" href="https://triskell.ville-pontlabbe.bzh/evenement/mya-robinson-khoury-lynn-adib/">Read more.</a><div class="element element_4 custom_taxonomy"><a href="https://triskell.ville-pontlabbe.bzh/evenements/tags/jazz/">Jazz</a> , <a href="https://triskell.ville-pontlabbe.bzh/evenements/tags/musique/">Musique</a></div></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Le poisson qui vivait dans les arbres]]></title>
         <id>https://triskell.ville-pontlabbe.bzh/evenement/le-poisson-qui-vivait-dans-les-arbres/</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://billetterie-usconcarneau.tickandlive.com/</id>
     <title>US Concarneau</title>
-    <updated>2025-12-02T04:34:27.185Z</updated>
+    <updated>2025-12-03T04:31:23.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://billetterie-usconcarneau.tickandlive.com/media/cache/favicon_16/images/62de9030ebaf57e61e0fc24cf44a9f582665326b.png</icon>
     <entry>
@@ -20,16 +20,16 @@
                                                 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abonnement Mi Saison 25/26]]></title>
-        <id>https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26</id>
-        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26"/>
-        <updated>2025-12-02T04:32:28.949Z</updated>
-        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26">
+        <title type="html"><![CDATA[WEB / Abonnement Mi Saison 25/26]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26"/>
+        <updated>2025-12-03T04:30:32.572Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26">
                                                     <div class="tk-card-image">
-                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/fallback_placeholder/rc/SvJwcmrI/images/a4aadb978db13ed71cdef85da3212c5b31f7b111.png" alt="Abonnement Mi Saison 25/26">
+                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/923e5a6bcf231f18e5576c43ed69abafc66da0ef.jpg" alt="WEB / Abonnement Mi Saison 25/26">
                                                     </div>
                                                     <div class="uk-padding-small uk-padding-remove-top">
-                                                        <h4 class="uk-text-bold uk-margin-top">Abonnement Mi Saison 25/26</h4>
+                                                        <h4 class="uk-text-bold uk-margin-top">WEB / Abonnement Mi Saison 25/26</h4>
                                                                                                                                                                         <span>Du 16 janvier 2026 au 15 mai 2026</span>                                                                                                            </div>
                                                 </a>]]></content>
     </entry>
@@ -48,16 +48,16 @@
                                                     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abonnement Mi Saison 25/26]]></title>
-        <id>https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26</id>
-        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26"/>
-        <updated>2025-12-02T04:32:28.950Z</updated>
-        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/abonnement-mi-saison-25-26" data-cy="home-event-link">
+        <title type="html"><![CDATA[WEB / Abonnement Mi Saison 25/26]]></title>
+        <id>https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26</id>
+        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26"/>
+        <updated>2025-12-03T04:30:32.597Z</updated>
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26" data-cy="home-event-link">
                                                         <div class="tk-card-image">
-                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/fallback_placeholder/rc/SvJwcmrI/images/a4aadb978db13ed71cdef85da3212c5b31f7b111.png" alt="Abonnement Mi Saison 25/26">
+                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/923e5a6bcf231f18e5576c43ed69abafc66da0ef.jpg" alt="WEB / Abonnement Mi Saison 25/26">
                                                         </div>
                                                         <div class="uk-padding-small uk-padding-remove-top">
-                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">Abonnement Mi Saison 25/26</h4>
+                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">WEB / Abonnement Mi Saison 25/26</h4>
                                                                                                                                                                                     <span style="font-size:13px">Du 16 janvier 2026 au 15 mai 2026</span>                                                                                                                    </div>
                                                     </a>]]></content>
     </entry>
