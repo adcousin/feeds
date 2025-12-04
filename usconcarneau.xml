@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://billetterie-usconcarneau.tickandlive.com/</id>
     <title>US Concarneau</title>
-    <updated>2025-12-03T04:31:23.510Z</updated>
+    <updated>2025-12-04T04:35:22.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://billetterie-usconcarneau.tickandlive.com/media/cache/favicon_16/images/62de9030ebaf57e61e0fc24cf44a9f582665326b.png</icon>
     <entry>
@@ -51,7 +51,7 @@
         <title type="html"><![CDATA[WEB / Abonnement Mi Saison 25/26]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26"/>
-        <updated>2025-12-03T04:30:32.597Z</updated>
+        <updated>2025-12-03T04:30:32.572Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26" data-cy="home-event-link">
                                                         <div class="tk-card-image">
                                                                                                                                                                                                                                                 <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/923e5a6bcf231f18e5576c43ed69abafc66da0ef.jpg" alt="WEB / Abonnement Mi Saison 25/26">

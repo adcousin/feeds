@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hydrophone.fr/-Agenda-.html</id>
     <title>Hydrophone</title>
-    <updated>2025-12-03T04:31:23.516Z</updated>
+    <updated>2025-12-04T04:35:22.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hydrophone.fr/theme/hydro-r-1_0/favicon.ico</icon>
     <entry>
@@ -108,7 +108,7 @@
 					
 					
 					<div class="d-block agenda-item-etat text-uppercase d-flex align-items-center flex-wrap bg-danger clearfix">
-						<div class="w-100"><h4 class="mb-0" style="font-size: 1.3rem;">Dernières places</h4></div>
+						<div class="w-100"><h4 class="mb-0">Complet</h4></div>
 					</div>
 					
 
@@ -166,6 +166,10 @@
 					</div><!--end div haut-->
 
 					
+					
+					<div class="d-block agenda-item-etat text-uppercase d-flex align-items-center flex-wrap bg-danger clearfix">
+						<div class="w-100"><h4 class="mb-0" style="font-size: 1.3rem;">Dernières places</h4></div>
+					</div>
 					
 
 					<div class="d-block item-container mt-auto w-100 clearfix">
