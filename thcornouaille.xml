@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-12-04T04:35:22.115Z</updated>
+    <updated>2025-12-05T04:32:29.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -50,28 +50,6 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rencontres paysannes]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/"/>
-        <updated>2025-11-24T16:11:52.809Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/24113336/25-1203-rencontre-paysannes-01-680x680.jpg?date=109680" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
- <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Rencontre</div>  
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">ME <span class="bold">03</span>  18:30 
-
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille - Espace cabaret</p>
-
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bezperan]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/"/>
@@ -98,28 +76,6 @@
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blind test musical]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/blind-test-musical-decembre-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/blind-test-musical-decembre-25-26/"/>
-        <updated>2025-10-21T16:15:22.810Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/28103207/25-1204-blind-test-680x680.jpg?date=86000" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
- <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Impromptu</div>  
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">JE <span class="bold">04</span>  19:00 
-
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
-
 </div>
 </div>]]></content>
     </entry>
@@ -384,6 +340,9 @@
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Cirque </p> 
 
@@ -391,10 +350,10 @@
 </div>
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
 <p class="date mr-2">MA <span class="bold">20</span> 
- &gt; VE <span class="bold">23</span> 
+ &gt; DI <span class="bold">25</span> 
 </p>
 <p class="hidden md:block bold lieu">Divers lieux</p>
-
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
     </entry>
@@ -1149,7 +1108,7 @@ Annulé
         <link href="https://www.theatre-cornouaille.fr/projects/lepatante-epopee-25-26/"/>
         <updated>2025-10-21T16:15:22.862Z</updated>
         <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/05154116/Epantante-Epopee-1-credit-C-Raynaud-de-Lage-680x680.jpg?date=113572" alt="" class="w-full h-auto bg-primary">
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/12/04102239/26-0505-epatante-epopee-13_C_christophe-raynaud-de-lage-680x680.jpg?date=139054" alt="" class="w-full h-auto bg-primary">
 </picture>
 <div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
  <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#009ec3">Sonik</div> 
@@ -1204,7 +1163,7 @@ Annulé
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le Rêve de Polyphème]]></title>
+        <title type="html"><![CDATA[Polyphème — Murmurations]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/le-reve-de-polypheme-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/le-reve-de-polypheme-25-26/"/>
         <updated>2025-10-21T16:15:22.865Z</updated>
@@ -2166,6 +2125,50 @@ Complet
 </p>
 <p class="hidden md:block bold lieu">Le Triskell - Pont-L’Abbé</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rencontres paysannes]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/rencontres-paysannes-25-26/"/>
+        <updated>2025-11-24T16:11:52.809Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/24113336/25-1203-rencontre-paysannes-01-680x680.jpg?date=109680" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Rencontre</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">ME <span class="bold">03</span>  18:30 
+
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind test musical]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/blind-test-musical-decembre-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/blind-test-musical-decembre-25-26/"/>
+        <updated>2025-10-21T16:15:22.810Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/11/28103207/25-1204-blind-test-680x680.jpg?date=86000" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Impromptu</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">JE <span class="bold">04</span>  19:00 
+
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+
 </div>
 </div>]]></content>
     </entry>

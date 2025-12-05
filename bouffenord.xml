@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bouffesdunord.com/fr/la-saison</id>
     <title>Th^ Bouffe Nord</title>
-    <updated>2025-12-04T04:35:22.211Z</updated>
+    <updated>2025-12-05T04:32:29.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bouffesdunord.com/bundles/lehubagencebdn/images/favicon/android-icon-192x192.png?v5</icon>
     <entry>
@@ -108,6 +108,6 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/i-will-survive</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/i-will-survive"/>
         <updated>2025-10-21T14:32:54.661Z</updated>
-        <content type="html"><![CDATA[Du 29 mai au 27 juin 2026 Jean-Christophe Meurisse]]></content>
+        <content type="html"><![CDATA[Du 29 mai au 27 juin 2026 Jean-Christophe Meurisse •  Les Chiens de Navarre]]></content>
     </entry>
 </feed>

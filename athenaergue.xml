@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lathena.bzh/systeme/agenda/?systemeParams=events&amp;pages=10</id>
     <title>Athena Ergue</title>
-    <updated>2025-12-04T04:35:22.223Z</updated>
+    <updated>2025-12-05T04:32:29.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lathena.bzh/wp-content/themes/athena/assets/src/images/Logos/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Exposition Loïc Frenay | Peinture]]></title>
-        <id>https://www.lathena.bzh/agenda/exposition-loic-frenay-peinture/</id>
-        <link href="https://www.lathena.bzh/agenda/exposition-loic-frenay-peinture/"/>
-        <updated>2025-11-30T19:28:04.311Z</updated>
-        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/exposition-loic-frenay-peinture/" title="Consulter la page Exposition Loïc Frenay | Peinture (même onglet)">
-            <div class="card__container">
-                                <div class="image-wrapper  card__image-wrapper events">
-                                            <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/09/141534261_238520687768224_8879399683608873137_n-385x0-c-default.jpg" alt="" class=" a42-ac-replace-img">
-            <!-- / End output of "public/partials/image.twig" -->                                                            <div class="card__date">
-                                                    <p>
-                                <span class="card__date_day">18</span>
-                                <span class="card__date_month">novembre</span>
-                            </p>
-                                                                            <svg aria-hidden="true" focusable="false">
-                                <use xlink:href="#ic-nav-chevron-bottom"></use>
-                            </svg>
-                            <p>
-                                <span class="card__date_day">04</span>
-                                <span class="card__date_month">décembre</span>
-                            </p>
-                                            </div>
-                </div>
-                <div class="card__content">
-                    <div class="card__infos">
-                                                                            <p class="card__category">Expositions</p>
-                                            </div>
-                                        <h3 class="card__title">Exposition Loïc Frenay | Peinture</h3>
-                                        <div class="card__description">
-                        <p>Des séries de trois tableaux ayant un ou plusieurs points communs ou réalisés dans le même temps et du même format. Une exposition de tableaux intitulée…</p>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Pourquoi un arbre est une poule ? | Spectacle jeune public]]></title>
         <id>https://www.lathena.bzh/agenda/pourquoi-arbre-poule-spectacle-jeune-public-lathena/</id>
