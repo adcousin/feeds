@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lathena.bzh/systeme/agenda/?systemeParams=events&amp;pages=10</id>
     <title>Athena Ergue</title>
-    <updated>2025-12-05T04:32:29.031Z</updated>
+    <updated>2025-12-06T04:25:02.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lathena.bzh/wp-content/themes/athena/assets/src/images/Logos/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Pourquoi un arbre est une poule ? | Spectacle jeune public]]></title>
-        <id>https://www.lathena.bzh/agenda/pourquoi-arbre-poule-spectacle-jeune-public-lathena/</id>
-        <link href="https://www.lathena.bzh/agenda/pourquoi-arbre-poule-spectacle-jeune-public-lathena/"/>
-        <updated>2025-11-30T19:28:04.313Z</updated>
-        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/pourquoi-arbre-poule-spectacle-jeune-public-lathena/" title="Consulter la page Pourquoi un arbre est une poule ? | Spectacle jeune public (même onglet)">
-            <div class="card__container">
-                                <div class="image-wrapper  card__image-wrapper events">
-                                            <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/05/BD_┬®_Pierre_Planchenault-78-scaled-e1748434257456-385x0-c-default.jpg" alt="BD_┬®_Pierre_Planchenault-78" class=" a42-ac-replace-img">
-            <!-- / End output of "public/partials/image.twig" -->                                                            <div class="card__date">
-                                                    <p>
-                                <span class="card__date_day">05</span>
-                                <span class="card__date_month">décembre</span>
-                            </p>
-                                                                    </div>
-                </div>
-                <div class="card__content">
-                    <div class="card__infos">
-                                                                            <p class="card__category">Jeune public</p>
-                                            </div>
-                                        <h3 class="card__title">Pourquoi un arbre est une poule ? | Spectacle jeune public</h3>
-                                        <div class="card__description">
-                        <p>D’où viennent les mots ? Quelle était la toute première danse ? Avec Marc Lacourt et Pauline Valentin les questions philosophiques deviennent matière à délirer le…</p>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Le rêve de Sam- Ciné-Concert enfant]]></title>
         <id>https://www.lathena.bzh/agenda/cine-concert-enfant-lathena/</id>

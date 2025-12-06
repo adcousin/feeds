@@ -2,69 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hydrophone.fr/-Agenda-.html</id>
     <title>Hydrophone</title>
-    <updated>2025-12-05T04:32:28.988Z</updated>
+    <updated>2025-12-06T04:25:02.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hydrophone.fr/theme/hydro-r-1_0/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[The Inspector Cluzo + Grant Haua]]></title>
-        <id>https://www.hydrophone.fr/The-Inspector-Cluzo-Grant-Haua.html</id>
-        <link href="https://www.hydrophone.fr/The-Inspector-Cluzo-Grant-Haua.html"/>
-        <updated>2025-11-30T19:27:54.730Z</updated>
-        <content type="html"><![CDATA[<a href="The-Inspector-Cluzo-Grant-Haua.html">
-			<div class="divImg" style="">
-				<img src="local/cache-gd2/84/24110497aa74150b14d866879a566d.jpg?1745326334" class="img-fluid" width="510" height="588" alt="">
-			</div><!--divImg -->
-			<div class="divTexte d-flex align-items-start flex-column text-center" style="">
-
-					<div class="d-block w-100 p-2 pt-3 text-white">
-
-					
-					<h3 class="mb-0">
-						
-
-					 
-							jeu. 04 déc.
-							
-							 
-								
-								
-								
-								 
-									/&nbsp;20h 
-								
-							
-						
-						
-						</h3>
-
-					
-					
-						<h3>Concert</h3>
-					
-
-					</div><!--end div haut-->
-
-					
-					
-					<div class="d-block agenda-item-etat text-uppercase d-flex align-items-center flex-wrap bg-danger clearfix">
-						<div class="w-100"><h4 class="mb-0">Complet</h4></div>
-					</div>
-					
-
-					<div class="d-block item-container mt-auto w-100 clearfix">
-						
-						
-						<div class="agenda-item-nom p-2 pb-3 pt-3 mt-3">
-							<div class="">
-							<h3 class="mb-0"><p>The Inspector Cluzo + Grant Haua</p></h3>
-							</div>
-						</div>
-					</div><!--end div bas-->
-
-			</div><!--divTexte -->
-		</a>
-		<span class="zz" id="more1"></span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Chameleons + Swell Maps]]></title>
         <id>https://www.hydrophone.fr/Chameleons-Swell-Maps.html</id>
@@ -124,7 +64,7 @@
 
 			</div><!--divTexte -->
 		</a>
-		<span class="zz" id="more2"></span>]]></content>
+		<span class="zz" id="more1"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coilguns + Pneu]]></title>
@@ -184,7 +124,7 @@
 
 			</div><!--divTexte -->
 		</a>
-		<span class="zz" id="more3"></span>]]></content>
+		<span class="zz" id="more2"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Boumshakalaka]]></title>
@@ -242,7 +182,7 @@
 
 			</div><!--divTexte -->
 		</a>
-		<span class="zz" id="more4"></span>]]></content>
+		<span class="zz" id="more3"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SOLANN + Mélissende]]></title>
@@ -302,7 +242,7 @@
 
 			</div><!--divTexte -->
 		</a>
-		<span class="zz" id="more5"></span>]]></content>
+		<span class="zz" id="more4"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WINGED WHEEL + MOSSAÏ MOSSAÏ]]></title>
@@ -363,7 +303,7 @@
 
 			</div><!--divTexte -->
 		</a>
-		<span class="zz" id="more6"></span>]]></content>
+		<span class="zz" id="more5"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT#3 Emile Londonien + Astels]]></title>
@@ -424,7 +364,7 @@
 
 			</div><!--divTexte -->
 		</a>
-		<span class="zz" id="more7"></span>]]></content>
+		<span class="zz" id="more6"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les Nuits de l’Alligator : The Harlem Gospel Travelers + Célia Wa]]></title>
@@ -480,7 +420,7 @@
 
 			</div><!--divTexte -->
 		</a>
-		<span class="zz" id="more8"></span>]]></content>
+		<span class="zz" id="more7"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE BOO RADLEYS + NAYA MO]]></title>
@@ -534,6 +474,66 @@
 						<div class="agenda-item-nom p-2 pb-3 pt-3 mt-3">
 							<div class="">
 							<h3 class="mb-0">THE BOO RADLEYS + NAYA MO</h3>
+							</div>
+						</div>
+					</div><!--end div bas-->
+
+			</div><!--divTexte -->
+		</a>
+		<span class="zz" id="more8"></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEONIE PERNET + nous étions une armée]]></title>
+        <id>https://www.hydrophone.fr/LEONIE-PERNET-nous-etions-une-armee.html</id>
+        <link href="https://www.hydrophone.fr/LEONIE-PERNET-nous-etions-une-armee.html"/>
+        <updated>2025-12-06T04:23:52.509Z</updated>
+        <content type="html"><![CDATA[<a href="LEONIE-PERNET-nous-etions-une-armee.html">
+			<div class="divImg" style="">
+				<img src="local/cache-gd2/47/7f362cf1ede52a6302a00645b9d810.jpg?1763454738" class="img-fluid" width="510" height="588" alt="">
+			</div><!--divImg -->
+			<div class="divTexte d-flex align-items-start flex-column text-center" style="">
+
+					<div class="d-block w-100 p-2 pt-3 text-white">
+
+					
+					<h3 class="mb-0">
+						
+
+					 
+							jeu. 12 févr.
+							
+							 
+								
+								
+								
+								 
+									/&nbsp;20h 
+								
+							
+						
+						
+						</h3>
+
+					
+					
+						<h3>Concert</h3>
+					
+
+					</div><!--end div haut-->
+
+					
+					
+					<div class="d-block agenda-item-etat text-uppercase d-flex align-items-center flex-wrap bg-danger clearfix">
+						<div class="w-100"><h4 class="mb-0">Nouveau</h4></div>
+					</div>
+					
+
+					<div class="d-block item-container mt-auto w-100 clearfix">
+						
+						
+						<div class="agenda-item-nom p-2 pb-3 pt-3 mt-3">
+							<div class="">
+							<h3 class="mb-0">LEONIE PERNET + nous étions une armée</h3>
 							</div>
 						</div>
 					</div><!--end div bas-->

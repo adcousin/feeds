@@ -2,83 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-12-05T04:32:29.010Z</updated>
+    <updated>2025-12-06T04:25:02.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Exposition musée des Beaux-Arts]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/"/>
-        <updated>2025-10-21T16:15:22.791Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/11141420/Delavallee_batteuses-ble-680x680.jpg?date=139998" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
- <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Exposition</div>  
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">MA <span class="bold">04</span> 
- &gt; VE <span class="bold">05</span> 
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
-
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposition musée des Beaux-Arts]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/"/>
-        <updated>2025-10-21T16:15:22.791Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/11141420/Delavallee_batteuses-ble-680x680.jpg?date=139998" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
- <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Exposition</div>  
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">MA <span class="bold">04</span> 
- &gt; VE <span class="bold">05</span> 
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
-
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bezperan]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/"/>
-        <updated>2025-10-21T16:15:22.808Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150250/25-1203-bezperan-02_C_charlotte-costa-680x680.jpg?date=130196" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Danse </p> 
-
-  
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">ME <span class="bold">03</span> 
- &gt; VE <span class="bold">05</span> 
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
-</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Pour la nuit de Noël]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/pour-la-nuit-de-noel-ensemble-il-gardellino-25-26/</id>
@@ -1743,6 +1669,28 @@ Complet
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exposition musée des Beaux-Arts]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/"/>
+        <updated>2025-10-21T16:15:22.791Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/11141420/Delavallee_batteuses-ble-680x680.jpg?date=139998" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Exposition</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">MA <span class="bold">04</span> 
+ &gt; VE <span class="bold">05</span> 
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bastard]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/bastard-krismenn-teatr-piba-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/bastard-krismenn-teatr-piba-25-26/"/>
@@ -2074,6 +2022,28 @@ Complet
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exposition musée des Beaux-Arts]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/exposition-musee-des-beaux-arts-25-26/"/>
+        <updated>2025-10-21T16:15:22.791Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/08/11141420/Delavallee_batteuses-ble-680x680.jpg?date=139998" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+ <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Exposition</div>  
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">MA <span class="bold">04</span> 
+ &gt; VE <span class="bold">05</span> 
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Décider de nous-même]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/conference-pierre-zaoui-25-26/</id>
         <link href="https://www.theatre-cornouaille.fr/projects/conference-pierre-zaoui-25-26/"/>
@@ -2147,6 +2117,36 @@ Complet
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bezperan]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/bezperan-collectif-bilaka-daniel-san-pedro-25-26/"/>
+        <updated>2025-10-21T16:15:22.808Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150250/25-1203-bezperan-02_C_charlotte-costa-680x680.jpg?date=130196" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+   
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
+<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
+ <p> Danse </p> 
+
+  
+</div>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">ME <span class="bold">03</span> 
+ &gt; VE <span class="bold">05</span> 
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
     </entry>
