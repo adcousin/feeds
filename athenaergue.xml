@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lathena.bzh/systeme/agenda/?systemeParams=events&amp;pages=10</id>
     <title>Athena Ergue</title>
-    <updated>2025-12-06T04:25:02.781Z</updated>
+    <updated>2025-12-07T04:36:19.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lathena.bzh/wp-content/themes/athena/assets/src/images/Logos/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Le rêve de Sam- Ciné-Concert enfant]]></title>
-        <id>https://www.lathena.bzh/agenda/cine-concert-enfant-lathena/</id>
-        <link href="https://www.lathena.bzh/agenda/cine-concert-enfant-lathena/"/>
-        <updated>2025-11-30T19:28:04.316Z</updated>
-        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/cine-concert-enfant-lathena/" title="Consulter la page Le rêve de Sam- Ciné-Concert enfant (même onglet)">
-            <div class="card__container">
-                                <div class="image-wrapper  card__image-wrapper events">
-                                            <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/05/Affiche_ReveSam-Copie-e1748437281603-385x0-c-default.jpg" alt="" class=" a42-ac-replace-img">
-            <!-- / End output of "public/partials/image.twig" -->                                                            <div class="card__date">
-                                                    <p>
-                                <span class="card__date_day">06</span>
-                                <span class="card__date_month">décembre</span>
-                            </p>
-                                                                    </div>
-                </div>
-                <div class="card__content">
-                    <div class="card__infos">
-                                                                            <p class="card__category">Jeune public</p>
-                                            </div>
-                                        <h3 class="card__title">Le rêve de Sam- Ciné-Concert enfant</h3>
-                                        <div class="card__description">
-                        <p>Fête En attendant Noël / Gratuit. Ciné-concert familial &amp; jeune public à partir de 3 ans. Deux représentations : 14h30 et 16h30.</p>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[SOURIS ! | Jeune public]]></title>
         <id>https://www.lathena.bzh/agenda/souris-jeune-public/</id>
