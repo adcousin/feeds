@@ -2,39 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-12-07T04:36:19.433Z</updated>
+    <updated>2025-12-08T04:37:22.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Pour la nuit de Noël]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/pour-la-nuit-de-noel-ensemble-il-gardellino-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/pour-la-nuit-de-noel-ensemble-il-gardellino-25-26/"/>
-        <updated>2025-10-21T16:15:22.811Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150339/25-1207-il-gardellino-01_C_wouter-maeckelberghe-680x680.jpg?date=151399" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
-  
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Concert au chocolat </p>&nbsp;/&nbsp;<p> Musique </p> 
-&nbsp;/&nbsp;
- <p> Classique </p> 
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">DI <span class="bold">07</span>  17:00 
-
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
-</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Stage de théâtre et cirque]]></title>
         <id>https://www.theatre-cornouaille.fr/projects/stage-de-theatre-et-cirque-25-26/</id>
@@ -2169,6 +2139,36 @@ Complet
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pour la nuit de Noël]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/pour-la-nuit-de-noel-ensemble-il-gardellino-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/pour-la-nuit-de-noel-ensemble-il-gardellino-25-26/"/>
+        <updated>2025-10-21T16:15:22.811Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150339/25-1207-il-gardellino-01_C_wouter-maeckelberghe-680x680.jpg?date=151399" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+  
+   
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
+<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
+ <p> Concert au chocolat </p>&nbsp;/&nbsp;<p> Musique </p> 
+&nbsp;/&nbsp;
+ <p> Classique </p> 
+</div>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">DI <span class="bold">07</span>  17:00 
+
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
     </entry>
