@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-12-09T04:31:18.519Z</updated>
+    <updated>2025-12-10T04:35:53.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -39,28 +39,6 @@
 
 										
 										Temps fort
-
-										
-										
-											
-												Voir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le saz]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/le-saz/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/le-saz/"/>
-        <updated>2025-10-21T14:48:07.420Z</updated>
-        <content type="html"><![CDATA[mardi 9 décembre 2025 
-															
-														
-														
-																												
-
-													
-													 Rencontre Le saz
-
-										
-										Ali Topcuoglu
 
 										
 										
@@ -1089,6 +1067,28 @@
 												Voir]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Moment musical : guitare]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-guitare/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-guitare/"/>
+        <updated>2025-12-10T04:33:44.181Z</updated>
+        <content type="html"><![CDATA[mercredi 28 janvier 2026 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : guitare
+
+										
+										Classe de Sylvain Jamault
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tendre Carcasse]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/tendre-carcasse/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/tendre-carcasse/"/>
@@ -1192,6 +1192,28 @@
 
 										
 										Léandre Mandart
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : accordéon diatonique]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-accordeon-diatonique/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-accordeon-diatonique/"/>
+        <updated>2025-12-10T04:33:44.196Z</updated>
+        <content type="html"><![CDATA[mercredi 4 février 2026 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : accordéon diatonique
+
+										
+										Classe de Hyacinthe Le Hénaff
 
 										
 										
@@ -1443,6 +1465,28 @@
 													Réserver]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Moment musical : percussions]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-percussions-2/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-percussions-2/"/>
+        <updated>2025-12-10T04:33:44.212Z</updated>
+        <content type="html"><![CDATA[jeudi 12 février 2026 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : percussions
+
+										
+										Classe de Florent Bigoin
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[La boîte à histoire #3]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/la-boite-a-histoire-3/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/la-boite-a-histoire-3/"/>
@@ -1480,6 +1524,28 @@
 
 										
 										
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment musical : flûte traversière]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-flute-traversiere/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-flute-traversiere/"/>
+        <updated>2025-12-10T04:33:44.216Z</updated>
+        <content type="html"><![CDATA[vendredi 13 février 2026 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : flûte traversière
+
+										
+										Classe de Laurence Hekster
 
 										
 										
@@ -2742,7 +2808,33 @@
 												Voir]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ensemble Matheus]]></title>
+        <title type="html"><![CDATA[Ensemble Matheus #1]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/ensemble-matheus-1/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/ensemble-matheus-1/"/>
+        <updated>2025-12-10T04:33:44.296Z</updated>
+        <content type="html"><![CDATA[mercredi 29 avril 2026 
+															
+														
+														
+																												
+
+													
+													Musique Ensemble Matheus #1
+
+										
+										SÉANCE SUPPLÉMENTAIRE
+
+										
+										
+											
+												Voir
+											
+											
+																							
+													Réserver]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensemble Matheus #2]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/ensemble-matheus-7/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/ensemble-matheus-7/"/>
         <updated>2025-10-21T14:48:07.572Z</updated>
@@ -2761,7 +2853,7 @@
 																												
 
 													
-													Musique Ensemble Matheus
+													Musique Ensemble Matheus #2
 
 										
 										Double Baroque | Vivaldi, Bach et Telemann
@@ -2876,7 +2968,7 @@
 													Réserver]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[London City Ballet]]></title>
+        <title type="html"><![CDATA[London City Ballet #1]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/london-city-ballet/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/london-city-ballet/"/>
         <updated>2025-10-21T14:48:07.578Z</updated>
@@ -2895,7 +2987,41 @@
 																												
 
 													
-													Danse London City Ballet
+													Danse London City Ballet #1
+
+										
+										Momentum
+
+										
+										
+											
+												Voir
+											
+											
+																							
+													Réserver]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[London City Ballet #2]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/london-city-ballet-2/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/london-city-ballet-2/"/>
+        <updated>2025-12-10T04:33:44.306Z</updated>
+        <content type="html"><![CDATA[Liste d'attente
+											
+
+																							
+													
+													
+														
+																													
+																mardi 12 mai 2026 
+															
+														
+														
+																												
+
+													
+													Danse London City Ballet #2
 
 										
 										Momentum

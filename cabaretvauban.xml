@@ -2,75 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cabaretvauban.com/programme.html?page=1</id>
     <title>Cabaret Vauban</title>
-    <updated>2025-12-09T04:31:18.516Z</updated>
+    <updated>2025-12-10T04:35:53.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cabaretvauban.com/images/LOGOOVALE.jpg</icon>
-    <entry>
-        <title type="html"><![CDATA[100% impro						
-					
-				
-				
-					
-						Cabaret Vauban Brest]]></title>
-        <id>https://cabaretvauban.com/programme/1138-100-impro-4/2025-12-09-20-30.html</id>
-        <link href="https://cabaretvauban.com/programme/1138-100-impro-4/2025-12-09-20-30.html"/>
-        <updated>2025-11-30T19:28:58.833Z</updated>
-        <content type="html"><![CDATA[<!-- Event -->
-
-
-		
-				<a href="/programme/1138-100-impro-4/2025-12-09-20-30.html" title="100% impro" class="ic-text-decoration-none">
-								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_09-12-impro-infini.jpg); border-color: #96937e">
-					<div class="ic-date">
-								<div class="ic-day">
-					09				</div>
-								<div class="ic-month">
-					Déc				</div>
-								<div class="ic-year">
-					2025				</div>
-								<div class="ic-time">
-					20:30				</div>
-			</div>
-		</div>
-		</a>
-
-				<div class="ic-content">
-
-						<div class="ic-event-title">
-
-								<div class="ic-title-header ic-margin-0 ic-padding-0">
-					<h2>
-						<a href="/programme/1138-100-impro-4/2025-12-09-20-30.html" class="ic-text-decoration-none">
-							100% impro						</a>
-					</h2>
-				</div>
-				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
-						Cabaret Vauban Brest					</a>
-				</div>
-
-			</div>
-
-									<div class="ic-features-container">
-							</div>
-			
-									<div class="nextdate ic-next-date ic-clearfix">
-				<strong><span class="ic-next-today"><span class="ic-single-next">mardi&nbsp;9&nbsp;décembre&nbsp;2025</span> <span class="ic-single-starttime">20:30</span></span></strong>
-			</div>
-			
-						
-									<div class="descshort ic-descshort">
-				Les comédien(ne)s d'Impro Infini et leur invité(e) vous proposent un spectacle festif totalement improvisé, fou, déjanté, imprévisible.
-La seule chose dont nous sommes sûrs: vous allez rire et passer une très bonne soirée!			</div>
-			
-						
-						<div class="moreinfos ic-more-info">
-			 	<a href="/programme/1138-100-impro-4/2025-12-09-20-30.html" title="100% impro">
-			 		+ d'infos			 	</a>
-			</div>
-
-		</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Festival noborder: séamus & caiomhe + drache + gregailh						
 					
@@ -111,7 +45,7 @@ La seule chose dont nous sommes sûrs: vous allez rire et passer une très bonne
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -121,7 +55,7 @@ La seule chose dont nous sommes sûrs: vous allez rire et passer une très bonne
 							</div>
 			
 									<div class="nextdate ic-next-date ic-clearfix">
-				<strong><span class="ic-single-next">mercredi&nbsp;10&nbsp;décembre&nbsp;2025</span> <span class="ic-single-starttime">14:30</span></strong>
+				<strong><span class="ic-next-today"><span class="ic-single-next">mercredi&nbsp;10&nbsp;décembre&nbsp;2025</span> <span class="ic-single-starttime">14:30</span></span></strong>
 			</div>
 			
 						
@@ -177,7 +111,7 @@ La seule chose dont nous sommes sûrs: vous allez rire et passer une très bonne
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -244,7 +178,7 @@ Aux manettes du booth: Le Fils du Tourisme, Chantal's Secret, Covaslesky, Dosaï
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -311,7 +245,7 @@ Une soirée en forme de road-trip électrique!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -378,7 +312,7 @@ Toi + nous + la piste = soirée culte			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -445,7 +379,7 @@ Norman Willmore saxophone, clavier; Corrie Dick batterie			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -512,7 +446,7 @@ Nos maîtres mots: enthousiasme, bienveillance et empathie.			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -579,7 +513,7 @@ Auteur-compositeur aussi lettré que provocateur, Miossec a repris la route déb
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -644,7 +578,7 @@ Auteur-compositeur aussi lettré que provocateur, Miossec a repris la route déb
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -710,7 +644,7 @@ Un moment privilégié avec celui qui fait danser la planète depuis plus de 30 
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -733,6 +667,74 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 						
 						<div class="moreinfos ic-more-info">
 			 	<a href="/programme/920-orchestre-live-fever-3/2026-01-17-00-00.html" title="Orchestre live fever *">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Les mardis du jam au vauban, saison iii						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-01-20-20-30.html</id>
+        <link href="https://cabaretvauban.com/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-01-20-20-30.html"/>
+        <updated>2025-12-10T04:35:43.673Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-01-20-20-30.html" title="Les mardis du jam au vauban, saison iii" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_phare-ouest-jazz.png); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					20				</div>
+								<div class="ic-month">
+					Jan				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					20:30				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-01-20-20-30.html" class="ic-text-decoration-none">
+							Les mardis du jam au vauban, saison iii						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">mardi&nbsp;20&nbsp;janvier&nbsp;2026</span> <span class="ic-single-starttime">20:30</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Le Cabaret Vauban ouvre ses portes pour la 30ème jam session proposée par Phare Ouest Jazz.
+La scène est ouverte à tous les musiciens de jazz.
+Une belle occasion de découvrir de jeunes talents, d'apprécier des musiciens aguerris venant de toute la région et de mêler les générations au gré de standards toujours renouvelés.
+Nos maîtres mots: enthousiasme, bienveillance et empathie.			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-01-20-20-30.html" title="Les mardis du jam au vauban, saison iii">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -778,7 +780,7 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -844,7 +846,7 @@ Ces dernières années, il s'est taillé une place de choix dans le panorama du 
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -909,7 +911,7 @@ Ces dernières années, il s'est taillé une place de choix dans le panorama du 
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -930,6 +932,72 @@ Attendez-vous à un concert à l'énergie brute, où ses compositions introspect
 						
 						<div class="moreinfos ic-more-info">
 			 	<a href="/programme/1097-james-baker/2026-02-11-20-00.html" title="James baker">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bøl + oasis boom						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1170-b%C3%B8l-oasis-boom/2026-02-12-21-00.html</id>
+        <link href="https://cabaretvauban.com/programme/1170-b%C3%B8l-oasis-boom/2026-02-12-21-00.html"/>
+        <updated>2025-12-10T04:35:44.916Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1170-bøl-oasis-boom/2026-02-12-21-00.html" title="Bøl + oasis boom" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_plages-magnetiques-20-02-26.jpeg); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					12				</div>
+								<div class="ic-month">
+					Fév				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					21:00				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1170-bøl-oasis-boom/2026-02-12-21-00.html" class="ic-text-decoration-none">
+							Bøl + oasis boom						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">jeudi&nbsp;12&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">21:00</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				C’est dans l’énergie instinctive, faite d’un son brûlant, sans mots, que BØL trouve son plaisir, à l’image d’Edredon Sensible, dont le Vauban se souvient encore des cuivres fiévreux. 
+Avec eux le duo Oasis Boom, qui puise de ses bases jazz et expé une musique faite d'écriture et de bidouaillages savants. Leur duo invente un rock du désert qui appelle la danse, fusionne techno et mélodies hypnotiques.			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1170-bøl-oasis-boom/2026-02-12-21-00.html" title="Bøl + oasis boom">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -975,7 +1043,7 @@ Attendez-vous à un concert à l'énergie brute, où ses compositions introspect
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1004,30 +1072,30 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bøl + oasis boom						
+        <title type="html"><![CDATA[Les mardis du jam au vauban, saison iii						
 					
 				
 				
 					
 						Cabaret Vauban Brest]]></title>
-        <id>https://cabaretvauban.com/programme/1170-b%C3%B8l-oasis-boom/2026-02-20-21-00.html</id>
-        <link href="https://cabaretvauban.com/programme/1170-b%C3%B8l-oasis-boom/2026-02-20-21-00.html"/>
-        <updated>2025-12-09T04:31:09.720Z</updated>
+        <id>https://cabaretvauban.com/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-02-17-20-30.html</id>
+        <link href="https://cabaretvauban.com/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-02-17-20-30.html"/>
+        <updated>2025-12-10T04:35:44.920Z</updated>
         <content type="html"><![CDATA[<!-- Event -->
 
 
 		
-				<a href="/programme/1170-bøl-oasis-boom/2026-02-20-21-00.html" title="Bøl + oasis boom" class="ic-text-decoration-none">
-								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_plages-magnetiques-20-02-26.jpeg); border-color: #96937e">
+				<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-02-17-20-30.html" title="Les mardis du jam au vauban, saison iii" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_phare-ouest-jazz.png); border-color: #96937e">
 					<div class="ic-date">
 								<div class="ic-day">
-					20				</div>
+					17				</div>
 								<div class="ic-month">
 					Fév				</div>
 								<div class="ic-year">
 					2026				</div>
 								<div class="ic-time">
-					21:00				</div>
+					20:30				</div>
 			</div>
 		</div>
 		</a>
@@ -1038,12 +1106,12 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 
 								<div class="ic-title-header ic-margin-0 ic-padding-0">
 					<h2>
-						<a href="/programme/1170-bøl-oasis-boom/2026-02-20-21-00.html" class="ic-text-decoration-none">
-							Bøl + oasis boom						</a>
+						<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-02-17-20-30.html" class="ic-text-decoration-none">
+							Les mardis du jam au vauban, saison iii						</a>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1053,16 +1121,19 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 							</div>
 			
 									<div class="nextdate ic-next-date ic-clearfix">
-				<strong><span class="ic-single-next">vendredi&nbsp;20&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">21:00</span></strong>
+				<strong><span class="ic-single-next">mardi&nbsp;17&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">20:30</span></strong>
 			</div>
 			
 						
 									<div class="descshort ic-descshort">
-				C’est dans l’énergie instinctive, faite d’un son brûlant, sans mots, que BØL trouve son plaisir, à l’image d’Edredon Sensible, dont le Vauban se souvient encore des cuivres fiévreux. 			</div>
+				Le Cabaret Vauban ouvre ses portes pour la 30ème jam session proposée par Phare Ouest Jazz.
+La scène est ouverte à tous les musiciens de jazz.
+Une belle occasion de découvrir de jeunes talents, d'apprécier des musiciens aguerris venant de toute la région et de mêler les générations au gré de standards toujours renouvelés.
+Nos maîtres mots: enthousiasme, bienveillance et empathie.			</div>
 			
 						
 						<div class="moreinfos ic-more-info">
-			 	<a href="/programme/1170-bøl-oasis-boom/2026-02-20-21-00.html" title="Bøl + oasis boom">
+			 	<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-02-17-20-30.html" title="Les mardis du jam au vauban, saison iii">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -1108,7 +1179,7 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1175,7 +1246,7 @@ Deux soirées dédiées au cabaret burlesque avec un show différent par soir, e
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1242,7 +1313,7 @@ Deux soirées dédiées au cabaret burlesque avec un show différent par soir, e
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1257,7 +1328,7 @@ Deux soirées dédiées au cabaret burlesque avec un show différent par soir, e
 			
 						
 									<div class="descshort ic-descshort">
-				Plages Magnétiques réunit pour une même soirée trois noms fusionnant jazz, punk et rock. Le quartet nit and dogs s’invente un passage à la croisée d’une échappée folk et d’une pop aux accents fauves tandis que Maria Violenza distille un punk dont Palerme (sa ville natale) a le secret. 			</div>
+				Plages Magnétiques réunit pour une même soirée trois noms fusionnant jazz, punk et rock. Le quartet nit and dogs s’invente un passage à la croisée d’une échappée folk et d’une pop aux accents fauves tandis que Maria Violenza distille un punk dont Palerme (sa ville natale) a le secret. Avec son kraut rock, AFAR, passé par la scène des Trans en décembre, couvre la distance entre l'organique et l'électronique.			</div>
 			
 						
 						<div class="moreinfos ic-more-info">
@@ -1307,7 +1378,7 @@ Deux soirées dédiées au cabaret burlesque avec un show différent par soir, e
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1330,6 +1401,74 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 						
 						<div class="moreinfos ic-more-info">
 			 	<a href="/programme/920-orchestre-live-fever-3/2026-03-14-00-00.html" title="Orchestre live fever *">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Les mardis du jam au vauban, saison iii						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-03-17-20-30.html</id>
+        <link href="https://cabaretvauban.com/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-03-17-20-30.html"/>
+        <updated>2025-12-10T04:35:44.927Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-03-17-20-30.html" title="Les mardis du jam au vauban, saison iii" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_phare-ouest-jazz.png); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					17				</div>
+								<div class="ic-month">
+					Mar				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					20:30				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-03-17-20-30.html" class="ic-text-decoration-none">
+							Les mardis du jam au vauban, saison iii						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">mardi&nbsp;17&nbsp;mars&nbsp;2026</span> <span class="ic-single-starttime">20:30</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Le Cabaret Vauban ouvre ses portes pour la 30ème jam session proposée par Phare Ouest Jazz.
+La scène est ouverte à tous les musiciens de jazz.
+Une belle occasion de découvrir de jeunes talents, d'apprécier des musiciens aguerris venant de toute la région et de mêler les générations au gré de standards toujours renouvelés.
+Nos maîtres mots: enthousiasme, bienveillance et empathie.			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-03-17-20-30.html" title="Les mardis du jam au vauban, saison iii">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -1375,7 +1514,7 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1444,7 +1583,7 @@ Elmer Food Beat est de retour... toujours heureux sur scène!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1513,7 +1652,7 @@ Elmer Food Beat est de retour... toujours heureux sur scène!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1580,7 +1719,7 @@ Ange, c'est plus de 55 ans d'histoire et une influence indéniable sur la scène
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1646,7 +1785,7 @@ Ange, c'est plus de 55 ans d'histoire et une influence indéniable sur la scène
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1711,7 +1850,7 @@ Ange, c'est plus de 55 ans d'histoire et une influence indéniable sur la scène
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1778,7 +1917,7 @@ Nommé "Révélation de l'année" aux NRJ Music Awards et suivi par 3 millions d
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1844,7 +1983,7 @@ Il nous présente là un projet solo.			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-09&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-10&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
