@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-12-10T04:35:53.560Z</updated>
+    <updated>2025-12-11T04:38:03.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -39,50 +39,6 @@
 
 										
 										Temps fort
-
-										
-										
-											
-												Voir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moment musical : piano]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-piano/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-piano/"/>
-        <updated>2025-11-03T16:13:52.701Z</updated>
-        <content type="html"><![CDATA[mercredi 10 décembre 2025 
-															
-														
-														
-																												
-
-													
-													  Moment musical Moment musical : piano
-
-										
-										Classe d'Émilie Fichter
-
-										
-										
-											
-												Voir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moment musical : Chant]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-chant/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-chant/"/>
-        <updated>2025-11-03T16:13:52.703Z</updated>
-        <content type="html"><![CDATA[mercredi 10 décembre 2025 
-															
-														
-														
-																												
-
-													
-													  Moment musical Moment musical : Chant
-
-										
-										Classe de Pierre-Emmanuel Clair
 
 										
 										
@@ -224,16 +180,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-1/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-1/"/>
         <updated>2025-10-21T14:48:07.429Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
-											
-
-																							
-													
-													
-														
-																													
-																lundi 15 décembre 2025 
+        <content type="html"><![CDATA[lundi 15 décembre 2025 
 															
 														
 														
@@ -281,16 +228,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-2/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-2/"/>
         <updated>2025-10-21T14:48:07.430Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
-											
-
-																							
-													
-													
-														
-																													
-																mardi 16 décembre 2025 
+        <content type="html"><![CDATA[mardi 16 décembre 2025 
 															
 														
 														
@@ -316,16 +254,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-3/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-3/"/>
         <updated>2025-10-21T14:48:07.431Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
-											
-
-																							
-													
-													
-														
-																													
-																mardi 16 décembre 2025 
+        <content type="html"><![CDATA[mardi 16 décembre 2025 
 															
 														
 														
@@ -2207,7 +2136,7 @@
 													Réserver]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Piers Faccini et Ballaké Sissoko]]></title>
+        <title type="html"><![CDATA[Ballaké Sissoko et Piers Faccini]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/piers-faccini-et-ballake-sissoko/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/piers-faccini-et-ballake-sissoko/"/>
         <updated>2025-10-21T14:48:07.528Z</updated>
@@ -2226,7 +2155,7 @@
 																												
 
 													
-													Musique Piers Faccini et Ballaké Sissoko
+													Musique Ballaké Sissoko et Piers Faccini
 
 										
 										
@@ -3002,40 +2931,6 @@
 													Réserver]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[London City Ballet #2]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/london-city-ballet-2/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/london-city-ballet-2/"/>
-        <updated>2025-12-10T04:33:44.306Z</updated>
-        <content type="html"><![CDATA[Liste d'attente
-											
-
-																							
-													
-													
-														
-																													
-																mardi 12 mai 2026 
-															
-														
-														
-																												
-
-													
-													Danse London City Ballet #2
-
-										
-										Momentum
-
-										
-										
-											
-												Voir
-											
-											
-																							
-													Réserver]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Initiation à la danse classique]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/initiation-a-la-danse-classique/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/initiation-a-la-danse-classique/"/>
@@ -3056,6 +2951,40 @@
 										
 											
 												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[London City Ballet #2]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/london-city-ballet-2/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/london-city-ballet-2/"/>
+        <updated>2025-12-10T04:33:44.306Z</updated>
+        <content type="html"><![CDATA[Liste d'attente
+											
+
+																							
+													
+													
+														
+																													
+																mercredi 13 mai 2026 
+															
+														
+														
+																												
+
+													
+													Danse London City Ballet #2
+
+										
+										Momentum
+
+										
+										
+											
+												Voir
+											
+											
+																							
+													Réserver]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Café-DYS, trucs et astuces #3]]></title>
