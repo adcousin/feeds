@@ -2,105 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lesarcs.bzh/programmation/</id>
     <title>Les Arcs</title>
-    <updated>2025-12-11T04:38:03.349Z</updated>
+    <updated>2025-12-12T04:36:36.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lesarcs.bzh/wp-content/themes/artgomedia-base/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Ciné Films Junior #2 | « L’Île de Black Mor »                                                                                    de Jean-François Laguionie]]></title>
-        <id>https://www.lesarcs.bzh/spectacles/cine-films-junior-2-lile-de-black-mor/</id>
-        <link href="https://www.lesarcs.bzh/spectacles/cine-films-junior-2-lile-de-black-mor/"/>
-        <updated>2025-11-30T19:28:22.243Z</updated>
-        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
-                                <div class="agenda_listing_spectacle_inner_link">
-                                    <div class="agenda_listing_spectacle_date">
-                                                                                    <span>10 déc</span>
-                                                                            </div>
-                                    <div class="agenda_listing_spectacle_image">
-                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/4-l-ile-de-black-mor-900x600-listing.jpg" alt="Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»">
-                                    </div>
-                                                                        <div class="agenda_listing_statut_spectacle">
-
-                                        <div class="agenda_listing_statut_spectacle_inner">
-
-                                            <div class="agenda_listing_statut_spectacle_top agenda_listing_statut_spectacle_top_annule">
-
-                                            </div>
-
-                                            <div class="agenda_listing_statut_spectacle_bottom">
-                                                Annulé                                                                                            </div>
-                                        
-                                        </div>
-                                        
-                                    </div>
-                                                                        <h2 class="agenda_listing_spectacle_title">
-                                        Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»                                                                                    <span>de Jean-François Laguionie</span>
-                                                                            </h2>
-                                    <div class="agenda_listing_spectacle_inner">
-                                        <div class="agenda_listing_spectacle_inner_top">
-                                            <div class="agenda_listing_spectacle_inner_top_style">
-                                                Ciné Films                                            </div>
-                                            <div class="agenda_listing_spectacle_inner_artiste">
-                                                Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»                                                                                            </div>
-                                            <div class="agenda_listing_spectacle_inner_top_date">
-                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
-                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
-                                                        <span>mer 10 déc</span>
-                                                        <span>2025</span>
-                                                    </div>
-                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
-                                                            14h30                                                        </div>
-                                                                                                    </div>
-                                            </div>
-                                        </div>
-                                        <div class="agenda_listing_spectacle_inner_bottom">
-                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ciné Films Junior #2 | « Flow »                                                                                    de Gints Zilbalodis]]></title>
-        <id>https://www.lesarcs.bzh/spectacles/cine-films-junior-2-flow/</id>
-        <link href="https://www.lesarcs.bzh/spectacles/cine-films-junior-2-flow/"/>
-        <updated>2025-11-30T19:28:22.243Z</updated>
-        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
-                                <div class="agenda_listing_spectacle_inner_link">
-                                    <div class="agenda_listing_spectacle_date">
-                                                                                    <span>10 déc</span>
-                                                                            </div>
-                                    <div class="agenda_listing_spectacle_image">
-                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/11/4-flow-900x600-listing.jpg" alt="Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/11/4-flow-900x600-listing.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/11/4-flow-900x600-listing.jpg" alt="Ciné Films Junior #2 | « Flow »"></noscript>
-                                    </div>
-                                                                        <h2 class="agenda_listing_spectacle_title">
-                                        Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»                                                                                    <span>de Gints Zilbalodis</span>
-                                                                            </h2>
-                                    <div class="agenda_listing_spectacle_inner">
-                                        <div class="agenda_listing_spectacle_inner_top">
-                                            <div class="agenda_listing_spectacle_inner_top_style">
-                                                Ciné Films                                            </div>
-                                            <div class="agenda_listing_spectacle_inner_artiste">
-                                                Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»                                                                                            </div>
-                                            <div class="agenda_listing_spectacle_inner_top_date">
-                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
-                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
-                                                        <span>mer 10 déc</span>
-                                                        <span>2025</span>
-                                                    </div>
-                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
-                                                            14h30                                                        </div>
-                                                                                                    </div>
-                                            </div>
-                                        </div>
-                                        <div class="agenda_listing_spectacle_inner_bottom">
-                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Le Trio Joubran]]></title>
         <id>https://www.lesarcs.bzh/spectacles/le-trio-joubran/</id>
@@ -278,7 +182,7 @@
                                                                                     <span>30 jan</span>
                                                                             </div>
                                     <div class="agenda_listing_spectacle_image">
-                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ben l’Oncle Soul" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/10-ben-soul-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/10-ben-soul-900x600-listing.jpg" alt="Ben l&rsquo;Oncle Soul"></noscript>
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/10-ben-soul-900x600-listing.jpg" alt="Ben l’Oncle Soul" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/10-ben-soul-900x600-listing.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/10-ben-soul-900x600-listing.jpg" alt="Ben l&rsquo;Oncle Soul"></noscript>
                                     </div>
                                                                         <h2 class="agenda_listing_spectacle_title">
                                         Ben l’Oncle Soul                                                                            </h2>
@@ -320,7 +224,7 @@
                                                                                     <span>04 fév</span>
                                                                             </div>
                                     <div class="agenda_listing_spectacle_image">
-                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ciné Films Junior #3 | «&nbsp;Hugo Cabret&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/6-hugo-cabret-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/6-hugo-cabret-900x600-listing.jpg" alt="Ciné Films Junior #3 | « Hugo Cabret »"></noscript>
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/6-hugo-cabret-900x600-listing.jpg" alt="Ciné Films Junior #3 | «&nbsp;Hugo Cabret&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/6-hugo-cabret-900x600-listing.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/6-hugo-cabret-900x600-listing.jpg" alt="Ciné Films Junior #3 | « Hugo Cabret »"></noscript>
                                     </div>
                                                                         <h2 class="agenda_listing_spectacle_title">
                                         Ciné Films Junior #3 | «&nbsp;Hugo Cabret&nbsp;»                                                                                    <span>de MarTin Scorsese</span>
@@ -643,6 +547,102 @@
                                                     </div>
                                                                                                             <div class="agenda_listing_spectacle_inner_top_date_inner_right">
                                                             20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciné Films Junior #2 | « L’Île de Black Mor »                                                                                    de Jean-François Laguionie]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-junior-2-lile-de-black-mor/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-junior-2-lile-de-black-mor/"/>
+        <updated>2025-11-30T19:28:22.243Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>10 déc</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/4-l-ile-de-black-mor-900x600-listing.jpg" alt="Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»">
+                                    </div>
+                                                                        <div class="agenda_listing_statut_spectacle">
+
+                                        <div class="agenda_listing_statut_spectacle_inner">
+
+                                            <div class="agenda_listing_statut_spectacle_top agenda_listing_statut_spectacle_top_annule">
+
+                                            </div>
+
+                                            <div class="agenda_listing_statut_spectacle_bottom">
+                                                Annulé                                            </div>
+                                        
+                                        </div>
+                                        
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»                                                                                    <span>de Jean-François Laguionie</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films Junior #2 | «&nbsp;L’Île de Black Mor&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mer 10 déc</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            14h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciné Films Junior #2 | « Flow »                                                                                    de Gints Zilbalodis]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/cine-films-junior-2-flow/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/cine-films-junior-2-flow/"/>
+        <updated>2025-11-30T19:28:22.243Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>10 déc</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/11/4-flow-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/11/4-flow-900x600-listing.jpg" alt="Ciné Films Junior #2 | « Flow »"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»                                                                                    <span>de Gints Zilbalodis</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Ciné Films                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Ciné Films Junior #2 | «&nbsp;Flow&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>mer 10 déc</span>
+                                                        <span>2025</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            14h30                                                        </div>
                                                                                                     </div>
                                             </div>
                                         </div>

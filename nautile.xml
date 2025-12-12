@@ -2,31 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.foret-fouesnant.bzh/nautile/spectacles/</id>
     <title>Nautile</title>
-    <updated>2025-12-11T04:38:03.368Z</updated>
+    <updated>2025-12-12T04:36:36.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.foret-fouesnant.bzh/nautile/wp-content/themes/nautile_2024/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Exposition « Quand peinture et musique se rencontre »]]></title>
-        <id>https://www.foret-fouesnant.bzh/nautile/evenements/exposition-quand-peinture-et-musique-se-rencontre/</id>
-        <link href="https://www.foret-fouesnant.bzh/nautile/evenements/exposition-quand-peinture-et-musique-se-rencontre/"/>
-        <updated>2025-11-30T19:28:26.373Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.foret-fouesnant.bzh/nautile/evenements/exposition-quand-peinture-et-musique-se-rencontre/">
-        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/AFFICHE-NYBE-page-0001-360x460.jpg" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async" fetchpriority="high">        <div class="calendar-meta">
-                                        <div class="day">12</div>
-                <div class="month">septembre 2025</div>
-                    </div>
-        <section>
-            <div class="title-event">Exposition «&nbsp;Quand peinture et musique se rencontre&nbsp;»</div>
-                    </section>
-    </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[LES DEMOISELLES DU K BARRE – BURLESK]]></title>
         <id>https://www.foret-fouesnant.bzh/nautile/evenements/les-demoiselles-du-k-barre-burlesk/</id>
         <link href="https://www.foret-fouesnant.bzh/nautile/evenements/les-demoiselles-du-k-barre-burlesk/"/>
         <updated>2025-11-30T19:28:26.375Z</updated>
         <content type="html"><![CDATA[<a href="https://www.foret-fouesnant.bzh/nautile/evenements/les-demoiselles-du-k-barre-burlesk/">
-        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/photo-3-BurlesK-Les-Demoiselles-du-K-barre-Credit-photo-Eric-Delage-360x460.jpg" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async">        <div class="calendar-meta">
+        <img width="360" height="460" src="https://www.foret-fouesnant.bzh/nautile/wp-content/uploads/2025/09/photo-3-BurlesK-Les-Demoiselles-du-K-barre-Credit-photo-Eric-Delage-360x460.jpg" class="attachment-post-event size-post-event wp-post-image" alt="" decoding="async" fetchpriority="high">        <div class="calendar-meta">
                                         <div class="day">20</div>
                 <div class="month">décembre 2025</div>
                     </div>

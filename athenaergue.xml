@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lathena.bzh/systeme/agenda/?systemeParams=events&amp;pages=10</id>
     <title>Athena Ergue</title>
-    <updated>2025-12-11T04:38:03.373Z</updated>
+    <updated>2025-12-12T04:36:36.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lathena.bzh/wp-content/themes/athena/assets/src/images/Logos/favicon.ico</icon>
     <entry>
@@ -357,6 +357,41 @@
                                         <h3 class="card__title">Fest-Noz | Dixit, Eben et Herriwenn</h3>
                                         <div class="card__description">
                         <p>Fest-Noz avec trois groupes d'artistes : Dixit, Eben et Herriwenn.</p>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exposition Any Le Torrivellec et Marie-Noëlle Vives | Peintures]]></title>
+        <id>https://www.lathena.bzh/agenda/exposition-any-le-torivellec-et-marie-noelle-vives-peintures/</id>
+        <link href="https://www.lathena.bzh/agenda/exposition-any-le-torivellec-et-marie-noelle-vives-peintures/"/>
+        <updated>2025-12-12T04:35:29.290Z</updated>
+        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/exposition-any-le-torivellec-et-marie-noelle-vives-peintures/" title="Consulter la page Exposition Any Le Torrivellec et Marie-Noëlle Vives | Peintures (même onglet)">
+            <div class="card__container">
+                                <div class="image-wrapper  card__image-wrapper events">
+                                            <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/12/2Peinture-Any-Le-Torrivellec_page-0001-Copie-385x0-c-default.jpg" alt="" class=" a42-ac-replace-img">
+            <!-- / End output of "public/partials/image.twig" -->                                                            <div class="card__date">
+                                                    <p>
+                                <span class="card__date_day">03</span>
+                                <span class="card__date_month">mars</span>
+                            </p>
+                                                                            <svg aria-hidden="true" focusable="false">
+                                <use xlink:href="#ic-nav-chevron-bottom"></use>
+                            </svg>
+                            <p>
+                                <span class="card__date_day">21</span>
+                                <span class="card__date_month">mars</span>
+                            </p>
+                                            </div>
+                </div>
+                <div class="card__content">
+                    <div class="card__infos">
+                                                                            <p class="card__category">Expositions</p>
+                                            </div>
+                                        <h3 class="card__title">Exposition Any Le Torrivellec et Marie-Noëlle Vives | Peintures</h3>
+                                        <div class="card__description">
+                        <p>Journée internationale des droits des femmes. Deux gabéricoises exposent leurs peintures sur le thème de la femme. Le public pourra aussi lire divers textes et poèmes…</p>
                     </div>
                 </div>
             </div>

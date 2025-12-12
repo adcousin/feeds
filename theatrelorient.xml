@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatredelorient.fr/saison/</id>
     <title>Th^ Lorient</title>
-    <updated>2025-12-11T04:38:03.385Z</updated>
+    <updated>2025-12-12T04:36:36.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theatredelorient.fr/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[KARAOKÉ]]></title>
-        <id>https://theatredelorient.fr/spectacle/karaoke/</id>
-        <link href="https://theatredelorient.fr/spectacle/karaoke/"/>
-        <updated>2025-11-30T19:28:52.904Z</updated>
-        <content type="html"><![CDATA[<a class="spectacle evenement-spectacle musique" href="https://theatredelorient.fr/spectacle/karaoke/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-300x200.jpg" class="img-responsive" alt="" decoding="async" fetchpriority="high" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-1024x681.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-768x511.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-1536x1022.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-2048x1362.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Événement • Musique</h4><h5>11/12</h5><h3>RAPHAËL, CYRIL TESTE</h3></div></figure><div class="info"><h2>KARAOKÉ</h2></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MERCI D’ÊTRE VENU, C’EST COURAGEUX]]></title>
-        <id>https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/</id>
-        <link href="https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/"/>
-        <updated>2025-11-30T19:28:52.905Z</updated>
-        <content type="html"><![CDATA[<a class="spectacle itinerance" href="https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-300x200.jpg" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Itinérance</h4><h5>11/12, 09, 29 et 30/01</h5><h3>ANTONY COINTRE ET SIMON DELÉTANG, SIMON DELÉTANG</h3></div></figure><div class="info"><h2>MERCI D’ÊTRE VENU, C’EST COURAGEUX</h2></div></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[BEZPERAN]]></title>
         <id>https://theatredelorient.fr/spectacle/bezperan/</id>
         <link href="https://theatredelorient.fr/spectacle/bezperan/"/>
         <updated>2025-11-30T19:28:52.906Z</updated>
-        <content type="html"><![CDATA[<a class="spectacle danse musique" href="https://theatredelorient.fr/spectacle/bezperan/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-300x200.jpg" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Danse • Musique</h4><h5>17 et 18/12</h5><h3>COLLECTIF BILAKA, DANIEL SAN PEDRO</h3></div></figure><div class="info"><h2>BEZPERAN</h2></div></a>]]></content>
+        <content type="html"><![CDATA[<a class="spectacle danse musique" href="https://theatredelorient.fr/spectacle/bezperan/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-300x200.jpg" class="img-responsive" alt="" decoding="async" fetchpriority="high" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Danse • Musique</h4><h5>17 et 18/12</h5><h3>COLLECTIF BILAKA, DANIEL SAN PEDRO</h3></div></figure><div class="info"><h2>BEZPERAN</h2></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’AMANTE ANGLAISE]]></title>
@@ -32,6 +18,13 @@
         <link href="https://theatredelorient.fr/spectacle/lamante-anglaise/"/>
         <updated>2025-11-30T19:28:52.908Z</updated>
         <content type="html"><![CDATA[<a class="spectacle theatre" href="https://theatredelorient.fr/spectacle/lamante-anglaise/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-300x200.jpg" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Théâtre</h4><h5>06, 07 et 08/01</h5><h3>MARGUERITE DURAS, JACQUES OSINSKI</h3></div></figure><div class="info"><h2>L’AMANTE ANGLAISE</h2></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MERCI D’ÊTRE VENU, C’EST COURAGEUX]]></title>
+        <id>https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/</id>
+        <link href="https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/"/>
+        <updated>2025-11-30T19:28:52.905Z</updated>
+        <content type="html"><![CDATA[<a class="spectacle itinerance" href="https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-300x200.jpg" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Itinérance</h4><h5>11/12, 09, 29 et 30/01</h5><h3>ANTONY COINTRE ET SIMON DELÉTANG, SIMON DELÉTANG</h3></div></figure><div class="info"><h2>MERCI D’ÊTRE VENU, C’EST COURAGEUX</h2></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LE CHÂTEAU DES CARPATHES]]></title>
@@ -277,5 +270,12 @@
         <link href="https://theatredelorient.fr/spectacle/escale-musique-de-la-marine-nationale/"/>
         <updated>2025-11-30T19:28:52.900Z</updated>
         <content type="html"><![CDATA[<a class="spectacle passed escale" href="https://theatredelorient.fr/spectacle/escale-musique-de-la-marine-nationale/"><figure><img width="300" height="119" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/Capture-decran-2025-05-26-a-11.22.46-300x119.png" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/Capture-decran-2025-05-26-a-11.22.46-300x119.png 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/Capture-decran-2025-05-26-a-11.22.46-1024x407.png 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/Capture-decran-2025-05-26-a-11.22.46-768x305.png 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/Capture-decran-2025-05-26-a-11.22.46-1536x610.png 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/Capture-decran-2025-05-26-a-11.22.46.png 1928w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h5>06/12</h5></div></figure><div class="info"><h2>ESCALE MUSIQUE DE LA MARINE NATIONALE</h2></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KARAOKÉ]]></title>
+        <id>https://theatredelorient.fr/spectacle/karaoke/</id>
+        <link href="https://theatredelorient.fr/spectacle/karaoke/"/>
+        <updated>2025-11-30T19:28:52.904Z</updated>
+        <content type="html"><![CDATA[<a class="spectacle passed evenement-spectacle musique" href="https://theatredelorient.fr/spectacle/karaoke/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-300x200.jpg" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-1024x681.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-768x511.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-1536x1022.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/L1015582-c-Raphael-Haroche-2048x1362.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Événement • Musique</h4><h5>11/12</h5><h3>RAPHAËL, CYRIL TESTE</h3></div></figure><div class="info"><h2>KARAOKÉ</h2></div></a>]]></content>
     </entry>
 </feed>
