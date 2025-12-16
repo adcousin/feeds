@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lathena.bzh/systeme/agenda/?systemeParams=events&amp;pages=10</id>
     <title>Athena Ergue</title>
-    <updated>2025-12-15T04:46:09.833Z</updated>
+    <updated>2025-12-16T04:39:56.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lathena.bzh/wp-content/themes/athena/assets/src/images/Logos/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SOURIS ! | Jeune public]]></title>
-        <id>https://www.lathena.bzh/agenda/souris-jeune-public/</id>
-        <link href="https://www.lathena.bzh/agenda/souris-jeune-public/"/>
-        <updated>2025-11-30T19:28:04.317Z</updated>
-        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/souris-jeune-public/" title="Consulter la page SOURIS ! | Jeune public (même onglet)">
-            <div class="card__container">
-                                <div class="image-wrapper  card__image-wrapper events">
-                                            <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/06/WEB__SOURIS_40X40-copyright-Katy-Sannier-scaled-e1752753810681-385x0-c-default.jpg" alt="" class=" a42-ac-replace-img">
-            <!-- / End output of "public/partials/image.twig" -->                                                            <div class="card__date">
-                                                    <p>
-                                <span class="card__date_day">14</span>
-                                <span class="card__date_month">décembre</span>
-                            </p>
-                                                                    </div>
-                </div>
-                <div class="card__content">
-                    <div class="card__infos">
-                                                                            <p class="card__category">Jeune public</p>
-                                            </div>
-                                        <h3 class="card__title">SOURIS ! | Jeune public</h3>
-                                        <div class="card__description">
-                        <p>Festival Théâtre-à-Tout-âge - Comme toute histoire, celle de La Petite Souris a son côté face et son côté pile : si c’est un grand jour pour…</p>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Exposition Bric-à-Boîtes | Cartonnage]]></title>
         <id>https://www.lathena.bzh/agenda/exposition-bric-a-boites-cartonnage/</id>
@@ -398,11 +370,11 @@
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soleil Planète, Mosai et Vincent | Concert pop jeune public]]></title>
+        <title type="html"><![CDATA[Soleil Planète, Mosaï et Vincent | Concert pop jeune public]]></title>
         <id>https://www.lathena.bzh/agenda/soleil-planete-concert-pop-jeune-public/</id>
         <link href="https://www.lathena.bzh/agenda/soleil-planete-concert-pop-jeune-public/"/>
         <updated>2025-11-30T19:28:04.336Z</updated>
-        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/soleil-planete-concert-pop-jeune-public/" title="Consulter la page Soleil Planète, Mosai et Vincent | Concert pop jeune public (même onglet)">
+        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/soleil-planete-concert-pop-jeune-public/" title="Consulter la page Soleil Planète, Mosaï et Vincent | Concert pop jeune public (même onglet)">
             <div class="card__container">
                                 <div class="image-wrapper  card__image-wrapper events">
                                             <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/06/8_©Laurent-Guizard-385x0-c-default.jpg" alt="Soleil Planète de Mosai et Vincent. Concert de chanson pop pour les enfants de 0 à 5 ans" class=" a42-ac-replace-img">
@@ -417,7 +389,7 @@
                     <div class="card__infos">
                                                                             <p class="card__category">Jeune public</p>
                                             </div>
-                                        <h3 class="card__title">Soleil Planète, Mosai et Vincent | Concert pop jeune public</h3>
+                                        <h3 class="card__title">Soleil Planète, Mosaï et Vincent | Concert pop jeune public</h3>
                                         <div class="card__description">
                         <p>Concert pop pour enfants de 0 à 5 ans. Après deux projets pour la petite enfance (Je me réveille et Le disco des oiseaux), le duo…</p>
                     </div>
@@ -650,11 +622,11 @@
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les 4 saison de Vivaldi | Concert à Kerdevot]]></title>
+        <title type="html"><![CDATA[Les 4 saisons de Vivaldi | Concert à Kerdevot]]></title>
         <id>https://www.lathena.bzh/agenda/4-saisons-vivaldi-kerdevot/</id>
         <link href="https://www.lathena.bzh/agenda/4-saisons-vivaldi-kerdevot/"/>
         <updated>2025-11-30T19:28:04.349Z</updated>
-        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/4-saisons-vivaldi-kerdevot/" title="Consulter la page Les 4 saison de Vivaldi | Concert à Kerdevot (même onglet)">
+        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/4-saisons-vivaldi-kerdevot/" title="Consulter la page Les 4 saisons de Vivaldi | Concert à Kerdevot (même onglet)">
             <div class="card__container">
                                 <div class="image-wrapper  card__image-wrapper events">
                                             <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/06/Web_les-4-saisons-scaled-e1759824174817-385x0-c-default.jpg" alt="" class=" a42-ac-replace-img">
@@ -669,7 +641,7 @@
                     <div class="card__infos">
                                                                             <p class="card__category">Musique</p>
                                             </div>
-                                        <h3 class="card__title">Les 4 saison de Vivaldi | Concert à Kerdevot</h3>
+                                        <h3 class="card__title">Les 4 saisons de Vivaldi | Concert à Kerdevot</h3>
                                         <div class="card__description">
                         <p>L’Académie Paul Le Flem propose de faire découvrir cette œuvre si célèbre sous un ciel nouveau, avec une formation instrumentale originale, l’accordéon classique en soliste accompagné…</p>
                     </div>

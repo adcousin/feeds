@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-12-15T04:46:09.930Z</updated>
+    <updated>2025-12-16T04:39:56.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -39,54 +39,6 @@
 
 										
 										Temps fort
-
-										
-										
-											
-												Voir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boule de neige #1]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-1/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/boule-de-neige-1/"/>
-        <updated>2025-10-21T14:48:07.429Z</updated>
-        <content type="html"><![CDATA[lundi 15 décembre 2025 
-															
-														
-														
-																												
-
-													
-													Théâtre Boule de neige #1
-
-										
-										La Compagnie de Louise | Odile Grosset-Grange | Baptiste Amann
-
-										
-										
-											
-												Voir
-											
-											
-																							
-													Réserver]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moment musical : violoncelle]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-violoncelle/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-violoncelle/"/>
-        <updated>2025-12-04T04:31:15.532Z</updated>
-        <content type="html"><![CDATA[lundi 15 décembre 2025 
-															
-														
-														
-																												
-
-													
-													  Moment musical Moment musical : violoncelle
-
-										
-										Classe d'Anne Roturier
 
 										
 										
@@ -483,7 +435,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-7/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-7/"/>
         <updated>2025-10-21T14:48:07.447Z</updated>
-        <content type="html"><![CDATA[samedi 17 janvier 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																samedi 17 janvier 2026 
 															
 														
 														
@@ -505,8 +466,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-8/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-8/"/>
         <updated>2025-10-21T14:48:07.451Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
+        <content type="html"><![CDATA[Liste d'attente
 											
 
 																							
@@ -656,7 +616,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-7/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-7/"/>
         <updated>2025-10-21T14:48:07.459Z</updated>
-        <content type="html"><![CDATA[samedi 24 janvier 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																samedi 24 janvier 2026 
 															
 														
 														
@@ -836,7 +805,7 @@
 													Atelier Initiation à la danse contemporaine #2
 
 										
-										atelier avec un·e danseur·euse du spectacle Tendre Carcasse
+										atelier avec Arthur Bateau
 
 										
 										
@@ -1072,7 +1041,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-9/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-9/"/>
         <updated>2025-10-21T14:48:07.480Z</updated>
-        <content type="html"><![CDATA[samedi 7 février 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																samedi 7 février 2026 
 															
 														
 														
@@ -2378,8 +2356,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/loutrenoir-de-pierre-soulages/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/loutrenoir-de-pierre-soulages/"/>
         <updated>2025-10-21T14:48:07.558Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
+        <content type="html"><![CDATA[Liste d'attente
 											
 
 																							
@@ -2409,7 +2386,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/alexis-hk-et-benoit-doremus/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/alexis-hk-et-benoit-doremus/"/>
         <updated>2025-10-21T14:48:07.559Z</updated>
-        <content type="html"><![CDATA[jeudi 9 avril 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																jeudi 9 avril 2026 
 															
 														
 														
@@ -2589,7 +2575,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/ensemble-matheus-1/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/ensemble-matheus-1/"/>
         <updated>2025-12-10T04:33:44.296Z</updated>
-        <content type="html"><![CDATA[mercredi 29 avril 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																mercredi 29 avril 2026 
 															
 														
 														
@@ -2671,7 +2666,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/le-cabaret-renverse-1/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/le-cabaret-renverse-1/"/>
         <updated>2025-10-21T14:48:07.574Z</updated>
-        <content type="html"><![CDATA[vendredi 8 mai 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																vendredi 8 mai 2026 
 															
 														
 														

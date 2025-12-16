@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lenovomax.bzh/agenda/</id>
     <title>Novomax</title>
-    <updated>2025-12-15T04:46:09.950Z</updated>
+    <updated>2025-12-16T04:39:56.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://lenovomax.bzh/ims22/favicon.png</icon>
     <entry>
@@ -48,55 +48,6 @@ Du 2 octobre au 10 janvier</div>
         </div></div>
         <div id="ladateevtprog">
 Du 2 octobre au 10 janvier</div>
-        </a>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ ]]></title>
-        <id>https://lenovomax.bzh/agenda/</id>
-        <link href="https://lenovomax.bzh/agenda/"/>
-        <updated>2025-12-15T04:45:47.198Z</updated>
-        <content type="html"><![CDATA[<div id="evtdesk">
-<div id="imgprog">
-
-<div id="limgprog">
-<img width="500" height="500" src="https://lenovomax.bzh/wp-content/uploads/2025/07/la-tete-500x500.png" class="attachment-carre size-carre wp-post-image" alt="" decoding="async" srcset="https://lenovomax.bzh/wp-content/uploads/2025/07/la-tete-500x500.png 500w, https://lenovomax.bzh/wp-content/uploads/2025/07/la-tete-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" loading="eager">  <div id="hovbill">
-    <a href="https://tres-tot-theatre.notre-billetterie.com/formulaire?dial=sommaire2526" class="lkbillevt" target="_blank">Réserver</a>      <a href="https://lenovomax.bzh/evenement/2540/" class="lkbillevtinv">Plus d'infos</a>
-</div>
-</div>
-<div id="contevt">
-<a href="https://lenovomax.bzh/evenement/2540/" class="lkevt">
-        <div class="titevtprog">
-        <div id="conttitevt" class="avnomsoir">
-                <div id="nomsoiree">Festival Théâtre A Tout âge</div>                <span class="titartprog">
-        LA TÊTE - Cie La Boîte à sel        </span>
-                   <div class="typevt">Jeune public</div>
-        </div></div>
-        <div id="ladateevtprog">
-dim 14 décembre - 16h</div>
-        </a>
-</div>
-</div>
-</div>
-<div id="evtmob">
-<a href="https://lenovomax.bzh/evenement/2540/" class="lkevt">
-</a><div id="imgprog"><a href="https://lenovomax.bzh/evenement/2540/" class="lkevt">
-
-<div id="limgprog">
-<img width="500" height="500" src="https://lenovomax.bzh/wp-content/uploads/2025/07/la-tete-500x500.png" class="attachment-carre size-carre wp-post-image" alt="" decoding="async" srcset="https://lenovomax.bzh/wp-content/uploads/2025/07/la-tete-500x500.png 500w, https://lenovomax.bzh/wp-content/uploads/2025/07/la-tete-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" loading="eager"></div>
-</a><div id="contevt"><a href="https://lenovomax.bzh/evenement/2540/" class="lkevt">
-</a><a href="https://lenovomax.bzh/evenement/2540/" class="lkevt">
-        <div class="titevtprog">
-        <div id="conttitevt" class="avnomsoir">
-                <div id="nomsoiree">Festival Théâtre A Tout âge</div>                <span class="titartprog">
-        LA TÊTE - Cie La Boîte à sel        </span>
-                   <div class="typevt">Jeune public</div>
-        </div></div>
-        <div id="ladateevtprog">
-dim 14 décembre - 16h</div>
         </a>
 </div>
 </div>
@@ -207,7 +158,7 @@ jeu 15 janvier - 18h</div>
         <title type="html"><![CDATA[ Joy Dary]]></title>
         <id>https://lenovomax.bzh/agenda/</id>
         <link href="https://lenovomax.bzh/agenda/"/>
-        <updated>2025-12-15T04:45:47.223Z</updated>
+        <updated>2025-12-16T04:39:33.127Z</updated>
         <content type="html"><![CDATA[<div id="evtdesk">
 <div id="imgprog">
 
@@ -264,7 +215,7 @@ sam 24 janvier - 20h30</div>
         <title type="html"><![CDATA[ LOFOFORA]]></title>
         <id>https://lenovomax.bzh/agenda/</id>
         <link href="https://lenovomax.bzh/agenda/"/>
-        <updated>2025-12-15T04:45:47.225Z</updated>
+        <updated>2025-12-16T04:39:33.128Z</updated>
         <content type="html"><![CDATA[<div id="evtdesk">
 <div id="imgprog">
 
@@ -321,7 +272,7 @@ sam 31 janvier - 20h30</div>
         <title type="html"><![CDATA[ ]]></title>
         <id>https://lenovomax.bzh/agenda/</id>
         <link href="https://lenovomax.bzh/agenda/"/>
-        <updated>2025-12-15T04:45:47.198Z</updated>
+        <updated>2025-12-16T04:39:33.100Z</updated>
         <content type="html"><![CDATA[<div id="evtdesk">
 <div id="imgprog">
 
@@ -370,7 +321,7 @@ ven 06 février - 20h</div>
         <title type="html"><![CDATA[ ]]></title>
         <id>https://lenovomax.bzh/agenda/</id>
         <link href="https://lenovomax.bzh/agenda/"/>
-        <updated>2025-12-15T04:45:47.198Z</updated>
+        <updated>2025-12-16T04:39:33.103Z</updated>
         <content type="html"><![CDATA[<div id="evtdesk">
 <div id="imgprog">
 
@@ -427,7 +378,7 @@ sam 07 février - 20h30</div>
         <title type="html"><![CDATA[ ]]></title>
         <id>https://lenovomax.bzh/agenda/</id>
         <link href="https://lenovomax.bzh/agenda/"/>
-        <updated>2025-12-15T04:45:47.198Z</updated>
+        <updated>2025-12-16T04:39:33.103Z</updated>
         <content type="html"><![CDATA[<div id="evtdesk">
 <div id="imgprog">
 
@@ -484,7 +435,7 @@ sam 14 février - 20h30</div>
         <title type="html"><![CDATA[ Sun]]></title>
         <id>https://lenovomax.bzh/agenda/</id>
         <link href="https://lenovomax.bzh/agenda/"/>
-        <updated>2025-12-15T04:45:47.226Z</updated>
+        <updated>2025-12-16T04:39:33.129Z</updated>
         <content type="html"><![CDATA[<div id="evtdesk">
 <div id="imgprog">
 
@@ -587,7 +538,7 @@ ven 20 mars - 20h</div>
         <title type="html"><![CDATA[ ]]></title>
         <id>https://lenovomax.bzh/agenda/</id>
         <link href="https://lenovomax.bzh/agenda/"/>
-        <updated>2025-12-15T04:45:47.200Z</updated>
+        <updated>2025-12-16T04:39:33.104Z</updated>
         <content type="html"><![CDATA[<div id="evtdesk">
 <div id="imgprog">
 
