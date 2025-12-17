@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.atelier-culturel.fr/</id>
     <title>Atelier Culture</title>
-    <updated>2025-12-16T04:39:56.851Z</updated>
+    <updated>2025-12-17T04:38:10.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.atelier-culturel.fr/images/atelier_culturel/2020_21/favicon/AC_2020_21.png</icon>
     <entry>
@@ -464,7 +464,7 @@
         
             
 <picture>
-<source type="image/webp" srcset="/templates/yootheme/cache/24/Matheus%20carre%20bichrome-24384333.webp 610w, /templates/yootheme/cache/1a/Matheus%20carre%20bichrome-1a00dd8f.webp 768w, /component/ajax/?p=image&amp;src=%7B%22file%22%3A%22images%2Fatelier_culturel%2F2025_26%2FSaison%2FMatheus%20carre%20bichrome.jpg%22%2C%22type%22%3A%22webp%2C85%22%2C%22thumbnail%22%3A%221024%2C1024%2C%22%7D&amp;hash=c279d868 1024w, /templates/yootheme/cache/99/Matheus%20carre%20bichrome-9971c477.webp 1220w" sizes="(min-width: 610px) 610px">
+<source type="image/webp" srcset="/templates/yootheme/cache/24/Matheus%20carre%20bichrome-24384333.webp 610w, /templates/yootheme/cache/1a/Matheus%20carre%20bichrome-1a00dd8f.webp 768w, /templates/yootheme/cache/0a/Matheus%20carre%20bichrome-0ad16290.webp 1024w, /templates/yootheme/cache/99/Matheus%20carre%20bichrome-9971c477.webp 1220w" sizes="(min-width: 610px) 610px">
 <img src="/templates/yootheme/cache/ab/Matheus%20carre%20bichrome-abf330b1.jpeg" width="610" height="610" alt="" loading="lazy" class="el-image uk-transition-opaque">
 </picture>
 
