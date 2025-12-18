@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2025-12-17T04:38:10.082Z</updated>
+    <updated>2025-12-18T04:36:52.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -108,6 +108,9 @@
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Cirque </p> 
 
@@ -115,10 +118,10 @@
 </div>
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
 <p class="date mr-2">JE <span class="bold">15</span> 
- &gt; DI <span class="bold">18</span> 
+ &gt; DI <span class="bold">01</span> 
 </p>
-<p class="hidden md:block bold lieu">Parvis du Théâtre de Cornouaille</p>
-
+<p class="hidden md:block bold lieu">Divers lieux</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
     </entry>
@@ -244,6 +247,9 @@
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Cirque </p> 
 
@@ -251,37 +257,10 @@
 </div>
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
 <p class="date mr-2">ME <span class="bold">21</span> 
- &gt; JE <span class="bold">22</span> 
-</p>
-<p class="hidden md:block bold lieu">Le Terrain Blanc - MPT de Penhars</p>
-
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Cabaret renversé]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/le-cabaret-renverse-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/le-cabaret-renverse-25-26/"/>
-        <updated>2025-10-21T16:15:22.820Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150616/26-0115-cabaret-renverse-07_C_sabine-chalaguier-680x680.jpg?date=134051" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
- <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#00b1d8">Circonova</div> 
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Cirque </p> 
-
-  
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">VE <span class="bold">23</span> 
  &gt; DI <span class="bold">25</span> 
 </p>
-<p class="hidden md:block bold lieu">L'Avel-Dro - Plozévet</p>
-
+<p class="hidden md:block bold lieu">Divers lieux</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
     </entry>
@@ -311,36 +290,6 @@
  &gt; JE <span class="bold">29</span> 
 </p>
 <p class="hidden md:block bold lieu">Place Kroaz Ar Bleuñv - PLUGUFFAN </p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De bonnes raisons]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/de-bonnes-raisons-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/de-bonnes-raisons-25-26/"/>
-        <updated>2025-10-21T16:15:22.826Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150842/26-0121-bonnes-raisons-02_C_la-volte-cirque-680x680.jpg?date=123809" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
- <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#00b1d8">Circonova</div> 
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Cirque </p> 
-
-  
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">SA <span class="bold">24</span> 
- &gt; DI <span class="bold">25</span> 
-</p>
-<p class="hidden md:block bold lieu">L’Archipel - Fouesnant</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
@@ -381,13 +330,16 @@
         <link href="https://www.theatre-cornouaille.fr/projects/la-pointe-du-compas-25-26/"/>
         <updated>2025-10-21T16:15:22.830Z</updated>
         <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151056/26-0126-pointe-compas-08_C_anne-rehbinder-680x680.jpg?date=69355" alt="" class="w-full h-auto bg-primary">
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151056/26-0126-pointe-compas-08_C_anne-rehbinder-680x680.jpg?date=64291" alt="" class="w-full h-auto bg-primary">
 </picture>
 <div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
  <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#00b1d8">Circonova</div> 
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Cirque </p> 
 
@@ -395,99 +347,9 @@
 </div>
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
 <p class="date mr-2">MA <span class="bold">27</span> 
- &gt; ME <span class="bold">28</span> 
+ &gt; VE <span class="bold">30</span> 
 </p>
 <p class="hidden md:block bold lieu">Divers lieux</p>
-
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KA-IN]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/ka-in-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/ka-in-25-26/"/>
-        <updated>2025-10-21T16:15:22.831Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151154/26-0129-ka-in-28_C_pierre-planchenault-680x680.jpg?date=103201" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
- <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#00b1d8">Circonova</div> 
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Cirque </p> 
-
-  
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">JE <span class="bold">29</span> 
- &gt; DI <span class="bold">01</span> 
-</p>
-<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Pointe du compas]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/la-pointe-du-compas-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/la-pointe-du-compas-25-26/"/>
-        <updated>2025-10-21T16:15:22.830Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151056/26-0126-pointe-compas-08_C_anne-rehbinder-680x680.jpg?date=69355" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
- <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#00b1d8">Circonova</div> 
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Cirque </p> 
-
-  
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">VE <span class="bold">30</span>  20:00 
-
-</p>
-<p class="hidden md:block bold lieu">Divers lieux</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Cabaret renversé]]></title>
-        <id>https://www.theatre-cornouaille.fr/projects/le-cabaret-renverse-25-26/</id>
-        <link href="https://www.theatre-cornouaille.fr/projects/le-cabaret-renverse-25-26/"/>
-        <updated>2025-10-21T16:15:22.820Z</updated>
-        <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03150616/26-0115-cabaret-renverse-07_C_sabine-chalaguier-680x680.jpg?date=134051" alt="" class="w-full h-auto bg-primary">
-</picture>
-<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
- <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#00b1d8">Circonova</div> 
-   
-</div>
-<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
-<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
- <p> Cirque </p> 
-
-  
-</div>
-<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">VE <span class="bold">30</span> 
- &gt; DI <span class="bold">01</span> 
-</p>
-<p class="hidden md:block bold lieu">Stade Ty-Eugène - Briec</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
@@ -544,10 +406,40 @@
   
 </div>
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
-<p class="date mr-2">VE <span class="bold">30</span> 
+<p class="date mr-2">JE <span class="bold">15</span> 
  &gt; DI <span class="bold">01</span> 
 </p>
-<p class="hidden md:block bold lieu">Stade Ty-Eugène - Briec</p>
+<p class="hidden md:block bold lieu">Divers lieux</p>
+ <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KA-IN]]></title>
+        <id>https://www.theatre-cornouaille.fr/projects/ka-in-25-26/</id>
+        <link href="https://www.theatre-cornouaille.fr/projects/ka-in-25-26/"/>
+        <updated>2025-10-21T16:15:22.831Z</updated>
+        <content type="html"><![CDATA[<picture>
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151154/26-0129-ka-in-28_C_pierre-planchenault-680x680.jpg?date=103201" alt="" class="w-full h-auto bg-primary">
+</picture>
+<div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
+ <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#00b1d8">Circonova</div> 
+   
+</div>
+<div class="sl-card-hover w-full md:absolute bottom-0 left-0">
+<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
+<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
+</a>
+<div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
+ <p> Cirque </p> 
+
+  
+</div>
+<div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
+<p class="date mr-2">JE <span class="bold">29</span> 
+ &gt; DI <span class="bold">01</span> 
+</p>
+<p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
  <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
 </div>
 </div>]]></content>
@@ -2148,15 +2040,12 @@ Complet
  <div class="type rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#FFFFFF">Conférence</div>  
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hover-vignette md:bg-white groupe-date md:border  border-black text-xl md:text-sm md:px-4 pt-2 md:py-2 flex flex-wrap justify-between md:justify-start">
 <p class="date mr-2">LU <span class="bold">01</span>  19:00 
 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille - L'Atelier</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -2173,9 +2062,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Musique </p> 
 &nbsp;/&nbsp;
@@ -2186,7 +2072,7 @@ Complet
 
 </p>
 <p class="hidden md:block bold lieu">Le Triskell - Pont-L’Abbé</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -2225,9 +2111,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Danse </p> 
 
@@ -2238,7 +2121,7 @@ Complet
  &gt; VE <span class="bold">05</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -2277,9 +2160,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Concert au chocolat </p>&nbsp;/&nbsp;<p> Musique </p> 
 &nbsp;/&nbsp;
@@ -2290,7 +2170,7 @@ Complet
 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>
@@ -2329,9 +2209,6 @@ Complet
    
 </div>
 <div class="sl-card-hover w-full md:absolute bottom-0 left-0">
-<a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="hidden md:flex booking z-20 h-20 w-20 rounded-full md:border-2 border-white items-center m-4 hover:bg-primary hover:border-primary bg-gray-500 bg-opacity-25">
-<p class="text-white text-xs mx-auto font-bold uppercase">réserver</p>
-</a>
 <div class="hidden md:flex hover-vignette md:bg-white disciplines text-xl md:text-sm md:border-t md:border-r md:border-l border-black py-2 md:px-4">
  <p> Théâtre </p> 
 
@@ -2342,7 +2219,7 @@ Complet
  &gt; VE <span class="bold">12</span> 
 </p>
 <p class="hidden md:block bold lieu">Théâtre de Cornouaille</p>
- <a href="https://billetterie.theatre-cornouaille.fr/" target="_blank" class="md:hidden z-20 hover:text-primary"><i class="fal fa-ticket-alt text-2xl"></i></a> 
+
 </div>
 </div>]]></content>
     </entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lathena.bzh/systeme/agenda/?systemeParams=events&amp;pages=10</id>
     <title>Athena Ergue</title>
-    <updated>2025-12-17T04:38:10.251Z</updated>
+    <updated>2025-12-18T04:36:52.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lathena.bzh/wp-content/themes/athena/assets/src/images/Logos/favicon.ico</icon>
     <entry>
@@ -443,7 +443,7 @@
                 </div>
                 <div class="card__content">
                     <div class="card__infos">
-                                                                            <p class="card__category">Humour</p>
+                                                                            <p class="card__category">Complet</p>
                                             </div>
                                         <h3 class="card__title">Greg Duth “Coquilles” | One-man-show</h3>
                                         <div class="card__description">
@@ -476,6 +476,41 @@
                                         <h3 class="card__title">Klew | Spectacle jeune public bilingue</h3>
                                         <div class="card__description">
                         <p>Spectacle jeune public en breton, français et langue des signes. Spectacle multilingue, où les sens sont à la fête.</p>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salon de Peinture]]></title>
+        <id>https://www.lathena.bzh/agenda/salon-de-peinture/</id>
+        <link href="https://www.lathena.bzh/agenda/salon-de-peinture/"/>
+        <updated>2025-12-18T04:35:47.807Z</updated>
+        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/salon-de-peinture/" title="Consulter la page Salon de Peinture (même onglet)">
+            <div class="card__container">
+                                <div class="image-wrapper  card__image-wrapper events">
+                                            <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/01/SP23-385x0-c-default.jpg" alt="" class=" a42-ac-replace-img">
+            <!-- / End output of "public/partials/image.twig" -->                                                            <div class="card__date">
+                                                    <p>
+                                <span class="card__date_day">25</span>
+                                <span class="card__date_month">mars</span>
+                            </p>
+                                                                            <svg aria-hidden="true" focusable="false">
+                                <use xlink:href="#ic-nav-chevron-bottom"></use>
+                            </svg>
+                            <p>
+                                <span class="card__date_day">10</span>
+                                <span class="card__date_month">avril</span>
+                            </p>
+                                            </div>
+                </div>
+                <div class="card__content">
+                    <div class="card__infos">
+                                                                            <p class="card__category">Expositions</p>
+                                            </div>
+                                        <h3 class="card__title">Salon de Peinture</h3>
+                                        <div class="card__description">
+                        <p>Le talent des artistes peintres sera mis à l'honneur lors du Salon de Peinture 2026. Le formulaire d'inscription et le règlement du Salon est à demander…</p>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-12-17T04:38:10.231Z</updated>
+    <updated>2025-12-18T04:36:52.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/morsure-5/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/morsure-5/"/>
         <updated>2025-10-21T14:48:07.363Z</updated>
-        <content type="html"><![CDATA[Du 4 octobre au 20 décembre 2025 
+        <content type="html"><![CDATA[Du 4 octobre au 3 janvier 2025 
 																	
 																												
 
@@ -39,28 +39,6 @@
 
 										
 										Temps fort
-
-										
-										
-											
-												Voir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moment musical : piano]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-piano-2/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-piano-2/"/>
-        <updated>2025-11-03T16:13:52.715Z</updated>
-        <content type="html"><![CDATA[mercredi 17 décembre 2025 
-															
-														
-														
-																												
-
-													
-													  Moment musical Moment musical : piano
-
-										
-										Classe d'Arnaud Tessier
 
 										
 										
@@ -531,6 +509,72 @@
 
 										
 										
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Petits champions de la lecture : finale de l’école N.-D]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/finale-des-petits-champions-de-la-lecture-de-lecole-notre-dame/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/finale-des-petits-champions-de-la-lecture-de-lecole-notre-dame/"/>
+        <updated>2025-12-18T04:34:38.775Z</updated>
+        <content type="html"><![CDATA[jeudi 22 janvier 2026 
+															
+														
+														
+																												
+
+													
+													 Lecture Petits champions de la lecture : finale de l’école N.-D
+
+										
+										Les Nuits de la lecture
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Une lecture pour les enfants]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/quelques-lectures-pour-les-enfants/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/quelques-lectures-pour-les-enfants/"/>
+        <updated>2025-12-18T04:34:38.776Z</updated>
+        <content type="html"><![CDATA[vendredi 23 janvier 2026 
+															
+														
+														
+																												
+
+													
+													 Lecture Une lecture pour les enfants
+
+										
+										Les Nuits de la lecture
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Une lecture pour les adultes]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/une-lecture-pour-les-adultes/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/une-lecture-pour-les-adultes/"/>
+        <updated>2025-12-18T04:34:38.779Z</updated>
+        <content type="html"><![CDATA[vendredi 23 janvier 2026 
+															
+														
+														
+																												
+
+													
+													 Lecture Une lecture pour les adultes
+
+										
+										Les Nuits de la lecture
 
 										
 										
