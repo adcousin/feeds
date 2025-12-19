@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-12-18T04:36:52.449Z</updated>
+    <updated>2025-12-19T04:36:32.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -829,6 +829,28 @@
 											
 																							
 													Réserver]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[l’atelier jazz du Conservatoire]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/latelier-jazz-du-conservatoire/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/latelier-jazz-du-conservatoire/"/>
+        <updated>2025-12-19T04:34:30.575Z</updated>
+        <content type="html"><![CDATA[samedi 31 janvier 2026 
+															
+														
+														
+																												
+
+													
+													 Showcase l’atelier jazz du Conservatoire
+
+										
+										en showcase
+
+										
+										
+											
+												Voir]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pierre Loti, grand ami des Turcs]]></title>
