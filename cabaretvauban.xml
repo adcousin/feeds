@@ -2,74 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cabaretvauban.com/programme.html?page=1</id>
     <title>Cabaret Vauban</title>
-    <updated>2025-12-19T04:36:32.256Z</updated>
+    <updated>2025-12-20T04:30:31.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cabaretvauban.com/images/LOGOOVALE.jpg</icon>
-    <entry>
-        <title type="html"><![CDATA[Sparkling queens						
-					
-				
-				
-					
-						Cabaret Vauban Brest]]></title>
-        <id>https://cabaretvauban.com/programme/1143-sparkling-queens/2025-12-19-23-30.html</id>
-        <link href="https://cabaretvauban.com/programme/1143-sparkling-queens/2025-12-19-23-30.html"/>
-        <updated>2025-12-19T04:36:22.296Z</updated>
-        <content type="html"><![CDATA[<!-- Event -->
-
-
-		
-				<a href="/programme/1143-sparkling-queens/2025-12-19-23-30.html" title="Sparkling queens" class="ic-text-decoration-none">
-								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_19-12-conne-action.jpg); border-color: #96937e">
-					<div class="ic-date">
-								<div class="ic-day">
-					19				</div>
-								<div class="ic-month">
-					Déc				</div>
-								<div class="ic-year">
-					2025				</div>
-								<div class="ic-time">
-					23:30				</div>
-			</div>
-		</div>
-		</a>
-
-				<div class="ic-content">
-
-						<div class="ic-event-title">
-
-								<div class="ic-title-header ic-margin-0 ic-padding-0">
-					<h2>
-						<a href="/programme/1143-sparkling-queens/2025-12-19-23-30.html" class="ic-text-decoration-none">
-							Sparkling queens						</a>
-					</h2>
-				</div>
-				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
-						Cabaret Vauban Brest					</a>
-				</div>
-
-			</div>
-
-									<div class="ic-features-container">
-							</div>
-			
-									<div class="nextdate ic-next-date ic-clearfix">
-				<strong><span class="ic-next-today"><span class="ic-single-next">vendredi&nbsp;19&nbsp;décembre&nbsp;2025</span> <span class="ic-single-starttime">23:30</span></span></strong>
-			</div>
-			
-						
-									<div class="descshort ic-descshort">
-				Avec Melusine, Ludi L, Kritik et UltraViolette			</div>
-			
-						
-						<div class="moreinfos ic-more-info">
-			 	<a href="/programme/1143-sparkling-queens/2025-12-19-23-30.html" title="Sparkling queens">
-			 		+ d'infos			 	</a>
-			</div>
-
-		</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Cabaret sonique: laurent garnier - sonic crew						
 					
@@ -110,7 +45,7 @@
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -120,7 +55,7 @@
 							</div>
 			
 									<div class="nextdate ic-next-date ic-clearfix">
-				<strong><span class="ic-single-next">samedi&nbsp;20&nbsp;décembre&nbsp;2025</span> <span class="ic-single-starttime">00:00</span></strong>
+				<strong><span class="ic-next-today"><span class="ic-single-next">samedi&nbsp;20&nbsp;décembre&nbsp;2025</span> <span class="ic-single-starttime">00:00</span></span></strong>
 			</div>
 			
 						
@@ -176,7 +111,7 @@ Un moment privilégié avec celui qui fait danser la planète depuis plus de 30 
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -246,7 +181,7 @@ Au programme: house, trance, techno			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -273,7 +208,7 @@ Deux univers, une même mission : faire trembler Brest avec un live sauvage et j
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orchestre live fever *						
+        <title type="html"><![CDATA[Orchestre live fever 						
 					
 				
 				
@@ -286,8 +221,8 @@ Deux univers, une même mission : faire trembler Brest avec un live sauvage et j
 
 
 		
-				<a href="/programme/920-orchestre-live-fever-3/2026-01-17-00-00.html" title="Orchestre live fever *" class="ic-text-decoration-none">
-								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_ic-large-w900h600q100-live-fever.jpg); border-color: #96937e">
+				<a href="/programme/920-orchestre-live-fever-3/2026-01-17-00-00.html" title="Orchestre live fever " class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_live-fever-2026.jpg); border-color: #96937e">
 					<div class="ic-date">
 								<div class="ic-day">
 					17				</div>
@@ -308,11 +243,11 @@ Deux univers, une même mission : faire trembler Brest avec un live sauvage et j
 								<div class="ic-title-header ic-margin-0 ic-padding-0">
 					<h2>
 						<a href="/programme/920-orchestre-live-fever-3/2026-01-17-00-00.html" class="ic-text-decoration-none">
-							Orchestre live fever *						</a>
+							Orchestre live fever 						</a>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -334,7 +269,7 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 			
 						
 						<div class="moreinfos ic-more-info">
-			 	<a href="/programme/920-orchestre-live-fever-3/2026-01-17-00-00.html" title="Orchestre live fever *">
+			 	<a href="/programme/920-orchestre-live-fever-3/2026-01-17-00-00.html" title="Orchestre live fever ">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -380,7 +315,7 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -448,7 +383,7 @@ Nos maîtres mots: enthousiasme, bienveillance et empathie.			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -515,7 +450,7 @@ Laissez-vous emporter par l’univers authentique et sensible de Kathia (chant) 
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -582,7 +517,7 @@ Sweet Dog - Paul Jarret, guitare / Julien Soro, saxophone tenor / Ariel Tessier,
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -648,7 +583,7 @@ Ces dernières années, il s'est taillé une place de choix dans le panorama du 
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -715,7 +650,7 @@ Après plusieurs années de pause, Halloween remonte sur scène avec ses textes 
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -782,7 +717,7 @@ Toochuss fait vibrer les dancefloors avec une vibe vintage irrésistible. Prépa
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -847,7 +782,7 @@ Toochuss fait vibrer les dancefloors avec une vibe vintage irrésistible. Prépa
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -912,7 +847,7 @@ Toochuss fait vibrer les dancefloors avec une vibe vintage irrésistible. Prépa
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -932,6 +867,74 @@ Toochuss fait vibrer les dancefloors avec une vibe vintage irrésistible. Prépa
 						
 						<div class="moreinfos ic-more-info">
 			 	<a href="/programme/1183-l-enclos-des-animao/2026-02-06-20-30.html" title="L'enclos des animao!">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waxwork						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1195-waxwork-2/2026-02-07-00-00.html</id>
+        <link href="https://cabaretvauban.com/programme/1195-waxwork-2/2026-02-07-00-00.html"/>
+        <updated>2025-12-20T04:30:07.188Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1195-waxwork-2/2026-02-07-00-00.html" title="Waxwork" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_07-02-go-deep.jpg); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					07				</div>
+								<div class="ic-month">
+					Fév				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					00:00				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1195-waxwork-2/2026-02-07-00-00.html" class="ic-text-decoration-none">
+							Waxwork						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">samedi&nbsp;7&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">00:00</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Rencard sur le parquet ciré du Vauban pour une WaxWork XL.
+Amateurs de son authentique, préparez-vous. Grosse session 100% vinyles, House oldschool - plus fraîche que ta dernière paire de baskets.
+Une paire de MKII, B2B all night, sans concession.
+Du groove brut, des sillons qui chauffent, et un floor en furie.			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1195-waxwork-2/2026-02-07-00-00.html" title="Waxwork">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -977,7 +980,7 @@ Toochuss fait vibrer les dancefloors avec une vibe vintage irrésistible. Prépa
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1043,7 +1046,7 @@ Attendez-vous à un concert à l'énergie brute, où ses compositions introspect
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1070,30 +1073,30 @@ Avec eux le duo Oasis Boom, qui puise de ses bases jazz et expé une musique fai
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orchestre live fever *						
+        <title type="html"><![CDATA[The celtic social club you should know tour						
 					
 				
 				
 					
 						Cabaret Vauban Brest]]></title>
-        <id>https://cabaretvauban.com/programme/920-orchestre-live-fever-3/2026-02-14-00-00.html</id>
-        <link href="https://cabaretvauban.com/programme/920-orchestre-live-fever-3/2026-02-14-00-00.html"/>
-        <updated>2025-12-19T04:36:23.586Z</updated>
+        <id>https://cabaretvauban.com/programme/1191-the-celtic-social-club-you-should-know-tour/2026-02-13-20-30.html</id>
+        <link href="https://cabaretvauban.com/programme/1191-the-celtic-social-club-you-should-know-tour/2026-02-13-20-30.html"/>
+        <updated>2025-12-20T04:30:07.192Z</updated>
         <content type="html"><![CDATA[<!-- Event -->
 
 
 		
-				<a href="/programme/920-orchestre-live-fever-3/2026-02-14-00-00.html" title="Orchestre live fever *" class="ic-text-decoration-none">
-								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_ic-large-w900h600q100-live-fever.jpg); border-color: #96937e">
+				<a href="/programme/1191-the-celtic-social-club-you-should-know-tour/2026-02-13-20-30.html" title="The celtic social club you should know tour" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_13-02-celtic-social-club.jpg); border-color: #96937e">
 					<div class="ic-date">
 								<div class="ic-day">
-					14				</div>
+					13				</div>
 								<div class="ic-month">
 					Fév				</div>
 								<div class="ic-year">
 					2026				</div>
 								<div class="ic-time">
-					00:00				</div>
+					20:30				</div>
 			</div>
 		</div>
 		</a>
@@ -1104,12 +1107,12 @@ Avec eux le duo Oasis Boom, qui puise de ses bases jazz et expé une musique fai
 
 								<div class="ic-title-header ic-margin-0 ic-padding-0">
 					<h2>
-						<a href="/programme/920-orchestre-live-fever-3/2026-02-14-00-00.html" class="ic-text-decoration-none">
-							Orchestre live fever *						</a>
+						<a href="/programme/1191-the-celtic-social-club-you-should-know-tour/2026-02-13-20-30.html" class="ic-text-decoration-none">
+							The celtic social club you should know tour						</a>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1119,19 +1122,86 @@ Avec eux le duo Oasis Boom, qui puise de ses bases jazz et expé une musique fai
 							</div>
 			
 									<div class="nextdate ic-next-date ic-clearfix">
-				<strong><span class="ic-single-next">samedi&nbsp;14&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">00:00</span></strong>
+				<strong><span class="ic-single-next">vendredi&nbsp;13&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">20:30</span></strong>
 			</div>
 			
 						
 									<div class="descshort ic-descshort">
-				On ne les présente plus: Live Fever, l'incontournable Bal Pop' du Vauban!
-Faites le plein d'énergie positive en dansant et chantant sur les plus grands titres de la variété des années 60 à aujourd'hui: de la pop, du rock, du disco au funk, jusqu'à l'électro et le R'n'B.
-Les danseuses vous entraînent dans des chorégraphies enivrantes.
-Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
+				The Celtic Social Club, ce n'est pas qu'un concert. C'est une expérience.
+Un partage, une communion entre un groupe et son public. Une véritable machine à danser.
+Bien plus rock qu'il n'y paraît, les sept Franco-Irlandais sont portés par une celtic soul ravageuse.			</div>
 			
 						
 						<div class="moreinfos ic-more-info">
-			 	<a href="/programme/920-orchestre-live-fever-3/2026-02-14-00-00.html" title="Orchestre live fever *">
+			 	<a href="/programme/1191-the-celtic-social-club-you-should-know-tour/2026-02-13-20-30.html" title="The celtic social club you should know tour">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soirée spéciale saint valentin au vauban						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1197-soir%C3%A9e-sp%C3%A9ciale-saint-valentin-au-vauban/2026-02-14-22-30.html</id>
+        <link href="https://cabaretvauban.com/programme/1197-soir%C3%A9e-sp%C3%A9ciale-saint-valentin-au-vauban/2026-02-14-22-30.html"/>
+        <updated>2025-12-20T04:30:07.194Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1197-soirée-spéciale-saint-valentin-au-vauban/2026-02-14-22-30.html" title="Soirée spéciale saint valentin au vauban" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_14-02-orchestre-live-fever.jpg); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					14				</div>
+								<div class="ic-month">
+					Fév				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					22:30				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1197-soirée-spéciale-saint-valentin-au-vauban/2026-02-14-22-30.html" class="ic-text-decoration-none">
+							Soirée spéciale saint valentin au vauban						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">samedi&nbsp;14&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">22:30</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Le Vauban célèbre l'amour et la fête avec une soirée exceptionnelle placée sous le signe de la musique et de la danse.
+Nous vous proposons une formule dîner + soirée dansante, idéale pour partager un moment gourmand et festif à deux... ou entre amis. Des surprises sont prévues!
+Après le dîner, place à la fête avec Live Fever.
+Envie de rejoindre la piste sans passer par le diner? La soirée dansante est également accessible seule, pour celles et ceux qui souhaitent simplement venir danser et profiter de l'ambiance.			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1197-soirée-spéciale-saint-valentin-au-vauban/2026-02-14-22-30.html" title="Soirée spéciale saint valentin au vauban">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -1177,7 +1247,7 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1200,6 +1270,74 @@ Nos maîtres mots: enthousiasme, bienveillance et empathie.			</div>
 						
 						<div class="moreinfos ic-more-info">
 			 	<a href="/programme/1172-les-mardis-du-jam-au-vauban,-saison-iii/2026-02-17-20-30.html" title="Les mardis du jam au vauban, saison iii">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groovy, baby!						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1192-groovy,-baby/2026-02-20-00-00.html</id>
+        <link href="https://cabaretvauban.com/programme/1192-groovy,-baby/2026-02-20-00-00.html"/>
+        <updated>2025-12-20T04:30:07.201Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1192-groovy,-baby/2026-02-20-00-00.html" title="Groovy, baby!" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_20-02-sound-action-prod.jpg); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					20				</div>
+								<div class="ic-month">
+					Fév				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					00:00				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1192-groovy,-baby/2026-02-20-00-00.html" class="ic-text-decoration-none">
+							Groovy, baby!						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">vendredi&nbsp;20&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">00:00</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				"Groovy Baby", c'est la soirée où Deejay Taj te plonge dans un mix disco, afro funk et hip-hop.
+On vient comme on est: avec son flow, son énergie, ses pas de danse.
+Célébration. Connexion. Groove: voilà l'état d'esprit.
+"Groovy Baby" is ready!			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1192-groovy,-baby/2026-02-20-00-00.html" title="Groovy, baby!">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -1245,7 +1383,7 @@ Nos maîtres mots: enthousiasme, bienveillance et empathie.			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1268,6 +1406,143 @@ Quand à Grandma's Ashe, le trio féminin communie avec son public via un show e
 						
 						<div class="moreinfos ic-more-info">
 			 	<a href="/programme/1180-komodor-grandma-s-ashes/2026-02-20-20-30.html" title="Komodor + grandma's ashes">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le bal go deep						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1196-le-bal-go-deep-7/2026-02-21-00-00.html</id>
+        <link href="https://cabaretvauban.com/programme/1196-le-bal-go-deep-7/2026-02-21-00-00.html"/>
+        <updated>2025-12-20T04:30:07.204Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1196-le-bal-go-deep-7/2026-02-21-00-00.html" title="Le bal go deep" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_21-02-go-deep.jpg); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					21				</div>
+								<div class="ic-month">
+					Fév				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					00:00				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1196-le-bal-go-deep-7/2026-02-21-00-00.html" class="ic-text-decoration-none">
+							Le bal go deep						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">samedi&nbsp;21&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">00:00</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Le Bal Go Deep, c'est la soirée House de la Cité du Ponant!
+La formule est simple, des danseurs, des ondes positives et du groove, beaucoup de groove.
+Un voyage musical conçu pour vous embarquer dans la "Culture Club", de la disco à la house music, de New York à Londres, d'hier et à aujourd'hui.
+Un seul mot d'ordre; vous faire danser et vibrer toute la nuit!
+Funk, disco &amp; house music all night.
+Line up: Mo Deejay, S3RG10, Eddy &amp; Vince Gelvo			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1196-le-bal-go-deep-7/2026-02-21-00-00.html" title="Le bal go deep">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maison du bonheur x feu folley						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1189-maison-du-bonheur-x-feu-folley/2026-02-27-00-00.html</id>
+        <link href="https://cabaretvauban.com/programme/1189-maison-du-bonheur-x-feu-folley/2026-02-27-00-00.html"/>
+        <updated>2025-12-20T04:30:07.206Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1189-maison-du-bonheur-x-feu-folley/2026-02-27-00-00.html" title="Maison du bonheur x feu folley" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_27-02-maison-du-bonheur.jpg); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					27				</div>
+								<div class="ic-month">
+					Fév				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					00:00				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1189-maison-du-bonheur-x-feu-folley/2026-02-27-00-00.html" class="ic-text-decoration-none">
+							Maison du bonheur x feu folley						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">vendredi&nbsp;27&nbsp;février&nbsp;2026</span> <span class="ic-single-starttime">00:00</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Manifestation lumineuse ayant l'apparence d'une petite flamme. Ces phénomènes voltigent dans l'air à peu de distance du sol et sont perçus principalement la nuit.
+Collectif de 2 potes kinés qui naviguent entre les styles house. 
+Rejoignez-nous dans le cockpit et accrochez vos ceintures. 			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1189-maison-du-bonheur-x-feu-folley/2026-02-27-00-00.html" title="Maison du bonheur x feu folley">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -1313,7 +1588,7 @@ Quand à Grandma's Ashe, le trio féminin communie avec son public via un show e
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1335,6 +1610,71 @@ Toute première édition, au profit des actions de solidarité du Secours Popula
 						
 						<div class="moreinfos ic-more-info">
 			 	<a href="/programme/1185-les-rockers-solidaires-du-secours-populaire/2026-02-27-19-00.html" title="Les rockers solidaires du secours populaire">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swing party						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1190-swing-party/2026-03-01-15-30.html</id>
+        <link href="https://cabaretvauban.com/programme/1190-swing-party/2026-03-01-15-30.html"/>
+        <updated>2025-12-20T04:30:08.601Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1190-swing-party/2026-03-01-15-30.html" title="Swing party" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_01-03-phare-ouest-jazz.jpg); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					01				</div>
+								<div class="ic-month">
+					Mar				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					15:30				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1190-swing-party/2026-03-01-15-30.html" class="ic-text-decoration-none">
+							Swing party						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">dimanche&nbsp;1&nbsp;mars&nbsp;2026</span> <span class="ic-single-starttime">15:30</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Musique live avec l'orchestre Phare Ouest Jazz			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1190-swing-party/2026-03-01-15-30.html" title="Swing party">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -1380,7 +1720,7 @@ Toute première édition, au profit des actions de solidarité du Secours Popula
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1446,7 +1786,7 @@ La seule chose dont nous sommes sûrs: vous allez rire et passer une très bonne
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1515,7 +1855,7 @@ Il y est question de consolation douce, de deuil résilient mais pas résolu.
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1537,6 +1877,72 @@ Deux soirées dédiées au cabaret burlesque avec un show différent par soir, e
 						
 						<div class="moreinfos ic-more-info">
 			 	<a href="/programme/1168-4e-édition-brest-burlesque-festival/2026-03-06-20-00.html" title="4E édition - brest burlesque festival">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin wax - philem, jøhan, sheva						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1193-spin-wax-philem,-j%C3%B8han,-sheva/2026-03-07-00-00.html</id>
+        <link href="https://cabaretvauban.com/programme/1193-spin-wax-philem,-j%C3%B8han,-sheva/2026-03-07-00-00.html"/>
+        <updated>2025-12-20T04:30:08.611Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1193-spin-wax-philem,-jøhan,-sheva/2026-03-07-00-00.html" title="Spin wax - philem, jøhan, sheva" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_07-03-go-deep.jpg); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					07				</div>
+								<div class="ic-month">
+					Mar				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					00:00				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1193-spin-wax-philem,-jøhan,-sheva/2026-03-07-00-00.html" class="ic-text-decoration-none">
+							Spin wax - philem, jøhan, sheva						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">samedi&nbsp;7&nbsp;mars&nbsp;2026</span> <span class="ic-single-starttime">00:00</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Soirée dédiée à la House Music avec 3 DJ's qui ramènent leurs bacs de disques pour faire danser le Cabaret Vauban.
+Jøhan et Cédric Sheva, habitués du lieu, invitent pour cette soirée le DJ nantais Philem et sa selecta Deep et Jazzy, pour une belle nuit de House Groovy!			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1193-spin-wax-philem,-jøhan,-sheva/2026-03-07-00-00.html" title="Spin wax - philem, jøhan, sheva">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -1582,7 +1988,7 @@ Deux soirées dédiées au cabaret burlesque avec un show différent par soir, e
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1649,7 +2055,7 @@ Deux soirées dédiées au cabaret burlesque avec un show différent par soir, e
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1714,7 +2120,7 @@ Deux soirées dédiées au cabaret burlesque avec un show différent par soir, e
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1742,7 +2148,7 @@ Toochuss fait vibrer les dancefloors avec une vibe vintage irrésistible. Prépa
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orchestre live fever *						
+        <title type="html"><![CDATA[Orchestre live fever 						
 					
 				
 				
@@ -1755,8 +2161,8 @@ Toochuss fait vibrer les dancefloors avec une vibe vintage irrésistible. Prépa
 
 
 		
-				<a href="/programme/920-orchestre-live-fever-3/2026-03-14-00-00.html" title="Orchestre live fever *" class="ic-text-decoration-none">
-								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_ic-large-w900h600q100-live-fever.jpg); border-color: #96937e">
+				<a href="/programme/920-orchestre-live-fever-3/2026-03-14-00-00.html" title="Orchestre live fever " class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_live-fever-2026.jpg); border-color: #96937e">
 					<div class="ic-date">
 								<div class="ic-day">
 					14				</div>
@@ -1777,11 +2183,11 @@ Toochuss fait vibrer les dancefloors avec une vibe vintage irrésistible. Prépa
 								<div class="ic-title-header ic-margin-0 ic-padding-0">
 					<h2>
 						<a href="/programme/920-orchestre-live-fever-3/2026-03-14-00-00.html" class="ic-text-decoration-none">
-							Orchestre live fever *						</a>
+							Orchestre live fever 						</a>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1803,7 +2209,7 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 			
 						
 						<div class="moreinfos ic-more-info">
-			 	<a href="/programme/920-orchestre-live-fever-3/2026-03-14-00-00.html" title="Orchestre live fever *">
+			 	<a href="/programme/920-orchestre-live-fever-3/2026-03-14-00-00.html" title="Orchestre live fever ">
 			 		+ d'infos			 	</a>
 			</div>
 
@@ -1849,7 +2255,7 @@ Embarquez pour une soirée qui s'écoute, se regarde et se vit!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1917,7 +2323,7 @@ Nos maîtres mots: enthousiasme, bienveillance et empathie.			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -1959,7 +2365,7 @@ Après tout, l'accordéon a toujours fait danser. Avec Antti Paalanen, c'est jus
 
 		
 				<a href="/programme/1158-elmer-food-beat-le-re-tour/2026-03-20-20-30.html" title="Elmer food beat &quot;le re-tour&quot;" class="ic-text-decoration-none">
-								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_whssqvxz.png); border-color: #96937e">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_en-tournee-2.png); border-color: #96937e">
 					<div class="ic-date">
 								<div class="ic-day">
 					20				</div>
@@ -1984,7 +2390,7 @@ Après tout, l'accordéon a toujours fait danser. Avec Antti Paalanen, c'est jus
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2014,6 +2420,73 @@ Elmer Food Beat est de retour... toujours heureux sur scène!			</div>
 		</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pumpelop (club edit)						
+					
+				
+				
+					
+						Cabaret Vauban Brest]]></title>
+        <id>https://cabaretvauban.com/programme/1194-pumpelop-club-edit-2/2026-03-21-00-00.html</id>
+        <link href="https://cabaretvauban.com/programme/1194-pumpelop-club-edit-2/2026-03-21-00-00.html"/>
+        <updated>2025-12-20T04:30:09.989Z</updated>
+        <content type="html"><![CDATA[<!-- Event -->
+
+
+		
+				<a href="/programme/1194-pumpelop-club-edit-2/2026-03-21-00-00.html" title="Pumpelop (club edit)" class="ic-text-decoration-none">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_21-03-radio-lune.png); border-color: #96937e">
+					<div class="ic-date">
+								<div class="ic-day">
+					21				</div>
+								<div class="ic-month">
+					Mar				</div>
+								<div class="ic-year">
+					2026				</div>
+								<div class="ic-time">
+					00:00				</div>
+			</div>
+		</div>
+		</a>
+
+				<div class="ic-content">
+
+						<div class="ic-event-title">
+
+								<div class="ic-title-header ic-margin-0 ic-padding-0">
+					<h2>
+						<a href="/programme/1194-pumpelop-club-edit-2/2026-03-21-00-00.html" class="ic-text-decoration-none">
+							Pumpelop (club edit)						</a>
+					</h2>
+				</div>
+				<div class="ic-title-cat ic-margin-0 ic-padding-0">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+						Cabaret Vauban Brest					</a>
+				</div>
+
+			</div>
+
+									<div class="ic-features-container">
+							</div>
+			
+									<div class="nextdate ic-next-date ic-clearfix">
+				<strong><span class="ic-single-next">samedi&nbsp;21&nbsp;mars&nbsp;2026</span> <span class="ic-single-starttime">00:00</span></strong>
+			</div>
+			
+						
+									<div class="descshort ic-descshort">
+				Pumpelop est de retour avec son format (Club Edit) qui prône un retour aux sources de l'esprit club et Disco.
+Le DJ retrouve l'obscurité d'un coin de la salle, alors que le public redevient la star de la soirée, mis en lumière par un podium.
+Un Cabaret Vauban repensé, mais une recette musicale inchangée: Disco, Funk, New-Wave, 80's...			</div>
+			
+						
+						<div class="moreinfos ic-more-info">
+			 	<a href="/programme/1194-pumpelop-club-edit-2/2026-03-21-00-00.html" title="Pumpelop (club edit)">
+			 		+ d'infos			 	</a>
+			</div>
+
+		</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elmer food beat "le re-tour"						
 					
 				
@@ -2028,7 +2501,7 @@ Elmer Food Beat est de retour... toujours heureux sur scène!			</div>
 
 		
 				<a href="/programme/1158-elmer-food-beat-le-re-tour/2026-03-21-20-30.html" title="Elmer food beat &quot;le re-tour&quot;" class="ic-text-decoration-none">
-								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_whssqvxz.png); border-color: #96937e">
+								<div class="ic-box-date" style="background-image: url(/images/icagenda/thumbs/themes/ic_medium_w300h300q100_en-tournee-2.png); border-color: #96937e">
 					<div class="ic-date">
 								<div class="ic-day">
 					21				</div>
@@ -2053,7 +2526,7 @@ Elmer Food Beat est de retour... toujours heureux sur scène!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2122,7 +2595,7 @@ Elmer Food Beat est de retour... toujours heureux sur scène!			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2189,7 +2662,7 @@ Ange, c'est plus de 55 ans d'histoire et une influence indéniable sur la scène
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2254,7 +2727,7 @@ Ange, c'est plus de 55 ans d'histoire et une influence indéniable sur la scène
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2320,7 +2793,7 @@ Ange, c'est plus de 55 ans d'histoire et une influence indéniable sur la scène
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2385,7 +2858,7 @@ Ange, c'est plus de 55 ans d'histoire et une influence indéniable sur la scène
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2450,7 +2923,7 @@ Ange, c'est plus de 55 ans d'histoire et une influence indéniable sur la scène
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2517,7 +2990,7 @@ Nommé "Révélation de l'année" aux NRJ Music Awards et suivi par 3 millions d
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
@@ -2583,7 +3056,7 @@ Il nous présente là un projet solo.			</div>
 					</h2>
 				</div>
 				<div class="ic-title-cat ic-margin-0 ic-padding-0">
-					<a href="/programme.html?filter_from=2025-12-19&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
+					<a href="/programme.html?filter_from=2025-12-20&amp;filter_category=1" type="button" class="ic-title-cat-btn ic-button ic-padding-1 ic-radius-1 ic-bg-bright" style="background:#96937e">
 						Cabaret Vauban Brest					</a>
 				</div>
 
