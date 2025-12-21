@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://triskell.ville-pontlabbe.bzh/agenda-saison-culturelle-finistere/</id>
     <title>Triskell</title>
-    <updated>2025-12-20T04:30:31.340Z</updated>
+    <updated>2025-12-21T04:39:54.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://triskell.ville-pontlabbe.bzh/wp-content/uploads/sites/5/2025/08/cropped-logo-triskell-500px-x-500px-1-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[French Twins]]></title>
-        <id>https://triskell.ville-pontlabbe.bzh/evenement/french-twins/</id>
-        <link href="https://triskell.ville-pontlabbe.bzh/evenement/french-twins/"/>
-        <updated>2025-11-30T19:28:39.956Z</updated>
-        <content type="html"><![CDATA[<div class="layer-media"><a href="https://triskell.ville-pontlabbe.bzh/evenement/french-twins/"><img decoding="async" alt="" src="https://triskell.ville-pontlabbe.bzh/wp-content/uploads/sites/5/2025/08/frenchtwins-184-370x370.jpg"></a></div><div class="layer-content"><div class="element element_0 title">French Twins</div><div class="element element_1 meta_key"><span class="grid-date">2025-12-20</span></div><div class="element element_3 meta_key"><a class="grid-reserver" target="_blank" href="https://billetterie.ville-pontlabbe.bzh/agenda/111-french-twins">Réserver</a></div><a target="_self" class="element element_2 read_more" href="https://triskell.ville-pontlabbe.bzh/evenement/french-twins/">Read more.</a><div class="element element_4 custom_taxonomy"><a href="https://triskell.ville-pontlabbe.bzh/evenements/tags/magie/">Magie</a></div></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[L’ Autre Monde ou les États et Empires de la Lune]]></title>
         <id>https://triskell.ville-pontlabbe.bzh/evenement/l-autre-monde-ou-les-etats-et-empires-de-la-lune/</id>
