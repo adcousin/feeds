@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bouffesdunord.com/fr/la-saison</id>
     <title>Th^ Bouffe Nord</title>
-    <updated>2025-12-22T04:43:17.754Z</updated>
+    <updated>2025-12-23T04:41:11.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bouffesdunord.com/bundles/lehubagencebdn/images/favicon/android-icon-192x192.png?v5</icon>
     <entry>
@@ -42,9 +42,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[La Mouche]]></title>
-        <id>https://www.bouffesdunord.com/fr/la-saison/la-mouche</id>
-        <link href="https://www.bouffesdunord.com/fr/la-saison/la-mouche"/>
-        <updated>2025-10-21T14:32:54.654Z</updated>
+        <id>https://www.bouffesdunord.com/fr/en-tournee/la-mouche</id>
+        <link href="https://www.bouffesdunord.com/fr/en-tournee/la-mouche"/>
+        <updated>2025-12-23T04:38:01.297Z</updated>
         <content type="html"><![CDATA[Du 4 au 20 décembre 2025 George Langelaan • Valérie Lesort • Christian Hecq]]></content>
     </entry>
     <entry>
@@ -66,7 +66,7 @@
         <id>https://www.bouffesdunord.com/fr/la-saison/chiens</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/chiens"/>
         <updated>2025-10-21T14:32:54.654Z</updated>
-        <content type="html"><![CDATA[Du 29 janvier au 14 février 2026 Lorraine de Sagazan • Romain Louveau • Othman Louati]]></content>
+        <content type="html"><![CDATA[Du 29 janvier au 14 février 2026 Lorraine de Sagazan • Romain Louveau • Othman Louati • Ensemble Miroirs Étendus]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ma maison est noire]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2025-12-22T04:43:17.749Z</updated>
+    <updated>2025-12-23T04:41:11.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -295,8 +295,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-7/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-7/"/>
         <updated>2025-10-21T14:48:07.447Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
+        <content type="html"><![CDATA[Liste d'attente
 											
 
 																							
@@ -376,7 +375,15 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/la-nuit-ou-les-chauves-souris-1/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/la-nuit-ou-les-chauves-souris-1/"/>
         <updated>2025-10-21T14:48:07.454Z</updated>
-        <content type="html"><![CDATA[lundi 19 janvier 2026 
+        <content type="html"><![CDATA[Liste d'attente
+											
+
+																							
+													
+													
+														
+																													
+																lundi 19 janvier 2026 
 															
 														
 														
@@ -542,8 +549,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-7/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-7/"/>
         <updated>2025-10-21T14:48:07.459Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
+        <content type="html"><![CDATA[Liste d'attente
 											
 
 																							
@@ -573,8 +579,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-8/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-musiciens-8/"/>
         <updated>2025-10-21T14:48:07.460Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
+        <content type="html"><![CDATA[Liste d'attente
 											
 
 																							
@@ -1602,7 +1607,15 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/zephir-et-alize-1/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/zephir-et-alize-1/"/>
         <updated>2025-10-21T14:48:07.511Z</updated>
-        <content type="html"><![CDATA[lundi 9 mars 2026 
+        <content type="html"><![CDATA[Liste d'attente
+											
+
+																							
+													
+													
+														
+																													
+																lundi 9 mars 2026 
 															
 														
 														
@@ -1628,7 +1641,15 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/zephir-et-alize-2/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/zephir-et-alize-2/"/>
         <updated>2025-10-21T14:48:07.513Z</updated>
-        <content type="html"><![CDATA[mardi 10 mars 2026 
+        <content type="html"><![CDATA[Liste d'attente
+											
+
+																							
+													
+													
+														
+																													
+																mardi 10 mars 2026 
 															
 														
 														
@@ -2092,7 +2113,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-12/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-lecteurs-12/"/>
         <updated>2025-10-21T14:48:07.537Z</updated>
-        <content type="html"><![CDATA[samedi 28 mars 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																samedi 28 mars 2026 
 															
 														
 														
@@ -2558,7 +2588,8 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/ensemble-matheus-7/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/ensemble-matheus-7/"/>
         <updated>2025-10-21T14:48:07.572Z</updated>
-        <content type="html"><![CDATA[Liste d'attente
+        <content type="html"><![CDATA[Dernières places
+											
 											
 
 																							
