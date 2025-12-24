@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
     <title>Quimper Basket</title>
-    <updated>2025-12-23T04:41:11.497Z</updated>
+    <updated>2025-12-24T04:40:36.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nm1.ffbb.com/assets/images/nm1/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
         <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
-        <updated>2025-12-23T04:40:49.769Z</updated>
+        <updated>2025-12-24T04:40:11.282Z</updated>
         <content type="html"><![CDATA[<th class="left">Date</th>
             <th class="left">Journée</th>
             <th class="left">Adversaire</th>
@@ -378,6 +378,9 @@
                         </a>
                                     </td>
                 <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/845034-quimper-blois" title="Voir le match">63-86</a>
                                     </td>]]></content>
     </entry>
     <entry>
@@ -824,7 +827,7 @@
         <title type="html"><![CDATA[]]></title>
         <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
         <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
-        <updated>2025-12-23T04:40:49.776Z</updated>
+        <updated>2025-12-24T04:40:11.297Z</updated>
         <content type="html"><![CDATA[<th class="left">Date</th>
             <th class="left">Journée</th>
             <th class="left">Adversaire</th>
