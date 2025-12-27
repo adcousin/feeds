@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.deconcarneauapontaven.com/sortir/agenda-des-animation-de-concarneau-a-pont-aven/?dates&amp;tri=dates_desc&amp;list_type=list</id>
     <title>Office Tourisme</title>
-    <updated>2025-12-26T04:37:21.827Z</updated>
+    <updated>2025-12-27T04:36:28.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.deconcarneauapontaven.com/wp-content/themes/artgomedia/favicon.ico</icon>
     <entry>
@@ -111,6 +111,27 @@
 										</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Versant Vivant]]></title>
+        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/versant-vivant/</id>
+        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/versant-vivant/"/>
+        <updated>2025-12-27T04:36:28.072Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/versant-vivant/" title="Versant Vivant">
+											<div class="listing_inner_row_v2_image">
+												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/versant-vivant-22-mai.jpg" alt="">
+												<div class="listing_inner_row_v2_cat">
+													<div class="listing_inner_row_v2_cat_inner">
+														Jeune public - Spectacle - Théâtre													</div>
+												</div>
+											</div>
+											<div class="listing_inner_row_v2_date">
+												Le 22/05/2026											</div>
+											<h2 class="listing_inner_row_v2_titre_h2">Versant Vivant</h2>
+											<div class="listing_inner_row_v2_infos">
+												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
+																							</div>
+										</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Naïkö – Artoutaï Productions]]></title>
         <id>https://www.deconcarneauapontaven.com/fetes-manifestations/naiko-artoutai-productions/</id>
         <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/naiko-artoutai-productions/"/>
@@ -153,6 +174,48 @@
 										</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bien reprenons]]></title>
+        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/bien-reprenons/</id>
+        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/bien-reprenons/"/>
+        <updated>2025-12-27T04:36:28.078Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/bien-reprenons/" title="Bien reprenons">
+											<div class="listing_inner_row_v2_image">
+												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/bien-reprenon-29-mars.jpg" alt="">
+												<div class="listing_inner_row_v2_cat">
+													<div class="listing_inner_row_v2_cat_inner">
+														Jeune public - Spectacle - Théâtre													</div>
+												</div>
+											</div>
+											<div class="listing_inner_row_v2_date">
+												Le 29/03/2026											</div>
+											<h2 class="listing_inner_row_v2_titre_h2">Bien reprenons</h2>
+											<div class="listing_inner_row_v2_infos">
+												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
+																							</div>
+										</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le parfum de mes souvenirs]]></title>
+        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/le-parfum-de-mes-souvenirs/</id>
+        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/le-parfum-de-mes-souvenirs/"/>
+        <updated>2025-12-27T04:36:28.079Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/le-parfum-de-mes-souvenirs/" title="Le parfum de mes souvenirs">
+											<div class="listing_inner_row_v2_image">
+												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/le-parfum-de-mes-souvenirs-6-mars.jpg" alt="">
+												<div class="listing_inner_row_v2_cat">
+													<div class="listing_inner_row_v2_cat_inner">
+														Jeune public - Spectacle - Théâtre													</div>
+												</div>
+											</div>
+											<div class="listing_inner_row_v2_date">
+												Le 29/03/2026											</div>
+											<h2 class="listing_inner_row_v2_titre_h2">Le parfum de mes souvenirs</h2>
+											<div class="listing_inner_row_v2_infos">
+												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
+																							</div>
+										</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[An Preñv Glas – Nolwenn Korbell]]></title>
         <id>https://www.deconcarneauapontaven.com/fetes-manifestations/an-prenv-glas-nolwenn-korbell/</id>
         <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/an-prenv-glas-nolwenn-korbell/"/>
@@ -170,6 +233,48 @@
 											<h2 class="listing_inner_row_v2_titre_h2">An Preñv Glas – Nolwenn Korbell</h2>
 											<div class="listing_inner_row_v2_infos">
 												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Rosporden</span>
+																							</div>
+										</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wally, ma distiction]]></title>
+        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/wally-ma-distiction/</id>
+        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/wally-ma-distiction/"/>
+        <updated>2025-12-27T04:36:28.082Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/wally-ma-distiction/" title="Wally, ma distiction">
+											<div class="listing_inner_row_v2_image">
+												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/wally-ma-distinction-27-mars.jpg" alt="">
+												<div class="listing_inner_row_v2_cat">
+													<div class="listing_inner_row_v2_cat_inner">
+														Jeune public - Spectacle - Théâtre													</div>
+												</div>
+											</div>
+											<div class="listing_inner_row_v2_date">
+												Le 27/03/2026											</div>
+											<h2 class="listing_inner_row_v2_titre_h2">Wally, ma distiction</h2>
+											<div class="listing_inner_row_v2_infos">
+												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
+																							</div>
+										</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soleil Planète]]></title>
+        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/soleil-planete/</id>
+        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/soleil-planete/"/>
+        <updated>2025-12-27T04:36:28.083Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/soleil-planete/" title="Soleil Planète">
+											<div class="listing_inner_row_v2_image">
+												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/soleilo-planete-21-mars.jpg" alt="">
+												<div class="listing_inner_row_v2_cat">
+													<div class="listing_inner_row_v2_cat_inner">
+														Jeune public - Spectacle													</div>
+												</div>
+											</div>
+											<div class="listing_inner_row_v2_date">
+												Le 21/03/2026											</div>
+											<h2 class="listing_inner_row_v2_titre_h2">Soleil Planète</h2>
+											<div class="listing_inner_row_v2_infos">
+												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
 																							</div>
 										</a>]]></content>
     </entry>
@@ -237,6 +342,27 @@
 										</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[La revanche de Godzilla]]></title>
+        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/la-revanche-de-godzilla/</id>
+        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/la-revanche-de-godzilla/"/>
+        <updated>2025-12-27T04:36:28.089Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/la-revanche-de-godzilla/" title="La revanche de Godzilla">
+											<div class="listing_inner_row_v2_image">
+												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/la-revanche-de-Godzilla-13-mars.jpg" alt="">
+												<div class="listing_inner_row_v2_cat">
+													<div class="listing_inner_row_v2_cat_inner">
+														Spectacle - Théâtre													</div>
+												</div>
+											</div>
+											<div class="listing_inner_row_v2_date">
+												Le 13/03/2026											</div>
+											<h2 class="listing_inner_row_v2_titre_h2">La revanche de Godzilla</h2>
+											<div class="listing_inner_row_v2_infos">
+												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
+																							</div>
+										</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Conférence : Portrait de concarnoises]]></title>
         <id>https://www.deconcarneauapontaven.com/fetes-manifestations/conference-la-fabrique-de-nos-servitudes-et-film-de-xavier-gayan-roland-gori-une-epoque-sans-esprit/</id>
         <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/conference-la-fabrique-de-nos-servitudes-et-film-de-xavier-gayan-roland-gori-une-epoque-sans-esprit/"/>
@@ -296,132 +422,6 @@
 											<h2 class="listing_inner_row_v2_titre_h2">Bobby &amp; moi – Compagnie Poc</h2>
 											<div class="listing_inner_row_v2_infos">
 												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Rosporden</span>
-																							</div>
-										</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bobby & moi – Compagnie Poc]]></title>
-        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/bobby-moi-compagnie-poc-2/</id>
-        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/bobby-moi-compagnie-poc-2/"/>
-        <updated>2025-11-30T19:29:08.356Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/bobby-moi-compagnie-poc-2/" title="Bobby &amp; moi – Compagnie Poc">
-											<div class="listing_inner_row_v2_image">
-												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/Nicolas-Joubard-Bobby-et-moi.jpg" alt="">
-												<div class="listing_inner_row_v2_cat">
-													<div class="listing_inner_row_v2_cat_inner">
-														Jeune public - Spectacle													</div>
-												</div>
-											</div>
-											<div class="listing_inner_row_v2_date">
-												Le 27/02/2026											</div>
-											<h2 class="listing_inner_row_v2_titre_h2">Bobby &amp; moi – Compagnie Poc</h2>
-											<div class="listing_inner_row_v2_infos">
-												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Rosporden</span>
-																							</div>
-										</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les Clés de la Ville-Close]]></title>
-        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/les-cles-de-la-ville-close-55/</id>
-        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/les-cles-de-la-ville-close-55/"/>
-        <updated>2025-11-30T19:29:08.358Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/les-cles-de-la-ville-close-55/" title="Les Clés de la Ville-Close">
-											<div class="listing_inner_row_v2_image">
-												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/visite-cles-VC--4.jpg" alt="">
-												<div class="listing_inner_row_v2_cat">
-													<div class="listing_inner_row_v2_cat_inner">
-														Circuit / Visite													</div>
-												</div>
-											</div>
-											<div class="listing_inner_row_v2_date">
-												Le 22/02/2026											</div>
-											<h2 class="listing_inner_row_v2_titre_h2">Les Clés de la Ville-Close</h2>
-											<div class="listing_inner_row_v2_infos">
-												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
-																							</div>
-										</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A la découverte du port de Concarneau]]></title>
-        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/une-ville-32-conserveries-2/</id>
-        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/une-ville-32-conserveries-2/"/>
-        <updated>2025-11-30T19:29:08.359Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/une-ville-32-conserveries-2/" title="A la découverte du port de Concarneau">
-											<div class="listing_inner_row_v2_image">
-												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/visitealadecouverteportcc.jpg" alt="">
-												<div class="listing_inner_row_v2_cat">
-													<div class="listing_inner_row_v2_cat_inner">
-														Circuit / Visite													</div>
-												</div>
-											</div>
-											<div class="listing_inner_row_v2_date">
-												Le 19/02/2026											</div>
-											<h2 class="listing_inner_row_v2_titre_h2">A la découverte du port de Concarneau</h2>
-											<div class="listing_inner_row_v2_infos">
-												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
-																							</div>
-										</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Une ville, 32 conserveries]]></title>
-        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/une-ville-32-conserveries-6/</id>
-        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/une-ville-32-conserveries-6/"/>
-        <updated>2025-11-30T19:29:08.360Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/une-ville-32-conserveries-6/" title="Une ville, 32 conserveries">
-											<div class="listing_inner_row_v2_image">
-												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/visite-ville-32-conserveries.jpg" alt="">
-												<div class="listing_inner_row_v2_cat">
-													<div class="listing_inner_row_v2_cat_inner">
-														Circuit / Visite													</div>
-												</div>
-											</div>
-											<div class="listing_inner_row_v2_date">
-												Le 15/02/2026											</div>
-											<h2 class="listing_inner_row_v2_titre_h2">Une ville, 32 conserveries</h2>
-											<div class="listing_inner_row_v2_infos">
-												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
-																							</div>
-										</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposition – Jean Painlevé, les pieds dans l’eau]]></title>
-        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/exposition-jean-painleve-les-pieds-dans-leau/</id>
-        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/exposition-jean-painleve-les-pieds-dans-leau/"/>
-        <updated>2025-12-16T04:39:56.150Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/exposition-jean-painleve-les-pieds-dans-leau/" title="Exposition – Jean Painlevé, les pieds dans l’eau">
-											<div class="listing_inner_row_v2_image">
-												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/JP-4-Jdp-840x579.jpg" alt="">
-												<div class="listing_inner_row_v2_cat">
-													<div class="listing_inner_row_v2_cat_inner">
-														Exposition													</div>
-												</div>
-											</div>
-											<div class="listing_inner_row_v2_date">
-												Du 07/02/2026 au 31/05/2026											</div>
-											<h2 class="listing_inner_row_v2_titre_h2">Exposition – Jean Painlevé, les pieds dans l’eau</h2>
-											<div class="listing_inner_row_v2_infos">
-												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Pont-Aven</span>
-																							</div>
-										</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les Clés de la Ville-Close]]></title>
-        <id>https://www.deconcarneauapontaven.com/fetes-manifestations/les-cles-de-la-ville-close-54/</id>
-        <link href="https://www.deconcarneauapontaven.com/fetes-manifestations/les-cles-de-la-ville-close-54/"/>
-        <updated>2025-11-30T19:29:08.361Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.deconcarneauapontaven.com/fetes-manifestations/les-cles-de-la-ville-close-54/" title="Les Clés de la Ville-Close">
-											<div class="listing_inner_row_v2_image">
-												<img src="https://www.deconcarneauapontaven.com/wp-content/uploads/tourinsoft/visite-cles-VC--3.jpg" alt="">
-												<div class="listing_inner_row_v2_cat">
-													<div class="listing_inner_row_v2_cat_inner">
-														Circuit / Visite													</div>
-												</div>
-											</div>
-											<div class="listing_inner_row_v2_date">
-												Le 01/02/2026											</div>
-											<h2 class="listing_inner_row_v2_titre_h2">Les Clés de la Ville-Close</h2>
-											<div class="listing_inner_row_v2_infos">
-												<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M336 192c0-79.5-64.5-144-144-144S48 112.5 48 192c0 12.4 4.5 31.6 15.3 57.2c10.5 24.8 25.4 52.2 42.5 79.9c28.5 46.2 61.5 90.8 86.2 122.6c24.8-31.8 57.8-76.4 86.2-122.6c17.1-27.7 32-55.1 42.5-79.9C331.5 223.6 336 204.4 336 192zm48 0c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192zm-160 0a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm-112 0a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg> Concarneau</span>
 																							</div>
 										</a>]]></content>
     </entry>
