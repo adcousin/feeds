@@ -2,270 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
     <title>Quimper Basket</title>
-    <updated>2025-12-30T04:42:05.279Z</updated>
+    <updated>2025-12-31T04:41:57.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nm1.ffbb.com/assets/images/nm1/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
         <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
-        <updated>2025-12-30T04:41:41.733Z</updated>
+        <updated>2025-12-31T04:41:36.638Z</updated>
         <content type="html"><![CDATA[<th class="left">Date</th>
             <th class="left">Journée</th>
             <th class="left">Adversaire</th>
             <th class="right">Résultat</th>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@ Evreux]]></title>
-        <id>https://nm1.ffbb.com/equipe/14-evreux</id>
-        <link href="https://nm1.ffbb.com/equipe/14-evreux"/>
-        <updated>2025-11-30T19:28:47.720Z</updated>
+        <title type="html"><![CDATA[@ Tarbes-Lourdes]]></title>
+        <id>https://nm1.ffbb.com/equipe/2937-tarbes-lourdes</id>
+        <link href="https://nm1.ffbb.com/equipe/2937-tarbes-lourdes"/>
+        <updated>2025-12-31T04:41:36.832Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844890-evreux-quimper" title="Voir le match"><span itemprop="startDate">19 sept. 2025</span></a>
+                    <a href="/match/790286-tarbes-lourdes-quimper" title="Voir le match"><span itemprop="startDate">14 sept. 2024</span></a>
                 </td>
                 <td class="left">
                     1
                 </td>
                 <td class="left">
-                                            <a href="/equipe/14-evreux" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14&amp;width=50" alt="Evreux">
-                            @ <span itemprop="homeTeam">Evreux</span>
+                                            <a href="/equipe/2937-tarbes-lourdes" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=2937&amp;width=50" alt="Tarbes-Lourdes">
+                            @ <span itemprop="homeTeam">Tarbes-Lourdes</span>
                         </a>
                                     </td>
                 <td class="right">
                                                                         <span class="win">G</span>
                         
-                        <a href="/match/844890-evreux-quimper" title="Voir le match">72-89</a>
+                        <a href="/match/790286-tarbes-lourdes-quimper" title="Voir le match">72-75</a>
                                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@ Antibes]]></title>
-        <id>https://nm1.ffbb.com/equipe/10-antibes</id>
-        <link href="https://nm1.ffbb.com/equipe/10-antibes"/>
-        <updated>2025-11-30T19:28:47.725Z</updated>
+        <title type="html"><![CDATA[vs Levallois]]></title>
+        <id>https://nm1.ffbb.com/equipe/3-levallois-mbc</id>
+        <link href="https://nm1.ffbb.com/equipe/3-levallois-mbc"/>
+        <updated>2025-12-31T04:41:36.833Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844900-antibes-quimper" title="Voir le match"><span itemprop="startDate">26 sept. 2025</span></a>
+                    <a href="/match/790297-quimper-levallois-mbc" title="Voir le match"><span itemprop="startDate">20 sept. 2024</span></a>
                 </td>
                 <td class="left">
                     2
                 </td>
                 <td class="left">
-                                            <a href="/equipe/10-antibes" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=10&amp;width=50" alt="Antibes">
-                            @ <span itemprop="homeTeam">Antibes</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="loss">P</span>
-                        
-                        <a href="/match/844900-antibes-quimper" title="Voir le match">83-71</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Poitiers]]></title>
-        <id>https://nm1.ffbb.com/equipe/299-poitiers</id>
-        <link href="https://nm1.ffbb.com/equipe/299-poitiers"/>
-        <updated>2025-11-30T19:28:47.727Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844919-poitiers-quimper" title="Voir le match"><span itemprop="startDate">3 oct. 2025</span></a>
-                </td>
-                <td class="left">
-                    4
-                </td>
-                <td class="left">
-                                            <a href="/equipe/299-poitiers" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=299&amp;width=50" alt="Poitiers">
-                            @ <span itemprop="homeTeam">Poitiers</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="loss">P</span>
-                        
-                        <a href="/match/844919-poitiers-quimper" title="Voir le match">93-70</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Rouen]]></title>
-        <id>https://nm1.ffbb.com/equipe/266-rouen</id>
-        <link href="https://nm1.ffbb.com/equipe/266-rouen"/>
-        <updated>2025-11-30T19:28:47.727Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844933-quimper-rouen" title="Voir le match"><span itemprop="startDate">11 oct. 2025</span></a>
-                </td>
-                <td class="left">
-                    5
-                </td>
-                <td class="left">
-                                            <a href="/equipe/266-rouen" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=266&amp;width=50" alt="Rouen">
-                            vs <span itemprop="awayTeam">Rouen</span>
+                                            <a href="/equipe/3-levallois-mbc" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=3&amp;width=50" alt="Levallois">
+                            vs <span itemprop="awayTeam">Levallois</span>
                         </a>
                                     </td>
                 <td class="right">
                                                                         <span class="win">G</span>
                         
-                        <a href="/match/844933-quimper-rouen" title="Voir le match">81-71</a>
+                        <a href="/match/790297-quimper-levallois-mbc" title="Voir le match">73-70</a>
                                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@ Chorale Roanne]]></title>
-        <id>https://nm1.ffbb.com/equipe/28-roanne</id>
-        <link href="https://nm1.ffbb.com/equipe/28-roanne"/>
-        <updated>2025-11-30T19:28:47.728Z</updated>
+        <title type="html"><![CDATA[@ Poissy]]></title>
+        <id>https://nm1.ffbb.com/equipe/29-poissy</id>
+        <link href="https://nm1.ffbb.com/equipe/29-poissy"/>
+        <updated>2025-12-31T04:41:36.833Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844937-roanne-quimper" title="Voir le match"><span itemprop="startDate">17 oct. 2025</span></a>
-                </td>
-                <td class="left">
-                    6
-                </td>
-                <td class="left">
-                                            <a href="/equipe/28-roanne" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=28&amp;width=50" alt="Chorale Roanne">
-                            @ <span itemprop="homeTeam">Chorale Roanne</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="loss">P</span>
-                        
-                        <a href="/match/844937-roanne-quimper" title="Voir le match">98-63</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Orléans]]></title>
-        <id>https://nm1.ffbb.com/equipe/262-orleans</id>
-        <link href="https://nm1.ffbb.com/equipe/262-orleans"/>
-        <updated>2025-11-30T19:28:47.729Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844944-quimper-orleans" title="Voir le match"><span itemprop="startDate">24 oct. 2025</span></a>
-                </td>
-                <td class="left">
-                    7
-                </td>
-                <td class="left">
-                                            <a href="/equipe/262-orleans" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=262&amp;width=50" alt="Orléans">
-                            vs <span itemprop="awayTeam">Orléans</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="loss">P</span>
-                        
-                        <a href="/match/844944-quimper-orleans" title="Voir le match">73-83</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Pau-Lacq-Orthez]]></title>
-        <id>https://nm1.ffbb.com/equipe/2-pau-lacq-orthez</id>
-        <link href="https://nm1.ffbb.com/equipe/2-pau-lacq-orthez"/>
-        <updated>2025-11-30T19:28:47.732Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844960-pau-lacq-orthez-quimper" title="Voir le match"><span itemprop="startDate">28 oct. 2025</span></a>
-                </td>
-                <td class="left">
-                    8
-                </td>
-                <td class="left">
-                                            <a href="/equipe/2-pau-lacq-orthez" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=2&amp;width=50" alt="Pau-Lacq-Orthez">
-                            @ <span itemprop="homeTeam">Pau-Lacq-Orthez</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="win">G</span>
-                        
-                        <a href="/match/844960-pau-lacq-orthez-quimper" title="Voir le match">79-104</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Denain]]></title>
-        <id>https://nm1.ffbb.com/equipe/344-denain</id>
-        <link href="https://nm1.ffbb.com/equipe/344-denain"/>
-        <updated>2025-11-30T19:28:47.736Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844972-quimper-denain" title="Voir le match"><span itemprop="startDate">1 nov. 2025</span></a>
-                </td>
-                <td class="left">
-                    9
-                </td>
-                <td class="left">
-                                            <a href="/equipe/344-denain" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=344&amp;width=50" alt="Denain">
-                            vs <span itemprop="awayTeam">Denain</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="loss">P</span>
-                        
-                        <a href="/match/844972-quimper-denain" title="Voir le match">67-70</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Caen]]></title>
-        <id>https://nm1.ffbb.com/equipe/351-caen</id>
-        <link href="https://nm1.ffbb.com/equipe/351-caen"/>
-        <updated>2025-11-30T19:28:47.741Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844974-quimper-caen" title="Voir le match"><span itemprop="startDate">7 nov. 2025</span></a>
-                </td>
-                <td class="left">
-                    10
-                </td>
-                <td class="left">
-                                            <a href="/equipe/351-caen" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=351&amp;width=50" alt="Caen">
-                            vs <span itemprop="awayTeam">Caen</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="loss">P</span>
-                        
-                        <a href="/match/844974-quimper-caen" title="Voir le match">66-79</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Aix-Maurienne]]></title>
-        <id>https://nm1.ffbb.com/equipe/31-aix-maurienne</id>
-        <link href="https://nm1.ffbb.com/equipe/31-aix-maurienne"/>
-        <updated>2025-11-30T19:28:47.745Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844904-quimper-aix-maurienne" title="Voir le match"><span itemprop="startDate">11 nov. 2025</span></a>
+                    <a href="/match/790298-poissy-quimper" title="Voir le match"><span itemprop="startDate">27 sept. 2024</span></a>
                 </td>
                 <td class="left">
                     3
                 </td>
                 <td class="left">
-                                            <a href="/equipe/31-aix-maurienne" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=31&amp;width=50" alt="Aix-Maurienne">
-                            vs <span itemprop="awayTeam">Aix-Maurienne</span>
+                                            <a href="/equipe/29-poissy" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=29&amp;width=50" alt="Poissy">
+                            @ <span itemprop="homeTeam">Poissy</span>
                         </a>
                                     </td>
                 <td class="right">
-                                                                        <span class="loss">P</span>
+                                                                        <span class="win">G</span>
                         
-                        <a href="/match/844904-quimper-aix-maurienne" title="Voir le match">89-95</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ La Rochelle]]></title>
-        <id>https://nm1.ffbb.com/equipe/242-stade-rochelais</id>
-        <link href="https://nm1.ffbb.com/equipe/242-stade-rochelais"/>
-        <updated>2025-11-30T19:28:47.746Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844987-stade-rochelais-quimper" title="Voir le match"><span itemprop="startDate">14 nov. 2025</span></a>
-                </td>
-                <td class="left">
-                    11
-                </td>
-                <td class="left">
-                                            <a href="/equipe/242-stade-rochelais" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=242&amp;width=50" alt="La Rochelle">
-                            @ <span itemprop="homeTeam">La Rochelle</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="loss">P</span>
-                        
-                        <a href="/match/844987-stade-rochelais-quimper" title="Voir le match">84-59</a>
+                        <a href="/match/790298-poissy-quimper" title="Voir le match">93-103</a>
                                     </td>]]></content>
     </entry>
     <entry>
@@ -274,10 +90,10 @@
         <link href="https://nm1.ffbb.com/equipe/341-vendee-challans-basket"/>
         <updated>2025-11-30T19:28:47.748Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/844994-quimper-vendee-challans-basket" title="Voir le match"><span itemprop="startDate">21 nov. 2025</span></a>
+                    <a href="/match/790311-quimper-vendee-challans-basket" title="Voir le match"><span itemprop="startDate">4 oct. 2024</span></a>
                 </td>
                 <td class="left">
-                    12
+                    4
                 </td>
                 <td class="left">
                                             <a href="/equipe/341-vendee-challans-basket" title="Voir l'équipe" itemprop="name">
@@ -288,322 +104,283 @@
                 <td class="right">
                                                                         <span class="win">G</span>
                         
-                        <a href="/match/844994-quimper-vendee-challans-basket" title="Voir le match">82-63</a>
+                        <a href="/match/790311-quimper-vendee-challans-basket" title="Voir le match">95-72</a>
                                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@ Champagne Basket]]></title>
-        <id>https://nm1.ffbb.com/equipe/2163-champagne-basket</id>
-        <link href="https://nm1.ffbb.com/equipe/2163-champagne-basket"/>
-        <updated>2025-11-30T19:28:47.749Z</updated>
+        <title type="html"><![CDATA[@ Lorient]]></title>
+        <id>https://nm1.ffbb.com/equipe/247-cep-lorient</id>
+        <link href="https://nm1.ffbb.com/equipe/247-cep-lorient"/>
+        <updated>2025-12-31T04:41:36.833Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845006-champagne-basket-quimper" title="Voir le match"><span itemprop="startDate">5 déc. 2025</span></a>
+                    <a href="/match/790318-cep-lorient-quimper" title="Voir le match"><span itemprop="startDate">8 oct. 2024</span></a>
+                </td>
+                <td class="left">
+                    5
+                </td>
+                <td class="left">
+                                            <a href="/equipe/247-cep-lorient" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=247&amp;width=50" alt="Lorient">
+                            @ <span itemprop="homeTeam">Lorient</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/790318-cep-lorient-quimper" title="Voir le match">89-67</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Vitré]]></title>
+        <id>https://nm1.ffbb.com/equipe/269-aurore-de-vitre</id>
+        <link href="https://nm1.ffbb.com/equipe/269-aurore-de-vitre"/>
+        <updated>2025-11-30T19:28:47.789Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790325-quimper-aurore-de-vitre" title="Voir le match"><span itemprop="startDate">11 oct. 2024</span></a>
+                </td>
+                <td class="left">
+                    6
+                </td>
+                <td class="left">
+                                            <a href="/equipe/269-aurore-de-vitre" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=269&amp;width=50" alt="Vitré">
+                            vs <span itemprop="awayTeam">Vitré</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790325-quimper-aurore-de-vitre" title="Voir le match">65-54</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Pays de Fougères]]></title>
+        <id>https://nm1.ffbb.com/equipe/345-pays-de-fougeres</id>
+        <link href="https://nm1.ffbb.com/equipe/345-pays-de-fougeres"/>
+        <updated>2025-12-31T04:41:36.833Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790329-pays-de-fougeres-quimper" title="Voir le match"><span itemprop="startDate">18 oct. 2024</span></a>
+                </td>
+                <td class="left">
+                    7
+                </td>
+                <td class="left">
+                                            <a href="/equipe/345-pays-de-fougeres" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=345&amp;width=50" alt="Pays de Fougères">
+                            @ <span itemprop="homeTeam">Pays de Fougères</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790329-pays-de-fougeres-quimper" title="Voir le match">79-87</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Angers]]></title>
+        <id>https://nm1.ffbb.com/equipe/33-angers</id>
+        <link href="https://nm1.ffbb.com/equipe/33-angers"/>
+        <updated>2025-12-31T04:41:36.833Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790339-quimper-angers" title="Voir le match"><span itemprop="startDate">25 oct. 2024</span></a>
+                </td>
+                <td class="left">
+                    8
+                </td>
+                <td class="left">
+                                            <a href="/equipe/33-angers" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=33&amp;width=50" alt="Angers">
+                            vs <span itemprop="awayTeam">Angers</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790339-quimper-angers" title="Voir le match">99-58</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Rennes]]></title>
+        <id>https://nm1.ffbb.com/equipe/1902-rennes</id>
+        <link href="https://nm1.ffbb.com/equipe/1902-rennes"/>
+        <updated>2025-12-31T04:41:36.835Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790344-rennes-quimper" title="Voir le match"><span itemprop="startDate">29 oct. 2024</span></a>
+                </td>
+                <td class="left">
+                    9
+                </td>
+                <td class="left">
+                                            <a href="/equipe/1902-rennes" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=1902&amp;width=50" alt="Rennes">
+                            @ <span itemprop="homeTeam">Rennes</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790344-rennes-quimper" title="Voir le match">65-77</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Toulouse]]></title>
+        <id>https://nm1.ffbb.com/equipe/1844-toulouse-basketball-club</id>
+        <link href="https://nm1.ffbb.com/equipe/1844-toulouse-basketball-club"/>
+        <updated>2025-12-31T04:41:36.836Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790353-quimper-toulouse-basketball-club" title="Voir le match"><span itemprop="startDate">1 nov. 2024</span></a>
+                </td>
+                <td class="left">
+                    10
+                </td>
+                <td class="left">
+                                            <a href="/equipe/1844-toulouse-basketball-club" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=1844&amp;width=50" alt="Toulouse">
+                            vs <span itemprop="awayTeam">Toulouse</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790353-quimper-toulouse-basketball-club" title="Voir le match">81-60</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Les Sables d’Olonne]]></title>
+        <id>https://nm1.ffbb.com/equipe/14016-les-sables-vendee</id>
+        <link href="https://nm1.ffbb.com/equipe/14016-les-sables-vendee"/>
+        <updated>2025-12-31T04:41:36.837Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790359-les-sables-vendee-quimper" title="Voir le match"><span itemprop="startDate">5 nov. 2024</span></a>
+                </td>
+                <td class="left">
+                    11
+                </td>
+                <td class="left">
+                                            <a href="/equipe/14016-les-sables-vendee" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14016&amp;width=50" alt="Les Sables d’Olonne">
+                            @ <span itemprop="homeTeam">Les Sables d’Olonne</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790359-les-sables-vendee-quimper" title="Voir le match">68-84</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Tours]]></title>
+        <id>https://nm1.ffbb.com/equipe/13305-tours</id>
+        <link href="https://nm1.ffbb.com/equipe/13305-tours"/>
+        <updated>2025-12-31T04:41:36.839Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790367-quimper-tours" title="Voir le match"><span itemprop="startDate">9 nov. 2024</span></a>
+                </td>
+                <td class="left">
+                    12
+                </td>
+                <td class="left">
+                                            <a href="/equipe/13305-tours" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=13305&amp;width=50" alt="Tours">
+                            vs <span itemprop="awayTeam">Tours</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790367-quimper-tours" title="Voir le match">101-77</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Pôle France]]></title>
+        <id>https://nm1.ffbb.com/equipe/256-pole-france</id>
+        <link href="https://nm1.ffbb.com/equipe/256-pole-france"/>
+        <updated>2025-12-31T04:41:36.841Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790374-quimper-pole-france" title="Voir le match"><span itemprop="startDate">15 nov. 2024</span></a>
                 </td>
                 <td class="left">
                     13
                 </td>
                 <td class="left">
-                                            <a href="/equipe/2163-champagne-basket" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=2163&amp;width=50" alt="Champagne Basket">
-                            @ <span itemprop="homeTeam">Champagne Basket</span>
+                                            <a href="/equipe/256-pole-france" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=256&amp;width=50" alt="Pôle France">
+                            vs <span itemprop="awayTeam">Pôle France</span>
                         </a>
                                     </td>
                 <td class="right">
-                                                                        <span class="loss">P</span>
+                                                                        <span class="win">G</span>
                         
-                        <a href="/match/845006-champagne-basket-quimper" title="Voir le match">104-72</a>
+                        <a href="/match/790374-quimper-pole-france" title="Voir le match">84-64</a>
                                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vs AS Alsace]]></title>
-        <id>https://nm1.ffbb.com/equipe/358-alliance-sport-alsace</id>
-        <link href="https://nm1.ffbb.com/equipe/358-alliance-sport-alsace"/>
-        <updated>2025-11-30T19:28:47.752Z</updated>
+        <title type="html"><![CDATA[vs Tarbes-Lourdes]]></title>
+        <id>https://nm1.ffbb.com/equipe/2937-tarbes-lourdes</id>
+        <link href="https://nm1.ffbb.com/equipe/2937-tarbes-lourdes"/>
+        <updated>2025-12-31T04:41:36.845Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845014-quimper-alliance-sport-alsace" title="Voir le match"><span itemprop="startDate">12 déc. 2025</span></a>
+                    <a href="/match/790377-quimper-tarbes-lourdes" title="Voir le match"><span itemprop="startDate">29 nov. 2024</span></a>
                 </td>
                 <td class="left">
                     14
                 </td>
                 <td class="left">
-                                            <a href="/equipe/358-alliance-sport-alsace" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=358&amp;width=50" alt="AS Alsace">
-                            vs <span itemprop="awayTeam">AS Alsace</span>
+                                            <a href="/equipe/2937-tarbes-lourdes" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=2937&amp;width=50" alt="Tarbes-Lourdes">
+                            vs <span itemprop="awayTeam">Tarbes-Lourdes</span>
                         </a>
                                     </td>
                 <td class="right">
-                                                                        <span class="loss">P</span>
+                                                                        <span class="win">G</span>
                         
-                        <a href="/match/845014-quimper-alliance-sport-alsace" title="Voir le match">71-77</a>
+                        <a href="/match/790377-quimper-tarbes-lourdes" title="Voir le match">74-64</a>
                                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@ Saint-Chamond]]></title>
-        <id>https://nm1.ffbb.com/equipe/284-saint-chamond</id>
-        <link href="https://nm1.ffbb.com/equipe/284-saint-chamond"/>
-        <updated>2025-11-30T19:28:47.753Z</updated>
+        <title type="html"><![CDATA[@ Levallois]]></title>
+        <id>https://nm1.ffbb.com/equipe/3-levallois-mbc</id>
+        <link href="https://nm1.ffbb.com/equipe/3-levallois-mbc"/>
+        <updated>2025-12-31T04:41:36.847Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845031-saint-chamond-quimper" title="Voir le match"><span itemprop="startDate">19 déc. 2025</span></a>
+                    <a href="/match/790388-levallois-mbc-quimper" title="Voir le match"><span itemprop="startDate">6 déc. 2024</span></a>
                 </td>
                 <td class="left">
                     15
                 </td>
                 <td class="left">
-                                            <a href="/equipe/284-saint-chamond" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=284&amp;width=50" alt="Saint-Chamond">
-                            @ <span itemprop="homeTeam">Saint-Chamond</span>
+                                            <a href="/equipe/3-levallois-mbc" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=3&amp;width=50" alt="Levallois">
+                            @ <span itemprop="homeTeam">Levallois</span>
                         </a>
                                     </td>
                 <td class="right">
-                                                                        <span class="loss">P</span>
+                                                                        <span class="win">G</span>
                         
-                        <a href="/match/845031-saint-chamond-quimper" title="Voir le match">106-84</a>
+                        <a href="/match/790388-levallois-mbc-quimper" title="Voir le match">74-81</a>
                                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vs Blois]]></title>
-        <id>https://nm1.ffbb.com/equipe/289-blois</id>
-        <link href="https://nm1.ffbb.com/equipe/289-blois"/>
-        <updated>2025-11-30T19:28:47.754Z</updated>
+        <title type="html"><![CDATA[vs Poissy]]></title>
+        <id>https://nm1.ffbb.com/equipe/29-poissy</id>
+        <link href="https://nm1.ffbb.com/equipe/29-poissy"/>
+        <updated>2025-12-31T04:41:36.848Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845034-quimper-blois" title="Voir le match"><span itemprop="startDate">23 déc. 2025</span></a>
+                    <a href="/match/790389-quimper-poissy" title="Voir le match"><span itemprop="startDate">13 déc. 2024</span></a>
                 </td>
                 <td class="left">
                     16
                 </td>
                 <td class="left">
-                                            <a href="/equipe/289-blois" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=289&amp;width=50" alt="Blois">
-                            vs <span itemprop="awayTeam">Blois</span>
+                                            <a href="/equipe/29-poissy" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=29&amp;width=50" alt="Poissy">
+                            vs <span itemprop="awayTeam">Poissy</span>
                         </a>
                                     </td>
                 <td class="right">
-                                                                        <span class="loss">P</span>
+                                                                        <span class="win">G</span>
                         
-                        <a href="/match/845034-quimper-blois" title="Voir le match">63-86</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ JA Vichy]]></title>
-        <id>https://nm1.ffbb.com/equipe/34-ja-vichy</id>
-        <link href="https://nm1.ffbb.com/equipe/34-ja-vichy"/>
-        <updated>2025-11-30T19:28:47.756Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845053-ja-vichy-quimper" title="Voir le match"><span itemprop="startDate">27 déc. 2025</span></a>
-                </td>
-                <td class="left">
-                    17
-                </td>
-                <td class="left">
-                                            <a href="/equipe/34-ja-vichy" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=34&amp;width=50" alt="JA Vichy">
-                            @ <span itemprop="homeTeam">JA Vichy</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                                                        <span class="loss">P</span>
-                        
-                        <a href="/match/845053-ja-vichy-quimper" title="Voir le match">91-55</a>
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Nantes]]></title>
-        <id>https://nm1.ffbb.com/equipe/25-nantes</id>
-        <link href="https://nm1.ffbb.com/equipe/25-nantes"/>
-        <updated>2025-11-30T19:28:47.758Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845062-quimper-nantes" title="Voir le match"><span itemprop="startDate">11 janv. 2026</span></a>
-                </td>
-                <td class="left">
-                    18
-                </td>
-                <td class="left">
-                                            <a href="/equipe/25-nantes" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=25&amp;width=50" alt="Nantes">
-                            vs <span itemprop="awayTeam">Nantes</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Hyères-Toulon]]></title>
-        <id>https://nm1.ffbb.com/equipe/32-hyeres-toulon</id>
-        <link href="https://nm1.ffbb.com/equipe/32-hyeres-toulon"/>
-        <updated>2025-11-30T19:28:47.760Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845064-quimper-hyeres-toulon" title="Voir le match"><span itemprop="startDate">16 janv. 2026</span></a>
-                </td>
-                <td class="left">
-                    19
-                </td>
-                <td class="left">
-                                            <a href="/equipe/32-hyeres-toulon" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=32&amp;width=50" alt="Hyères-Toulon">
-                            vs <span itemprop="awayTeam">Hyères-Toulon</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Orléans]]></title>
-        <id>https://nm1.ffbb.com/equipe/262-orleans</id>
-        <link href="https://nm1.ffbb.com/equipe/262-orleans"/>
-        <updated>2025-11-30T19:28:47.729Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845082-orleans-quimper" title="Voir le match"><span itemprop="startDate">24 janv. 2026</span></a>
-                </td>
-                <td class="left">
-                    20
-                </td>
-                <td class="left">
-                                            <a href="/equipe/262-orleans" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=262&amp;width=50" alt="Orléans">
-                            @ <span itemprop="homeTeam">Orléans</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ AS Alsace]]></title>
-        <id>https://nm1.ffbb.com/equipe/358-alliance-sport-alsace</id>
-        <link href="https://nm1.ffbb.com/equipe/358-alliance-sport-alsace"/>
-        <updated>2025-11-30T19:28:47.752Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845093-alliance-sport-alsace-quimper" title="Voir le match"><span itemprop="startDate">30 janv. 2026</span></a>
-                </td>
-                <td class="left">
-                    21
-                </td>
-                <td class="left">
-                                            <a href="/equipe/358-alliance-sport-alsace" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=358&amp;width=50" alt="AS Alsace">
-                            @ <span itemprop="homeTeam">AS Alsace</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Pau-Lacq-Orthez]]></title>
-        <id>https://nm1.ffbb.com/equipe/2-pau-lacq-orthez</id>
-        <link href="https://nm1.ffbb.com/equipe/2-pau-lacq-orthez"/>
-        <updated>2025-11-30T19:28:47.732Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845095-quimper-pau-lacq-orthez" title="Voir le match"><span itemprop="startDate">6 févr. 2026</span></a>
-                </td>
-                <td class="left">
-                    22
-                </td>
-                <td class="left">
-                                            <a href="/equipe/2-pau-lacq-orthez" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=2&amp;width=50" alt="Pau-Lacq-Orthez">
-                            vs <span itemprop="awayTeam">Pau-Lacq-Orthez</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Aix-Maurienne]]></title>
-        <id>https://nm1.ffbb.com/equipe/31-aix-maurienne</id>
-        <link href="https://nm1.ffbb.com/equipe/31-aix-maurienne"/>
-        <updated>2025-11-30T19:28:47.745Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845109-aix-maurienne-quimper" title="Voir le match"><span itemprop="startDate">13 févr. 2026</span></a>
-                </td>
-                <td class="left">
-                    23
-                </td>
-                <td class="left">
-                                            <a href="/equipe/31-aix-maurienne" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=31&amp;width=50" alt="Aix-Maurienne">
-                            @ <span itemprop="homeTeam">Aix-Maurienne</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs JA Vichy]]></title>
-        <id>https://nm1.ffbb.com/equipe/34-ja-vichy</id>
-        <link href="https://nm1.ffbb.com/equipe/34-ja-vichy"/>
-        <updated>2025-11-30T19:28:47.756Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845114-quimper-ja-vichy" title="Voir le match"><span itemprop="startDate">17 févr. 2026</span></a>
-                </td>
-                <td class="left">
-                    24
-                </td>
-                <td class="left">
-                                            <a href="/equipe/34-ja-vichy" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=34&amp;width=50" alt="JA Vichy">
-                            vs <span itemprop="awayTeam">JA Vichy</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Nantes]]></title>
-        <id>https://nm1.ffbb.com/equipe/25-nantes</id>
-        <link href="https://nm1.ffbb.com/equipe/25-nantes"/>
-        <updated>2025-11-30T19:28:47.758Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845125-nantes-quimper" title="Voir le match"><span itemprop="startDate">6 mars 2026</span></a>
-                </td>
-                <td class="left">
-                    25
-                </td>
-                <td class="left">
-                                            <a href="/equipe/25-nantes" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=25&amp;width=50" alt="Nantes">
-                            @ <span itemprop="homeTeam">Nantes</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Poitiers]]></title>
-        <id>https://nm1.ffbb.com/equipe/299-poitiers</id>
-        <link href="https://nm1.ffbb.com/equipe/299-poitiers"/>
-        <updated>2025-11-30T19:28:47.727Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845134-quimper-poitiers" title="Voir le match"><span itemprop="startDate">13 mars 2026</span></a>
-                </td>
-                <td class="left">
-                    26
-                </td>
-                <td class="left">
-                                            <a href="/equipe/299-poitiers" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=299&amp;width=50" alt="Poitiers">
-                            vs <span itemprop="awayTeam">Poitiers</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs La Rochelle]]></title>
-        <id>https://nm1.ffbb.com/equipe/242-stade-rochelais</id>
-        <link href="https://nm1.ffbb.com/equipe/242-stade-rochelais"/>
-        <updated>2025-11-30T19:28:47.746Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845144-quimper-stade-rochelais" title="Voir le match"><span itemprop="startDate">17 mars 2026</span></a>
-                </td>
-                <td class="left">
-                    27
-                </td>
-                <td class="left">
-                                            <a href="/equipe/242-stade-rochelais" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=242&amp;width=50" alt="La Rochelle">
-                            vs <span itemprop="awayTeam">La Rochelle</span>
-                        </a>
-                                    </td>
-                <td class="right">
+                        <a href="/match/790389-quimper-poissy" title="Voir le match">84-78</a>
                                     </td>]]></content>
     </entry>
     <entry>
@@ -612,10 +389,10 @@
         <link href="https://nm1.ffbb.com/equipe/341-vendee-challans-basket"/>
         <updated>2025-11-30T19:28:47.748Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845160-vendee-challans-basket-quimper" title="Voir le match"><span itemprop="startDate">20 mars 2026</span></a>
+                    <a href="/match/790402-vendee-challans-basket-quimper" title="Voir le match"><span itemprop="startDate">18 déc. 2024</span></a>
                 </td>
                 <td class="left">
-                    28
+                    17
                 </td>
                 <td class="left">
                                             <a href="/equipe/341-vendee-challans-basket" title="Voir l'équipe" itemprop="name">
@@ -624,217 +401,33 @@
                         </a>
                                     </td>
                 <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/790402-vendee-challans-basket-quimper" title="Voir le match">77-68</a>
                                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@ Rouen]]></title>
-        <id>https://nm1.ffbb.com/equipe/266-rouen</id>
-        <link href="https://nm1.ffbb.com/equipe/266-rouen"/>
-        <updated>2025-11-30T19:28:47.727Z</updated>
+        <title type="html"><![CDATA[vs Lorient]]></title>
+        <id>https://nm1.ffbb.com/equipe/247-cep-lorient</id>
+        <link href="https://nm1.ffbb.com/equipe/247-cep-lorient"/>
+        <updated>2025-12-31T04:41:36.856Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845164-rouen-quimper" title="Voir le match"><span itemprop="startDate">27 mars 2026</span></a>
+                    <a href="/match/790409-quimper-cep-lorient" title="Voir le match"><span itemprop="startDate">7 janv. 2025</span></a>
                 </td>
                 <td class="left">
-                    29
+                    18
                 </td>
                 <td class="left">
-                                            <a href="/equipe/266-rouen" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=266&amp;width=50" alt="Rouen">
-                            @ <span itemprop="homeTeam">Rouen</span>
+                                            <a href="/equipe/247-cep-lorient" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=247&amp;width=50" alt="Lorient">
+                            vs <span itemprop="awayTeam">Lorient</span>
                         </a>
                                     </td>
                 <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790409-quimper-cep-lorient" title="Voir le match">80-74</a>
                                     </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Champagne Basket]]></title>
-        <id>https://nm1.ffbb.com/equipe/2163-champagne-basket</id>
-        <link href="https://nm1.ffbb.com/equipe/2163-champagne-basket"/>
-        <updated>2025-11-30T19:28:47.749Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845175-quimper-champagne-basket" title="Voir le match"><span itemprop="startDate">3 avr. 2026</span></a>
-                </td>
-                <td class="left">
-                    30
-                </td>
-                <td class="left">
-                                            <a href="/equipe/2163-champagne-basket" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=2163&amp;width=50" alt="Champagne Basket">
-                            vs <span itemprop="awayTeam">Champagne Basket</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Caen]]></title>
-        <id>https://nm1.ffbb.com/equipe/351-caen</id>
-        <link href="https://nm1.ffbb.com/equipe/351-caen"/>
-        <updated>2025-11-30T19:28:47.741Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845184-caen-quimper" title="Voir le match"><span itemprop="startDate">7 avr. 2026</span></a>
-                </td>
-                <td class="left">
-                    31
-                </td>
-                <td class="left">
-                                            <a href="/equipe/351-caen" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=351&amp;width=50" alt="Caen">
-                            @ <span itemprop="homeTeam">Caen</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Saint-Chamond]]></title>
-        <id>https://nm1.ffbb.com/equipe/284-saint-chamond</id>
-        <link href="https://nm1.ffbb.com/equipe/284-saint-chamond"/>
-        <updated>2025-11-30T19:28:47.753Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845203-quimper-saint-chamond" title="Voir le match"><span itemprop="startDate">11 avr. 2026</span></a>
-                </td>
-                <td class="left">
-                    32
-                </td>
-                <td class="left">
-                                            <a href="/equipe/284-saint-chamond" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=284&amp;width=50" alt="Saint-Chamond">
-                            vs <span itemprop="awayTeam">Saint-Chamond</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Antibes]]></title>
-        <id>https://nm1.ffbb.com/equipe/10-antibes</id>
-        <link href="https://nm1.ffbb.com/equipe/10-antibes"/>
-        <updated>2025-11-30T19:28:47.725Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845204-quimper-antibes" title="Voir le match"><span itemprop="startDate">17 avr. 2026</span></a>
-                </td>
-                <td class="left">
-                    33
-                </td>
-                <td class="left">
-                                            <a href="/equipe/10-antibes" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=10&amp;width=50" alt="Antibes">
-                            vs <span itemprop="awayTeam">Antibes</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Hyères-Toulon]]></title>
-        <id>https://nm1.ffbb.com/equipe/32-hyeres-toulon</id>
-        <link href="https://nm1.ffbb.com/equipe/32-hyeres-toulon"/>
-        <updated>2025-11-30T19:28:47.760Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845214-hyeres-toulon-quimper" title="Voir le match"><span itemprop="startDate">21 avr. 2026</span></a>
-                </td>
-                <td class="left">
-                    34
-                </td>
-                <td class="left">
-                                            <a href="/equipe/32-hyeres-toulon" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=32&amp;width=50" alt="Hyères-Toulon">
-                            @ <span itemprop="homeTeam">Hyères-Toulon</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Chorale Roanne]]></title>
-        <id>https://nm1.ffbb.com/equipe/28-roanne</id>
-        <link href="https://nm1.ffbb.com/equipe/28-roanne"/>
-        <updated>2025-11-30T19:28:47.728Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845231-quimper-roanne" title="Voir le match"><span itemprop="startDate">25 avr. 2026</span></a>
-                </td>
-                <td class="left">
-                    35
-                </td>
-                <td class="left">
-                                            <a href="/equipe/28-roanne" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=28&amp;width=50" alt="Chorale Roanne">
-                            vs <span itemprop="awayTeam">Chorale Roanne</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Blois]]></title>
-        <id>https://nm1.ffbb.com/equipe/289-blois</id>
-        <link href="https://nm1.ffbb.com/equipe/289-blois"/>
-        <updated>2025-11-30T19:28:47.754Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845243-blois-quimper" title="Voir le match"><span itemprop="startDate">2 mai 2026</span></a>
-                </td>
-                <td class="left">
-                    36
-                </td>
-                <td class="left">
-                                            <a href="/equipe/289-blois" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=289&amp;width=50" alt="Blois">
-                            @ <span itemprop="homeTeam">Blois</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs Evreux]]></title>
-        <id>https://nm1.ffbb.com/equipe/14-evreux</id>
-        <link href="https://nm1.ffbb.com/equipe/14-evreux"/>
-        <updated>2025-11-30T19:28:47.720Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845244-quimper-evreux" title="Voir le match"><span itemprop="startDate">8 mai 2026</span></a>
-                </td>
-                <td class="left">
-                    37
-                </td>
-                <td class="left">
-                                            <a href="/equipe/14-evreux" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14&amp;width=50" alt="Evreux">
-                            vs <span itemprop="awayTeam">Evreux</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@ Denain]]></title>
-        <id>https://nm1.ffbb.com/equipe/344-denain</id>
-        <link href="https://nm1.ffbb.com/equipe/344-denain"/>
-        <updated>2025-11-30T19:28:47.736Z</updated>
-        <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/845259-denain-quimper" title="Voir le match"><span itemprop="startDate">15 mai 2026</span></a>
-                </td>
-                <td class="left">
-                    38
-                </td>
-                <td class="left">
-                                            <a href="/equipe/344-denain" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=344&amp;width=50" alt="Denain">
-                            @ <span itemprop="homeTeam">Denain</span>
-                        </a>
-                                    </td>
-                <td class="right">
-                                    </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
-        <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
-        <updated>2025-12-30T04:41:41.751Z</updated>
-        <content type="html"><![CDATA[<th class="left">Date</th>
-            <th class="left">Journée</th>
-            <th class="left">Adversaire</th>
-            <th class="right">Résultat</th>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[@ Vitré]]></title>
@@ -842,10 +435,10 @@
         <link href="https://nm1.ffbb.com/equipe/269-aurore-de-vitre"/>
         <updated>2025-11-30T19:28:47.789Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/826827-aurore-de-vitre-quimper" title="Voir le match"><span itemprop="startDate">13 sept. 2025</span></a>
+                    <a href="/match/790416-aurore-de-vitre-quimper" title="Voir le match"><span itemprop="startDate">11 janv. 2025</span></a>
                 </td>
                 <td class="left">
-                    1
+                    19
                 </td>
                 <td class="left">
                                             <a href="/equipe/269-aurore-de-vitre" title="Voir l'équipe" itemprop="name">
@@ -856,30 +449,625 @@
                 <td class="right">
                                                                         <span class="win">G</span>
                         
-                        <a href="/match/826827-aurore-de-vitre-quimper" title="Voir le match">72-77</a>
+                        <a href="/match/790416-aurore-de-vitre-quimper" title="Voir le match">55-70</a>
                                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@ Nantes]]></title>
-        <id>https://nm1.ffbb.com/equipe/25-nantes</id>
-        <link href="https://nm1.ffbb.com/equipe/25-nantes"/>
-        <updated>2025-11-30T19:28:47.758Z</updated>
+        <title type="html"><![CDATA[vs Pays de Fougères]]></title>
+        <id>https://nm1.ffbb.com/equipe/345-pays-de-fougeres</id>
+        <link href="https://nm1.ffbb.com/equipe/345-pays-de-fougeres"/>
+        <updated>2025-12-31T04:41:36.860Z</updated>
         <content type="html"><![CDATA[<td class="left">
-                    <a href="/match/833233-nantes-quimper" title="Voir le match"><span itemprop="startDate">7 oct. 2025</span></a>
+                    <a href="/match/790420-quimper-pays-de-fougeres" title="Voir le match"><span itemprop="startDate">17 janv. 2025</span></a>
                 </td>
                 <td class="left">
-                    2
+                    20
                 </td>
                 <td class="left">
-                                            <a href="/equipe/25-nantes" title="Voir l'équipe" itemprop="name">
-                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=25&amp;width=50" alt="Nantes">
-                            @ <span itemprop="homeTeam">Nantes</span>
+                                            <a href="/equipe/345-pays-de-fougeres" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=345&amp;width=50" alt="Pays de Fougères">
+                            vs <span itemprop="awayTeam">Pays de Fougères</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790420-quimper-pays-de-fougeres" title="Voir le match">75-65</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Angers]]></title>
+        <id>https://nm1.ffbb.com/equipe/33-angers</id>
+        <link href="https://nm1.ffbb.com/equipe/33-angers"/>
+        <updated>2025-12-31T04:41:36.862Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790430-angers-quimper" title="Voir le match"><span itemprop="startDate">24 janv. 2025</span></a>
+                </td>
+                <td class="left">
+                    21
+                </td>
+                <td class="left">
+                                            <a href="/equipe/33-angers" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=33&amp;width=50" alt="Angers">
+                            @ <span itemprop="homeTeam">Angers</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790430-angers-quimper" title="Voir le match">66-83</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Rennes]]></title>
+        <id>https://nm1.ffbb.com/equipe/1902-rennes</id>
+        <link href="https://nm1.ffbb.com/equipe/1902-rennes"/>
+        <updated>2025-12-31T04:41:36.863Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790435-quimper-rennes" title="Voir le match"><span itemprop="startDate">28 janv. 2025</span></a>
+                </td>
+                <td class="left">
+                    22
+                </td>
+                <td class="left">
+                                            <a href="/equipe/1902-rennes" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=1902&amp;width=50" alt="Rennes">
+                            vs <span itemprop="awayTeam">Rennes</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790435-quimper-rennes" title="Voir le match">82-64</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Toulouse]]></title>
+        <id>https://nm1.ffbb.com/equipe/1844-toulouse-basketball-club</id>
+        <link href="https://nm1.ffbb.com/equipe/1844-toulouse-basketball-club"/>
+        <updated>2025-12-31T04:41:36.866Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790444-toulouse-basketball-club-quimper" title="Voir le match"><span itemprop="startDate">31 janv. 2025</span></a>
+                </td>
+                <td class="left">
+                    23
+                </td>
+                <td class="left">
+                                            <a href="/equipe/1844-toulouse-basketball-club" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=1844&amp;width=50" alt="Toulouse">
+                            @ <span itemprop="homeTeam">Toulouse</span>
                         </a>
                                     </td>
                 <td class="right">
                                                                         <span class="loss">P</span>
                         
-                        <a href="/match/833233-nantes-quimper" title="Voir le match">89-87</a>
+                        <a href="/match/790444-toulouse-basketball-club-quimper" title="Voir le match">76-70</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Les Sables d’Olonne]]></title>
+        <id>https://nm1.ffbb.com/equipe/14016-les-sables-vendee</id>
+        <link href="https://nm1.ffbb.com/equipe/14016-les-sables-vendee"/>
+        <updated>2025-12-31T04:41:36.868Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790450-quimper-les-sables-vendee" title="Voir le match"><span itemprop="startDate">4 févr. 2025</span></a>
+                </td>
+                <td class="left">
+                    24
+                </td>
+                <td class="left">
+                                            <a href="/equipe/14016-les-sables-vendee" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14016&amp;width=50" alt="Les Sables d’Olonne">
+                            vs <span itemprop="awayTeam">Les Sables d’Olonne</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/790450-quimper-les-sables-vendee" title="Voir le match">77-81</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Tours]]></title>
+        <id>https://nm1.ffbb.com/equipe/13305-tours</id>
+        <link href="https://nm1.ffbb.com/equipe/13305-tours"/>
+        <updated>2025-12-31T04:41:36.869Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790458-tours-quimper" title="Voir le match"><span itemprop="startDate">7 févr. 2025</span></a>
+                </td>
+                <td class="left">
+                    25
+                </td>
+                <td class="left">
+                                            <a href="/equipe/13305-tours" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=13305&amp;width=50" alt="Tours">
+                            @ <span itemprop="homeTeam">Tours</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790458-tours-quimper" title="Voir le match">63-79</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Pôle France]]></title>
+        <id>https://nm1.ffbb.com/equipe/256-pole-france</id>
+        <link href="https://nm1.ffbb.com/equipe/256-pole-france"/>
+        <updated>2025-12-31T04:41:36.871Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/790465-pole-france-quimper" title="Voir le match"><span itemprop="startDate">14 févr. 2025</span></a>
+                </td>
+                <td class="left">
+                    26
+                </td>
+                <td class="left">
+                                            <a href="/equipe/256-pole-france" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=256&amp;width=50" alt="Pôle France">
+                            @ <span itemprop="homeTeam">Pôle France</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/790465-pole-france-quimper" title="Voir le match">75-81</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Loon Plage]]></title>
+        <id>https://nm1.ffbb.com/equipe/14914-loon-plage</id>
+        <link href="https://nm1.ffbb.com/equipe/14914-loon-plage"/>
+        <updated>2025-12-31T04:41:36.872Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810036-quimper-loon-plage" title="Voir le match"><span itemprop="startDate">28 févr. 2025</span></a>
+                </td>
+                <td class="left">
+                    201
+                </td>
+                <td class="left">
+                                            <a href="/equipe/14914-loon-plage" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14914&amp;width=50" alt="Loon Plage">
+                            vs <span itemprop="awayTeam">Loon Plage</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810036-quimper-loon-plage" title="Voir le match">81-66</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Orchies]]></title>
+        <id>https://nm1.ffbb.com/equipe/1851-bc-orchies</id>
+        <link href="https://nm1.ffbb.com/equipe/1851-bc-orchies"/>
+        <updated>2025-12-31T04:41:36.874Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810050-bc-orchies-quimper" title="Voir le match"><span itemprop="startDate">7 mars 2025</span></a>
+                </td>
+                <td class="left">
+                    202
+                </td>
+                <td class="left">
+                                            <a href="/equipe/1851-bc-orchies" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=1851&amp;width=50" alt="Orchies">
+                            @ <span itemprop="homeTeam">Orchies</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/810050-bc-orchies-quimper" title="Voir le match">84-78</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Saint-Vallier]]></title>
+        <id>https://nm1.ffbb.com/equipe/285-saint-vallier</id>
+        <link href="https://nm1.ffbb.com/equipe/285-saint-vallier"/>
+        <updated>2025-12-31T04:41:36.877Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810064-quimper-saint-vallier" title="Voir le match"><span itemprop="startDate">11 mars 2025</span></a>
+                </td>
+                <td class="left">
+                    203
+                </td>
+                <td class="left">
+                                            <a href="/equipe/285-saint-vallier" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=285&amp;width=50" alt="Saint-Vallier">
+                            vs <span itemprop="awayTeam">Saint-Vallier</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810064-quimper-saint-vallier" title="Voir le match">100-61</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Le Havre]]></title>
+        <id>https://nm1.ffbb.com/equipe/26-le-havre</id>
+        <link href="https://nm1.ffbb.com/equipe/26-le-havre"/>
+        <updated>2025-12-31T04:41:36.878Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810078-le-havre-quimper" title="Voir le match"><span itemprop="startDate">14 mars 2025</span></a>
+                </td>
+                <td class="left">
+                    204
+                </td>
+                <td class="left">
+                                            <a href="/equipe/26-le-havre" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=26&amp;width=50" alt="Le Havre">
+                            @ <span itemprop="homeTeam">Le Havre</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/810078-le-havre-quimper" title="Voir le match">63-56</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Mulhouse]]></title>
+        <id>https://nm1.ffbb.com/equipe/13367-mulhouse</id>
+        <link href="https://nm1.ffbb.com/equipe/13367-mulhouse"/>
+        <updated>2025-12-31T04:41:36.880Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810092-quimper-mulhouse" title="Voir le match"><span itemprop="startDate">21 mars 2025</span></a>
+                </td>
+                <td class="left">
+                    205
+                </td>
+                <td class="left">
+                                            <a href="/equipe/13367-mulhouse" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=13367&amp;width=50" alt="Mulhouse">
+                            vs <span itemprop="awayTeam">Mulhouse</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810092-quimper-mulhouse" title="Voir le match">84-51</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ SCABB]]></title>
+        <id>https://nm1.ffbb.com/equipe/1703-scabb</id>
+        <link href="https://nm1.ffbb.com/equipe/1703-scabb"/>
+        <updated>2025-12-31T04:41:36.882Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810106-scabb-quimper" title="Voir le match"><span itemprop="startDate">25 mars 2025</span></a>
+                </td>
+                <td class="left">
+                    206
+                </td>
+                <td class="left">
+                                            <a href="/equipe/1703-scabb" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=1703&amp;width=50" alt="SCABB">
+                            @ <span itemprop="homeTeam">SCABB</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810106-scabb-quimper" title="Voir le match">55-83</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs LYONSO]]></title>
+        <id>https://nm1.ffbb.com/equipe/14469-lyonso</id>
+        <link href="https://nm1.ffbb.com/equipe/14469-lyonso"/>
+        <updated>2025-12-31T04:41:36.884Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810120-quimper-lyonso" title="Voir le match"><span itemprop="startDate">29 mars 2025</span></a>
+                </td>
+                <td class="left">
+                    207
+                </td>
+                <td class="left">
+                                            <a href="/equipe/14469-lyonso" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14469&amp;width=50" alt="LYONSO">
+                            vs <span itemprop="awayTeam">LYONSO</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810120-quimper-lyonso" title="Voir le match">76-69</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Loon Plage]]></title>
+        <id>https://nm1.ffbb.com/equipe/14914-loon-plage</id>
+        <link href="https://nm1.ffbb.com/equipe/14914-loon-plage"/>
+        <updated>2025-12-31T04:41:36.886Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810134-loon-plage-quimper" title="Voir le match"><span itemprop="startDate">4 avr. 2025</span></a>
+                </td>
+                <td class="left">
+                    208
+                </td>
+                <td class="left">
+                                            <a href="/equipe/14914-loon-plage" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14914&amp;width=50" alt="Loon Plage">
+                            @ <span itemprop="homeTeam">Loon Plage</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/810134-loon-plage-quimper" title="Voir le match">77-72</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Orchies]]></title>
+        <id>https://nm1.ffbb.com/equipe/1851-bc-orchies</id>
+        <link href="https://nm1.ffbb.com/equipe/1851-bc-orchies"/>
+        <updated>2025-12-31T04:41:36.887Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810148-quimper-bc-orchies" title="Voir le match"><span itemprop="startDate">11 avr. 2025</span></a>
+                </td>
+                <td class="left">
+                    209
+                </td>
+                <td class="left">
+                                            <a href="/equipe/1851-bc-orchies" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=1851&amp;width=50" alt="Orchies">
+                            vs <span itemprop="awayTeam">Orchies</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810148-quimper-bc-orchies" title="Voir le match">88-79</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Saint-Vallier]]></title>
+        <id>https://nm1.ffbb.com/equipe/285-saint-vallier</id>
+        <link href="https://nm1.ffbb.com/equipe/285-saint-vallier"/>
+        <updated>2025-12-31T04:41:36.888Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810162-saint-vallier-quimper" title="Voir le match"><span itemprop="startDate">15 avr. 2025</span></a>
+                </td>
+                <td class="left">
+                    210
+                </td>
+                <td class="left">
+                                            <a href="/equipe/285-saint-vallier" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=285&amp;width=50" alt="Saint-Vallier">
+                            @ <span itemprop="homeTeam">Saint-Vallier</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810162-saint-vallier-quimper" title="Voir le match">63-87</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Le Havre]]></title>
+        <id>https://nm1.ffbb.com/equipe/26-le-havre</id>
+        <link href="https://nm1.ffbb.com/equipe/26-le-havre"/>
+        <updated>2025-12-31T04:41:36.890Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810176-quimper-le-havre" title="Voir le match"><span itemprop="startDate">18 avr. 2025</span></a>
+                </td>
+                <td class="left">
+                    211
+                </td>
+                <td class="left">
+                                            <a href="/equipe/26-le-havre" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=26&amp;width=50" alt="Le Havre">
+                            vs <span itemprop="awayTeam">Le Havre</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/810176-quimper-le-havre" title="Voir le match">58-60</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Mulhouse]]></title>
+        <id>https://nm1.ffbb.com/equipe/13367-mulhouse</id>
+        <link href="https://nm1.ffbb.com/equipe/13367-mulhouse"/>
+        <updated>2025-12-31T04:41:36.891Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810190-mulhouse-quimper" title="Voir le match"><span itemprop="startDate">2 mai 2025</span></a>
+                </td>
+                <td class="left">
+                    212
+                </td>
+                <td class="left">
+                                            <a href="/equipe/13367-mulhouse" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=13367&amp;width=50" alt="Mulhouse">
+                            @ <span itemprop="homeTeam">Mulhouse</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/810190-mulhouse-quimper" title="Voir le match">60-54</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs SCABB]]></title>
+        <id>https://nm1.ffbb.com/equipe/1703-scabb</id>
+        <link href="https://nm1.ffbb.com/equipe/1703-scabb"/>
+        <updated>2025-12-31T04:41:36.892Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810204-quimper-scabb" title="Voir le match"><span itemprop="startDate">6 mai 2025</span></a>
+                </td>
+                <td class="left">
+                    213
+                </td>
+                <td class="left">
+                                            <a href="/equipe/1703-scabb" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=1703&amp;width=50" alt="SCABB">
+                            vs <span itemprop="awayTeam">SCABB</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810204-quimper-scabb" title="Voir le match">77-71</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ LYONSO]]></title>
+        <id>https://nm1.ffbb.com/equipe/14469-lyonso</id>
+        <link href="https://nm1.ffbb.com/equipe/14469-lyonso"/>
+        <updated>2025-12-31T04:41:36.894Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/810218-lyonso-quimper" title="Voir le match"><span itemprop="startDate">9 mai 2025</span></a>
+                </td>
+                <td class="left">
+                    214
+                </td>
+                <td class="left">
+                                            <a href="/equipe/14469-lyonso" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14469&amp;width=50" alt="LYONSO">
+                            @ <span itemprop="homeTeam">LYONSO</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/810218-lyonso-quimper" title="Voir le match">52-60</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
+        <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
+        <updated>2025-12-31T04:41:36.639Z</updated>
+        <content type="html"><![CDATA[<th class="left">Date</th>
+            <th class="left">Journée</th>
+            <th class="left">Adversaire</th>
+            <th class="right">Résultat</th>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@ Les Sables d’Olonne]]></title>
+        <id>https://nm1.ffbb.com/equipe/14016-les-sables-vendee</id>
+        <link href="https://nm1.ffbb.com/equipe/14016-les-sables-vendee"/>
+        <updated>2025-12-31T04:41:36.896Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/815158-les-sables-vendee-quimper" title="Voir le match"><span itemprop="startDate">16 mai 2025</span></a>
+                </td>
+                <td class="left">
+                    11
+                </td>
+                <td class="left">
+                                            <a href="/equipe/14016-les-sables-vendee" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14016&amp;width=50" alt="Les Sables d’Olonne">
+                            @ <span itemprop="homeTeam">Les Sables d’Olonne</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/815158-les-sables-vendee-quimper" title="Voir le match">77-70</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Les Sables d’Olonne]]></title>
+        <id>https://nm1.ffbb.com/equipe/14016-les-sables-vendee</id>
+        <link href="https://nm1.ffbb.com/equipe/14016-les-sables-vendee"/>
+        <updated>2025-12-31T04:41:36.897Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/815162-quimper-les-sables-vendee" title="Voir le match"><span itemprop="startDate">23 mai 2025</span></a>
+                </td>
+                <td class="left">
+                    12
+                </td>
+                <td class="left">
+                                            <a href="/equipe/14016-les-sables-vendee" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=14016&amp;width=50" alt="Les Sables d’Olonne">
+                            vs <span itemprop="awayTeam">Les Sables d’Olonne</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/815162-quimper-les-sables-vendee" title="Voir le match">76-95</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
+        <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
+        <updated>2025-12-31T04:41:36.640Z</updated>
+        <content type="html"><![CDATA[<th class="left">Date</th>
+            <th class="left">Journée</th>
+            <th class="left">Adversaire</th>
+            <th class="right">Résultat</th>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Nantes]]></title>
+        <id>https://nm1.ffbb.com/equipe/25-nantes</id>
+        <link href="https://nm1.ffbb.com/equipe/25-nantes"/>
+        <updated>2025-11-30T19:28:47.758Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/794006-quimper-nantes" title="Voir le match"><span itemprop="startDate">24 sept. 2024</span></a>
+                </td>
+                <td class="left">
+                    1
+                </td>
+                <td class="left">
+                                            <a href="/equipe/25-nantes" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=25&amp;width=50" alt="Nantes">
+                            vs <span itemprop="awayTeam">Nantes</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/794006-quimper-nantes" title="Voir le match">95-77</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Challans]]></title>
+        <id>https://nm1.ffbb.com/equipe/341-vendee-challans-basket</id>
+        <link href="https://nm1.ffbb.com/equipe/341-vendee-challans-basket"/>
+        <updated>2025-11-30T19:28:47.748Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/794754-quimper-vendee-challans-basket" title="Voir le match"><span itemprop="startDate">15 oct. 2024</span></a>
+                </td>
+                <td class="left">
+                    2
+                </td>
+                <td class="left">
+                                            <a href="/equipe/341-vendee-challans-basket" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=341&amp;width=50" alt="Challans">
+                            vs <span itemprop="awayTeam">Challans</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/794754-quimper-vendee-challans-basket" title="Voir le match">90-66</a>
+                                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vs Blois]]></title>
+        <id>https://nm1.ffbb.com/equipe/289-blois</id>
+        <link href="https://nm1.ffbb.com/equipe/289-blois"/>
+        <updated>2025-11-30T19:28:47.754Z</updated>
+        <content type="html"><![CDATA[<td class="left">
+                    <a href="/match/796400-quimper-blois" title="Voir le match"><span itemprop="startDate">12 nov. 2024</span></a>
+                </td>
+                <td class="left">
+                    3
+                </td>
+                <td class="left">
+                                            <a href="/equipe/289-blois" title="Voir l'équipe" itemprop="name">
+                            <img class="picture" src="https://www.proballers.com/api/getTeamLogo?id=289&amp;width=50" alt="Blois">
+                            vs <span itemprop="awayTeam">Blois</span>
+                        </a>
+                                    </td>
+                <td class="right">
+                                                                        <span class="loss">P</span>
+                        
+                        <a href="/match/796400-quimper-blois" title="Voir le match">80-86</a>
                                     </td>]]></content>
     </entry>
 </feed>
