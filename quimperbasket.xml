@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
     <title>Quimper Basket</title>
-    <updated>2026-01-01T04:51:19.399Z</updated>
+    <updated>2026-01-02T04:43:51.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nm1.ffbb.com/assets/images/nm1/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
         <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
-        <updated>2026-01-01T04:50:55.907Z</updated>
+        <updated>2026-01-02T04:43:27.423Z</updated>
         <content type="html"><![CDATA[<th class="left">Date</th>
             <th class="left">Journée</th>
             <th class="left">Adversaire</th>
@@ -450,7 +450,7 @@
         <title type="html"><![CDATA[@ Orléans]]></title>
         <id>https://nm1.ffbb.com/equipe/262-orleans</id>
         <link href="https://nm1.ffbb.com/equipe/262-orleans"/>
-        <updated>2026-01-01T04:50:56.128Z</updated>
+        <updated>2026-01-01T04:50:56.101Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845082-orleans-quimper" title="Voir le match"><span itemprop="startDate">24 janv. 2026</span></a>
                 </td>
@@ -470,7 +470,7 @@
         <title type="html"><![CDATA[@ AS Alsace]]></title>
         <id>https://nm1.ffbb.com/equipe/358-alliance-sport-alsace</id>
         <link href="https://nm1.ffbb.com/equipe/358-alliance-sport-alsace"/>
-        <updated>2026-01-01T04:50:56.129Z</updated>
+        <updated>2026-01-01T04:50:56.116Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845093-alliance-sport-alsace-quimper" title="Voir le match"><span itemprop="startDate">30 janv. 2026</span></a>
                 </td>
@@ -490,7 +490,7 @@
         <title type="html"><![CDATA[vs Pau-Lacq-Orthez]]></title>
         <id>https://nm1.ffbb.com/equipe/2-pau-lacq-orthez</id>
         <link href="https://nm1.ffbb.com/equipe/2-pau-lacq-orthez"/>
-        <updated>2026-01-01T04:50:56.130Z</updated>
+        <updated>2026-01-01T04:50:56.102Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845095-quimper-pau-lacq-orthez" title="Voir le match"><span itemprop="startDate">6 févr. 2026</span></a>
                 </td>
@@ -510,7 +510,7 @@
         <title type="html"><![CDATA[@ Aix-Maurienne]]></title>
         <id>https://nm1.ffbb.com/equipe/31-aix-maurienne</id>
         <link href="https://nm1.ffbb.com/equipe/31-aix-maurienne"/>
-        <updated>2026-01-01T04:50:56.132Z</updated>
+        <updated>2026-01-01T04:50:56.110Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845109-aix-maurienne-quimper" title="Voir le match"><span itemprop="startDate">13 févr. 2026</span></a>
                 </td>
@@ -530,7 +530,7 @@
         <title type="html"><![CDATA[vs JA Vichy]]></title>
         <id>https://nm1.ffbb.com/equipe/34-ja-vichy</id>
         <link href="https://nm1.ffbb.com/equipe/34-ja-vichy"/>
-        <updated>2026-01-01T04:50:56.134Z</updated>
+        <updated>2026-01-01T04:50:56.120Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845114-quimper-ja-vichy" title="Voir le match"><span itemprop="startDate">17 févr. 2026</span></a>
                 </td>
@@ -570,7 +570,7 @@
         <title type="html"><![CDATA[vs Poitiers]]></title>
         <id>https://nm1.ffbb.com/equipe/299-poitiers</id>
         <link href="https://nm1.ffbb.com/equipe/299-poitiers"/>
-        <updated>2026-01-01T04:50:56.140Z</updated>
+        <updated>2026-01-01T04:50:56.091Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845134-quimper-poitiers" title="Voir le match"><span itemprop="startDate">13 mars 2026</span></a>
                 </td>
@@ -590,7 +590,7 @@
         <title type="html"><![CDATA[vs La Rochelle]]></title>
         <id>https://nm1.ffbb.com/equipe/242-stade-rochelais</id>
         <link href="https://nm1.ffbb.com/equipe/242-stade-rochelais"/>
-        <updated>2026-01-01T04:50:56.141Z</updated>
+        <updated>2026-01-01T04:50:56.111Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845144-quimper-stade-rochelais" title="Voir le match"><span itemprop="startDate">17 mars 2026</span></a>
                 </td>
@@ -630,7 +630,7 @@
         <title type="html"><![CDATA[@ Rouen]]></title>
         <id>https://nm1.ffbb.com/equipe/266-rouen</id>
         <link href="https://nm1.ffbb.com/equipe/266-rouen"/>
-        <updated>2026-01-01T04:50:56.143Z</updated>
+        <updated>2026-01-01T04:50:56.094Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845164-rouen-quimper" title="Voir le match"><span itemprop="startDate">27 mars 2026</span></a>
                 </td>
@@ -650,7 +650,7 @@
         <title type="html"><![CDATA[vs Champagne Basket]]></title>
         <id>https://nm1.ffbb.com/equipe/2163-champagne-basket</id>
         <link href="https://nm1.ffbb.com/equipe/2163-champagne-basket"/>
-        <updated>2026-01-01T04:50:56.145Z</updated>
+        <updated>2026-01-01T04:50:56.114Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845175-quimper-champagne-basket" title="Voir le match"><span itemprop="startDate">3 avr. 2026</span></a>
                 </td>
@@ -670,7 +670,7 @@
         <title type="html"><![CDATA[@ Caen]]></title>
         <id>https://nm1.ffbb.com/equipe/351-caen</id>
         <link href="https://nm1.ffbb.com/equipe/351-caen"/>
-        <updated>2026-01-01T04:50:56.146Z</updated>
+        <updated>2026-01-01T04:50:56.109Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845184-caen-quimper" title="Voir le match"><span itemprop="startDate">7 avr. 2026</span></a>
                 </td>
@@ -690,7 +690,7 @@
         <title type="html"><![CDATA[vs Saint-Chamond]]></title>
         <id>https://nm1.ffbb.com/equipe/284-saint-chamond</id>
         <link href="https://nm1.ffbb.com/equipe/284-saint-chamond"/>
-        <updated>2026-01-01T04:50:56.147Z</updated>
+        <updated>2026-01-01T04:50:56.118Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845203-quimper-saint-chamond" title="Voir le match"><span itemprop="startDate">11 avr. 2026</span></a>
                 </td>
@@ -710,7 +710,7 @@
         <title type="html"><![CDATA[vs Antibes]]></title>
         <id>https://nm1.ffbb.com/equipe/10-antibes</id>
         <link href="https://nm1.ffbb.com/equipe/10-antibes"/>
-        <updated>2026-01-01T04:50:56.149Z</updated>
+        <updated>2026-01-01T04:50:56.090Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845204-quimper-antibes" title="Voir le match"><span itemprop="startDate">17 avr. 2026</span></a>
                 </td>
@@ -730,7 +730,7 @@
         <title type="html"><![CDATA[@ Hyères-Toulon]]></title>
         <id>https://nm1.ffbb.com/equipe/32-hyeres-toulon</id>
         <link href="https://nm1.ffbb.com/equipe/32-hyeres-toulon"/>
-        <updated>2026-01-01T04:50:56.150Z</updated>
+        <updated>2026-01-01T04:50:56.124Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845214-hyeres-toulon-quimper" title="Voir le match"><span itemprop="startDate">21 avr. 2026</span></a>
                 </td>
@@ -750,7 +750,7 @@
         <title type="html"><![CDATA[vs Chorale Roanne]]></title>
         <id>https://nm1.ffbb.com/equipe/28-roanne</id>
         <link href="https://nm1.ffbb.com/equipe/28-roanne"/>
-        <updated>2026-01-01T04:50:56.151Z</updated>
+        <updated>2026-01-01T04:50:56.099Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845231-quimper-roanne" title="Voir le match"><span itemprop="startDate">25 avr. 2026</span></a>
                 </td>
@@ -790,7 +790,7 @@
         <title type="html"><![CDATA[vs Evreux]]></title>
         <id>https://nm1.ffbb.com/equipe/14-evreux</id>
         <link href="https://nm1.ffbb.com/equipe/14-evreux"/>
-        <updated>2026-01-01T04:50:56.155Z</updated>
+        <updated>2026-01-01T04:50:56.089Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845244-quimper-evreux" title="Voir le match"><span itemprop="startDate">8 mai 2026</span></a>
                 </td>
@@ -810,7 +810,7 @@
         <title type="html"><![CDATA[@ Denain]]></title>
         <id>https://nm1.ffbb.com/equipe/344-denain</id>
         <link href="https://nm1.ffbb.com/equipe/344-denain"/>
-        <updated>2026-01-01T04:50:56.156Z</updated>
+        <updated>2026-01-01T04:50:56.105Z</updated>
         <content type="html"><![CDATA[<td class="left">
                     <a href="/match/845259-denain-quimper" title="Voir le match"><span itemprop="startDate">15 mai 2026</span></a>
                 </td>
@@ -830,7 +830,7 @@
         <title type="html"><![CDATA[]]></title>
         <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
         <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
-        <updated>2026-01-01T04:50:55.909Z</updated>
+        <updated>2026-01-02T04:43:27.433Z</updated>
         <content type="html"><![CDATA[<th class="left">Date</th>
             <th class="left">Journée</th>
             <th class="left">Adversaire</th>
