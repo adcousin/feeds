@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bouffesdunord.com/fr/la-saison</id>
     <title>Th^ Bouffe Nord</title>
-    <updated>2026-01-04T04:52:07.650Z</updated>
+    <updated>2026-01-05T05:00:02.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bouffesdunord.com/bundles/lehubagencebdn/images/favicon/android-icon-192x192.png?v5</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[Du 4 au 20 décembre 2025 George Langelaan • Valérie Lesort • Christian Hecq]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lettres non-écrites]]></title>
-        <id>https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites</id>
-        <link href="https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites"/>
-        <updated>2025-10-21T14:32:54.631Z</updated>
-        <content type="html"><![CDATA[Du 25 septembre 2025 au 13 mai 2026 David Geselson]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Le Petit cirque]]></title>
         <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque</id>
         <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque"/>
         <updated>2025-10-21T14:32:54.654Z</updated>
         <content type="html"><![CDATA[Du 26 décembre 2025 au 4 janvier 2026 Marie Bourgeois • Yoann Bourgeois • Pomme]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lettres non-écrites]]></title>
+        <id>https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites</id>
+        <link href="https://www.bouffesdunord.com/fr/la-saison/lettres-non-ecrites"/>
+        <updated>2025-10-21T14:32:54.631Z</updated>
+        <content type="html"><![CDATA[Du 25 septembre 2025 au 13 mai 2026 David Geselson]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chiens]]></title>
