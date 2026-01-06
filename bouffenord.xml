@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bouffesdunord.com/fr/la-saison</id>
     <title>Th^ Bouffe Nord</title>
-    <updated>2026-01-05T05:00:02.075Z</updated>
+    <updated>2026-01-06T04:42:43.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bouffesdunord.com/bundles/lehubagencebdn/images/favicon/android-icon-192x192.png?v5</icon>
     <entry>
@@ -49,9 +49,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Le Petit cirque]]></title>
-        <id>https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque</id>
-        <link href="https://www.bouffesdunord.com/fr/la-saison/le-petit-cirque"/>
-        <updated>2025-10-21T14:32:54.654Z</updated>
+        <id>https://www.bouffesdunord.com/frle-petit-cirque</id>
+        <link href="https://www.bouffesdunord.com/frle-petit-cirque"/>
+        <updated>2026-01-06T04:40:18.355Z</updated>
         <content type="html"><![CDATA[Du 26 décembre 2025 au 4 janvier 2026 Marie Bourgeois • Yoann Bourgeois • Pomme]]></content>
     </entry>
     <entry>
