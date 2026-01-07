@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://billetterie-usconcarneau.tickandlive.com/</id>
     <title>US Concarneau</title>
-    <updated>2026-01-06T04:42:43.301Z</updated>
+    <updated>2026-01-07T04:43:38.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://billetterie-usconcarneau.tickandlive.com/media/cache/favicon_16/images/62de9030ebaf57e61e0fc24cf44a9f582665326b.png</icon>
     <entry>
@@ -68,9 +68,7 @@
         <updated>2026-01-06T04:41:45.683Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296">
                                                     <div class="tk-card-image">
-                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
-                                                            <div class="shop-item-status">Bientôt en vente</div>
-                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/d06fa1c98fedb4af5bf3f6901c676841ea768ffb.jpg" alt="USC / STADE BRESTOIS 29">
+                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/d06fa1c98fedb4af5bf3f6901c676841ea768ffb.jpg" alt="USC / STADE BRESTOIS 29">
                                                     </div>
                                                     <div class="uk-padding-small uk-padding-remove-top">
                                                         <h4 class="uk-text-bold uk-margin-top">USC / STADE BRESTOIS 29</h4>
@@ -98,9 +96,7 @@
         <updated>2026-01-02T04:42:47.237Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312">
                                                     <div class="tk-card-image">
-                                                                                                                                                                            <div class="uk-overlay-default uk-position-cover"></div>
-                                                            <div class="shop-item-status">Bientôt en vente</div>
-                                                                                                                                                                        <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/dc0f06a53a975c1c489cb0e473119ced9358697d.jpg" alt="USC / FC BOURG-PERONNAS 01">
+                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/dc0f06a53a975c1c489cb0e473119ced9358697d.jpg" alt="USC / FC BOURG-PERONNAS 01">
                                                     </div>
                                                     <div class="uk-padding-small uk-padding-remove-top">
                                                         <h4 class="uk-text-bold uk-margin-top">USC / FC BOURG-PERONNAS 01</h4>
@@ -239,12 +235,10 @@
         <title type="html"><![CDATA[USC / STADE BRESTOIS 29]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296"/>
-        <updated>2026-01-06T04:41:45.699Z</updated>
+        <updated>2026-01-06T04:41:45.683Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296" data-cy="home-event-link">
                                                         <div class="tk-card-image">
-                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
-                                                                <div class="shop-item-status">Bientôt en vente</div>
-                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/d06fa1c98fedb4af5bf3f6901c676841ea768ffb.jpg" alt="USC / STADE BRESTOIS 29">
+                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/d06fa1c98fedb4af5bf3f6901c676841ea768ffb.jpg" alt="USC / STADE BRESTOIS 29">
                                                         </div>
                                                         <div class="uk-padding-small uk-padding-remove-top">
                                                             <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / STADE BRESTOIS 29</h4>
@@ -272,9 +266,7 @@
         <updated>2026-01-02T04:42:47.237Z</updated>
         <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-9/129312" data-cy="home-event-link">
                                                         <div class="tk-card-image">
-                                                                                                                                                                                        <div class="uk-overlay-default uk-position-cover"></div>
-                                                                <div class="shop-item-status">Bientôt en vente</div>
-                                                                                                                                                                                    <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/dc0f06a53a975c1c489cb0e473119ced9358697d.jpg" alt="USC / FC BOURG-PERONNAS 01">
+                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/dc0f06a53a975c1c489cb0e473119ced9358697d.jpg" alt="USC / FC BOURG-PERONNAS 01">
                                                         </div>
                                                         <div class="uk-padding-small uk-padding-remove-top">
                                                             <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / FC BOURG-PERONNAS 01</h4>

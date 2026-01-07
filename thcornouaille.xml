@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.theatre-cornouaille.fr/agenda/</id>
     <title>Th^ Corn</title>
-    <updated>2026-01-06T04:42:43.290Z</updated>
+    <updated>2026-01-07T04:43:38.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.theatre-cornouaille.fr/wp-content/uploads/2022/03/25152359/cropped-TCO-fav-icon-32x32.png</icon>
     <entry>
@@ -240,7 +240,7 @@
         <link href="https://www.theatre-cornouaille.fr/projects/hourvari-25-26/"/>
         <updated>2025-10-21T16:15:22.828Z</updated>
         <content type="html"><![CDATA[<picture>
-<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2025/06/03151003/26-0123-hourvari-10_C_ryo-ichii-680x680.jpg?date=111363" alt="" class="w-full h-auto bg-primary">
+<img src="https://cdn.theatre-cornouaille.fr/wp-content/uploads/2026/01/06154035/26-0123-hourvari-12_C_rasposo-680x680.jpg?date=152284" alt="" class="w-full h-auto bg-primary">
 </picture>
 <div class="tags flex flex-wrap items-center absolute top-0 left-0 p-4 w-full">
  <div class="festival rounded-full pt-1 py-0.5 px-3 mr-2 mb-2" style="background-color:#00b1d8">Circonova</div> 
