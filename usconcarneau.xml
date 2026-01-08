@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://billetterie-usconcarneau.tickandlive.com/</id>
     <title>US Concarneau</title>
-    <updated>2026-01-07T04:43:38.318Z</updated>
+    <updated>2026-01-08T04:42:35.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://billetterie-usconcarneau.tickandlive.com/media/cache/favicon_16/images/62de9030ebaf57e61e0fc24cf44a9f582665326b.png</icon>
-    <entry>
-        <title type="html"><![CDATA[WEB / Pack Hiver]]></title>
-        <id>https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver</id>
-        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver"/>
-        <updated>2026-01-02T04:42:47.227Z</updated>
-        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver">
-                                                    <div class="tk-card-image">
-                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/8d2a5cc4790a0a6a9b814d8443ce18507ce1a3e3.jpg" alt="WEB / Pack Hiver">
-                                                    </div>
-                                                    <div class="uk-padding-small uk-padding-remove-top">
-                                                        <h4 class="uk-text-bold uk-margin-top">WEB / Pack Hiver</h4>
-                                                                                                                                                                        <span>Du 5 décembre 2025 au 16 janvier 2026</span>                                                                                                            </div>
-                                                </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[WEB / Abonnement Mi Saison 25/26]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/packs/subscription/web-abonnement-mi-saison-25-26</id>
@@ -32,20 +18,6 @@
                                                         <h4 class="uk-text-bold uk-margin-top">WEB / Abonnement Mi Saison 25/26</h4>
                                                                                                                                                                         <span>Du 16 janvier 2026 au 15 mai 2026</span>                                                                                                            </div>
                                                 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB / Pack Hiver]]></title>
-        <id>https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver</id>
-        <link href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver"/>
-        <updated>2026-01-02T04:42:47.227Z</updated>
-        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/packs/pack/web-pack-hiver" data-cy="home-event-link">
-                                                        <div class="tk-card-image">
-                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/8d2a5cc4790a0a6a9b814d8443ce18507ce1a3e3.jpg" alt="WEB / Pack Hiver">
-                                                        </div>
-                                                        <div class="uk-padding-small uk-padding-remove-top">
-                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">WEB / Pack Hiver</h4>
-                                                                                                                                                                                    <span style="font-size:13px">Du 5 décembre 2025 au 16 janvier 2026</span>                                                                                                                    </div>
-                                                    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WEB / Abonnement Mi Saison 25/26]]></title>

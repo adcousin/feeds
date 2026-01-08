@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2026-01-07T04:43:38.302Z</updated>
+    <updated>2026-01-08T04:42:35.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -52,7 +52,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/cafe-carbone-2/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/cafe-carbone-2/"/>
         <updated>2025-10-21T14:48:07.436Z</updated>
-        <content type="html"><![CDATA[samedi 10 janvier 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																samedi 10 janvier 2026 
 															
 														
 														
@@ -222,8 +231,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/un-petit-dejeuner-avec-jonathan-mallard/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/un-petit-dejeuner-avec-jonathan-mallard/"/>
         <updated>2025-10-21T14:48:07.445Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
+        <content type="html"><![CDATA[Liste d'attente
 											
 
 																							
@@ -675,8 +683,7 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/la-photographie-comme-memoire-du-paysage/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/la-photographie-comme-memoire-du-paysage/"/>
         <updated>2025-10-21T14:48:07.468Z</updated>
-        <content type="html"><![CDATA[Dernières places
-											
+        <content type="html"><![CDATA[Liste d'attente
 											
 
 																							
@@ -926,6 +933,28 @@
 													Réserver]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Moment musical : percussions]]></title>
+        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-percussions-2/</id>
+        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-percussions-2/"/>
+        <updated>2025-12-10T04:33:44.212Z</updated>
+        <content type="html"><![CDATA[jeudi 5 février 2026 
+															
+														
+														
+																												
+
+													
+													  Moment musical Moment musical : percussions
+
+										
+										Classe de Florent Bigoin
+
+										
+										
+											
+												Voir]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ensachage de graines]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/ensachage-de-graines-5/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/ensachage-de-graines-5/"/>
@@ -1151,28 +1180,6 @@
 											
 																							
 													Réserver]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moment musical : percussions]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/moment-musical-percussions-2/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/moment-musical-percussions-2/"/>
-        <updated>2025-12-10T04:33:44.212Z</updated>
-        <content type="html"><![CDATA[jeudi 12 février 2026 
-															
-														
-														
-																												
-
-													
-													  Moment musical Moment musical : percussions
-
-										
-										Classe de Florent Bigoin
-
-										
-										
-											
-												Voir]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[La boîte à histoire #3]]></title>
@@ -1889,7 +1896,16 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/richard-iii-2/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/richard-iii-2/"/>
         <updated>2025-10-21T14:48:07.527Z</updated>
-        <content type="html"><![CDATA[mardi 17 mars 2026 
+        <content type="html"><![CDATA[Dernières places
+											
+											
+
+																							
+													
+													
+														
+																													
+																mardi 17 mars 2026 
 															
 														
 														
