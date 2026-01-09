@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatredelorient.fr/saison/</id>
     <title>Th^ Lorient</title>
-    <updated>2026-01-08T04:42:35.147Z</updated>
+    <updated>2026-01-09T04:43:17.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theatredelorient.fr/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[L’AMANTE ANGLAISE]]></title>
-        <id>https://theatredelorient.fr/spectacle/lamante-anglaise/</id>
-        <link href="https://theatredelorient.fr/spectacle/lamante-anglaise/"/>
-        <updated>2025-11-30T19:28:52.908Z</updated>
-        <content type="html"><![CDATA[<a class="spectacle theatre" href="https://theatredelorient.fr/spectacle/lamante-anglaise/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-300x200.jpg" class="img-responsive" alt="" decoding="async" fetchpriority="high" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Théâtre</h4><h5>06, 07 et 08/01</h5><h3>MARGUERITE DURAS, JACQUES OSINSKI</h3></div></figure><div class="info"><h2>L’AMANTE ANGLAISE</h2></div></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[MERCI D’ÊTRE VENU, C’EST COURAGEUX]]></title>
         <id>https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/</id>
         <link href="https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/"/>
         <updated>2025-11-30T19:28:52.905Z</updated>
-        <content type="html"><![CDATA[<a class="spectacle itinerance" href="https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-300x200.jpg" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Itinérance</h4><h5>09, 29, 30/01 et 05/06</h5><h3>ANTONY COINTRE ET SIMON DELÉTANG, SIMON DELÉTANG</h3></div></figure><div class="info"><h2>MERCI D’ÊTRE VENU, C’EST COURAGEUX</h2></div></a>]]></content>
+        <content type="html"><![CDATA[<a class="spectacle itinerance" href="https://theatredelorient.fr/spectacle/merci-detre-venu-cest-courageux/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-300x200.jpg" class="img-responsive" alt="" decoding="async" fetchpriority="high" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/06/MerciDEtreVenu©jeanLouisFernandez_078-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Itinérance</h4><h5>09, 29, 30/01 et 05/06</h5><h3>ANTONY COINTRE ET SIMON DELÉTANG, SIMON DELÉTANG</h3></div></figure><div class="info"><h2>MERCI D’ÊTRE VENU, C’EST COURAGEUX</h2></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LE CHÂTEAU DES CARPATHES]]></title>
@@ -277,5 +270,12 @@
         <link href="https://theatredelorient.fr/spectacle/bezperan/"/>
         <updated>2025-11-30T19:28:52.906Z</updated>
         <content type="html"><![CDATA[<a class="spectacle passed danse musique" href="https://theatredelorient.fr/spectacle/bezperan/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-300x200.jpg" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/©MCMONIN_04239-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Danse • Musique</h4><h5>17 et 18/12</h5><h3>COLLECTIF BILAKA, DANIEL SAN PEDRO</h3></div></figure><div class="info"><h2>BEZPERAN</h2></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’AMANTE ANGLAISE]]></title>
+        <id>https://theatredelorient.fr/spectacle/lamante-anglaise/</id>
+        <link href="https://theatredelorient.fr/spectacle/lamante-anglaise/"/>
+        <updated>2025-11-30T19:28:52.908Z</updated>
+        <content type="html"><![CDATA[<a class="spectacle passed theatre" href="https://theatredelorient.fr/spectacle/lamante-anglaise/"><figure><img width="300" height="200" src="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-300x200.jpg" class="img-responsive" alt="" decoding="async" srcset="https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-300x200.jpg 300w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-1024x683.jpg 1024w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-768x512.jpg 768w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-1536x1024.jpg 1536w, https://theatredelorient.fr/cosmo/wp-content/uploads/2025/05/visuel-affiche-2-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"><div class="hover-box"><h4>Théâtre</h4><h5>06, 07 et 08/01</h5><h3>MARGUERITE DURAS, JACQUES OSINSKI</h3></div></figure><div class="info"><h2>L’AMANTE ANGLAISE</h2></div></a>]]></content>
     </entry>
 </feed>
