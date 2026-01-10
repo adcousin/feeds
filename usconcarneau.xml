@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://billetterie-usconcarneau.tickandlive.com/</id>
     <title>US Concarneau</title>
-    <updated>2026-01-09T04:43:17.287Z</updated>
+    <updated>2026-01-10T04:36:52.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://billetterie-usconcarneau.tickandlive.com/media/cache/favicon_16/images/62de9030ebaf57e61e0fc24cf44a9f582665326b.png</icon>
     <entry>
@@ -32,20 +32,6 @@
                                                             <h4 class="uk-text-bold uk-margin-top tk-event-title">WEB / Abonnement Mi Saison 25/26</h4>
                                                                                                                                                                                     <span style="font-size:13px">Du 16 janvier 2026 au 15 mai 2026</span>                                                                                                                    </div>
                                                     </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USC / STADE BRESTOIS 29]]></title>
-        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296</id>
-        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296"/>
-        <updated>2026-01-06T04:41:45.683Z</updated>
-        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296">
-                                                    <div class="tk-card-image">
-                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/d06fa1c98fedb4af5bf3f6901c676841ea768ffb.jpg" alt="USC / STADE BRESTOIS 29">
-                                                    </div>
-                                                    <div class="uk-padding-small uk-padding-remove-top">
-                                                        <h4 class="uk-text-bold uk-margin-top">USC / STADE BRESTOIS 29</h4>
-                                                        <span>STADE GUY PIRIOU </span><br>                                                                                                                <span>Vendredi 9 janvier 2026</span>                                                                                                            </div>
-                                                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[USC / SM CAEN]]></title>
@@ -204,20 +190,6 @@
                                                 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USC / STADE BRESTOIS 29]]></title>
-        <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296</id>
-        <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296"/>
-        <updated>2026-01-06T04:41:45.683Z</updated>
-        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-1/129296" data-cy="home-event-link">
-                                                        <div class="tk-card-image">
-                                                                                                                                                                                                                                                <img src="https://billetterie-usconcarneau.tickandlive.com/media/cache/front_homepage_selection/images/d06fa1c98fedb4af5bf3f6901c676841ea768ffb.jpg" alt="USC / STADE BRESTOIS 29">
-                                                        </div>
-                                                        <div class="uk-padding-small uk-padding-remove-top">
-                                                            <h4 class="uk-text-bold uk-margin-top tk-event-title">USC / STADE BRESTOIS 29</h4>
-                                                            <span>STADE GUY PIRIOU </span><br>                                                                                                                        <span style="font-size:13px">Vendredi 9 janvier 2026</span>                                                                                                                    </div>
-                                                    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USC / SM CAEN]]></title>
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-8/129311"/>
@@ -266,7 +238,7 @@
         <id>https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298</id>
         <link href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298"/>
         <updated>2026-01-02T04:42:47.239Z</updated>
-        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298" data-cy="home-event-link" tabindex="-1">
+        <content type="html"><![CDATA[<a href="https://billetterie-usconcarneau.tickandlive.com/reserver/match-11/129298" data-cy="home-event-link">
                                                         <div class="tk-card-image">
                                                                                                                                                                                         <div class="uk-overlay-default uk-position-cover"></div>
                                                                 <div class="shop-item-status">Bientôt en vente</div>

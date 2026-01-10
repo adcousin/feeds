@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archipel.ville-fouesnant.fr/agenda-culturel/</id>
     <title>Archipel Fouesnant</title>
-    <updated>2026-01-09T04:43:17.272Z</updated>
+    <updated>2026-01-10T04:36:52.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archipel.ville-fouesnant.fr/agenda-culturel/favicon.ico</icon>
     <entry>
@@ -26,33 +26,12 @@
 												Voir]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ensachage de graines]]></title>
-        <id>https://archipel.ville-fouesnant.fr/agenda/ensachage-de-graines-4/</id>
-        <link href="https://archipel.ville-fouesnant.fr/agenda/ensachage-de-graines-4/"/>
-        <updated>2025-10-21T14:48:07.435Z</updated>
-        <content type="html"><![CDATA[vendredi 9 janvier 2026 
-															
-														
-														
-																												
-
-													
-													    Participation Ensachage de graines
-
-										
-										Vie de la Grainothèque 
-
-										
-										
-											
-												Voir]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Marmites norvégiennes]]></title>
         <id>https://archipel.ville-fouesnant.fr/agenda/cafe-carbone-2/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/cafe-carbone-2/"/>
         <updated>2025-10-21T14:48:07.436Z</updated>
-        <content type="html"><![CDATA[Dernières places
+        <content type="html"><![CDATA[complet
+											
 											
 											
 
@@ -83,7 +62,9 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/100-satie/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/100-satie/"/>
         <updated>2025-10-21T14:48:07.437Z</updated>
-        <content type="html"><![CDATA[Liste d'attente
+        <content type="html"><![CDATA[complet
+											
+											
 											
 
 																							
@@ -106,11 +87,7 @@
 										
 										
 											
-												Voir
-											
-											
-																							
-													Réserver]]></content>
+												Voir]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bébé-signe #7]]></title>
@@ -139,7 +116,15 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/bebe-signe-8/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/bebe-signe-8/"/>
         <updated>2025-10-21T14:48:07.440Z</updated>
-        <content type="html"><![CDATA[lundi 12 janvier 2026 
+        <content type="html"><![CDATA[Liste d'attente
+											
+
+																							
+													
+													
+														
+																													
+																lundi 12 janvier 2026 
 															
 														
 														
@@ -231,7 +216,8 @@
         <id>https://archipel.ville-fouesnant.fr/agenda/un-petit-dejeuner-avec-jonathan-mallard/</id>
         <link href="https://archipel.ville-fouesnant.fr/agenda/un-petit-dejeuner-avec-jonathan-mallard/"/>
         <updated>2025-10-21T14:48:07.445Z</updated>
-        <content type="html"><![CDATA[Liste d'attente
+        <content type="html"><![CDATA[Dernières places
+											
 											
 
 																							
