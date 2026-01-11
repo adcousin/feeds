@@ -2,50 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lesarcs.bzh/programmation/</id>
     <title>Les Arcs</title>
-    <updated>2026-01-10T04:36:52.417Z</updated>
+    <updated>2026-01-11T04:51:02.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lesarcs.bzh/wp-content/themes/artgomedia-base/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Sebastian Marx • « On est bien là »                                                                                    STardusT ProducTions présenTe]]></title>
-        <id>https://www.lesarcs.bzh/spectacles/sebastian-marx/</id>
-        <link href="https://www.lesarcs.bzh/spectacles/sebastian-marx/"/>
-        <updated>2025-11-30T19:28:22.246Z</updated>
-        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
-                                <div class="agenda_listing_spectacle_inner_link">
-                                    <div class="agenda_listing_spectacle_date">
-                                                                                    <span>10 jan</span>
-                                                                            </div>
-                                    <div class="agenda_listing_spectacle_image">
-                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/8-marx-900x600-listing.jpg" alt="Sebastian Marx • «&nbsp;On est bien là&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/8-marx-900x600-listing.jpg" data-ll-status="loading" class="entered lazyloading"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/8-marx-900x600-listing.jpg" alt="Sebastian Marx • « On est bien là »"></noscript>
-                                    </div>
-                                                                        <h2 class="agenda_listing_spectacle_title">
-                                        Sebastian Marx • «&nbsp;On est bien là&nbsp;»                                                                                    <span>STardusT ProducTions présenTe</span>
-                                                                            </h2>
-                                    <div class="agenda_listing_spectacle_inner">
-                                        <div class="agenda_listing_spectacle_inner_top">
-                                            <div class="agenda_listing_spectacle_inner_top_style">
-                                                Humour                                            </div>
-                                            <div class="agenda_listing_spectacle_inner_artiste">
-                                                Sebastian Marx • «&nbsp;On est bien là&nbsp;»                                                                                            </div>
-                                            <div class="agenda_listing_spectacle_inner_top_date">
-                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
-                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
-                                                        <span>sam 10 jan</span>
-                                                        <span>2026</span>
-                                                    </div>
-                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
-                                                            20h30                                                        </div>
-                                                                                                    </div>
-                                            </div>
-                                        </div>
-                                        <div class="agenda_listing_spectacle_inner_bottom">
-                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ciné Films #3 | « Le grand bain »                                                                                    de Gilles Lellouche]]></title>
         <id>https://www.lesarcs.bzh/spectacles/cine-films-3-le-grand-bain/</id>
@@ -57,7 +16,7 @@
                                                                                     <span>13 jan</span>
                                                                             </div>
                                     <div class="agenda_listing_spectacle_image">
-                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/5-le-grand-bain-900x600-listing.jpg" alt="Ciné Films #3 | «&nbsp;Le grand bain&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/5-le-grand-bain-900x600-listing.jpg" data-ll-status="loading" class="entered lazyloading"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/5-le-grand-bain-900x600-listing.jpg" alt="Ciné Films #3 | « Le grand bain »"></noscript>
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/5-le-grand-bain-900x600-listing.jpg" alt="Ciné Films #3 | «&nbsp;Le grand bain&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/5-le-grand-bain-900x600-listing.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/09/5-le-grand-bain-900x600-listing.jpg" alt="Ciné Films #3 | « Le grand bain »"></noscript>
                                     </div>
                                                                         <h2 class="agenda_listing_spectacle_title">
                                         Ciné Films #3 | «&nbsp;Le grand bain&nbsp;»                                                                                    <span>de Gilles Lellouche</span>
@@ -98,7 +57,7 @@
                                                                                     <span>17 jan</span>
                                                                             </div>
                                     <div class="agenda_listing_spectacle_image">
-                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/9-cherhal-900x600-listing.jpg" alt="Jeanne Cherhal" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/9-cherhal-900x600-listing.jpg" data-ll-status="loading" class="entered lazyloading"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/9-cherhal-900x600-listing.jpg" alt="Jeanne Cherhal"></noscript>
+                                                                                <img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/9-cherhal-900x600-listing.jpg" alt="Jeanne Cherhal" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/9-cherhal-900x600-listing.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/9-cherhal-900x600-listing.jpg" alt="Jeanne Cherhal"></noscript>
                                     </div>
                                                                         <div class="agenda_listing_statut_spectacle">
 
@@ -515,6 +474,47 @@
                                                 <div class="agenda_listing_spectacle_inner_top_date_inner">
                                                     <div class="agenda_listing_spectacle_inner_top_date_inner_left">
                                                         <span>mer 13 mai</span>
+                                                        <span>2026</span>
+                                                    </div>
+                                                                                                            <div class="agenda_listing_spectacle_inner_top_date_inner_right">
+                                                            20h30                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="agenda_listing_spectacle_inner_bottom">
+                                            <div class="agenda_listing_spectacle_inner_bottom_inner">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sebastian Marx • « On est bien là »                                                                                    STardusT ProducTions présenTe]]></title>
+        <id>https://www.lesarcs.bzh/spectacles/sebastian-marx/</id>
+        <link href="https://www.lesarcs.bzh/spectacles/sebastian-marx/"/>
+        <updated>2025-11-30T19:28:22.246Z</updated>
+        <content type="html"><![CDATA[<div class="agenda_listing_spectacle">
+                                <div class="agenda_listing_spectacle_inner_link">
+                                    <div class="agenda_listing_spectacle_date">
+                                        <span>10 jan</span>
+                                    </div>
+                                    <div class="agenda_listing_spectacle_image">
+                                                                                <img width="900" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Sebastian Marx • «&nbsp;On est bien là&nbsp;»" data-lazy-src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/8-marx-900x600-listing.jpg"><noscript><img width="900" height="600" src="https://www.lesarcs.bzh/wp-content/uploads/2025/06/8-marx-900x600-listing.jpg" alt="Sebastian Marx • « On est bien là »"></noscript>
+                                    </div>
+                                                                        <h2 class="agenda_listing_spectacle_title">
+                                        Sebastian Marx • «&nbsp;On est bien là&nbsp;»                                                                                    <span>STardusT ProducTions présenTe</span>
+                                                                            </h2>
+                                    <div class="agenda_listing_spectacle_inner">
+                                        <div class="agenda_listing_spectacle_inner_top">
+                                            <div class="agenda_listing_spectacle_inner_top_style">
+                                                Humour                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_artiste">
+                                                Sebastian Marx • «&nbsp;On est bien là&nbsp;»                                                                                            </div>
+                                            <div class="agenda_listing_spectacle_inner_top_date">
+                                                <div class="agenda_listing_spectacle_inner_top_date_inner">
+                                                    <div class="agenda_listing_spectacle_inner_top_date_inner_left">
+                                                        <span>sam 10 jan</span>
                                                         <span>2026</span>
                                                     </div>
                                                                                                             <div class="agenda_listing_spectacle_inner_top_date_inner_right">
