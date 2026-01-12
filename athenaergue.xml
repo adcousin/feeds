@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lathena.bzh/systeme/agenda/?systemeParams=events&amp;pages=10</id>
     <title>Athena Ergue</title>
-    <updated>2026-01-11T04:51:02.519Z</updated>
+    <updated>2026-01-12T04:53:43.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lathena.bzh/wp-content/themes/athena/assets/src/images/Logos/favicon.ico</icon>
     <entry>
@@ -35,34 +35,6 @@
                                         <h3 class="card__title">Exposition Bric-à-Boîtes | Cartonnage</h3>
                                         <div class="card__description">
                         <p>Cartonnage-gainerie / encadrement : des ateliers créatifs mis en place par Catherine Richard, animatrice de l'association Bric-à-Boîtes. Une exposition des créations des adhérentes pour découvrir ces…</p>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanour Noz | Concert & chant breton]]></title>
-        <id>https://www.lathena.bzh/agenda/kanour-noz-concert-chant-breton/</id>
-        <link href="https://www.lathena.bzh/agenda/kanour-noz-concert-chant-breton/"/>
-        <updated>2025-11-30T19:28:04.320Z</updated>
-        <content type="html"><![CDATA[<a class="card__link" href="https://www.lathena.bzh/agenda/kanour-noz-concert-chant-breton/" title="Consulter la page Kanour Noz | Concert &amp; chant breton (même onglet)">
-            <div class="card__container">
-                                <div class="image-wrapper  card__image-wrapper events">
-                                            <!-- Begin output of "public/partials/image.twig" -->                            <img src="/wp-content/uploads/2025/06/photo-kanour-noz-BD-scaled-385x0-c-default.jpg" alt="Kanour_noz" class=" a42-ac-replace-img">
-            <!-- / End output of "public/partials/image.twig" -->                                                            <div class="card__date">
-                                                    <p>
-                                <span class="card__date_day">11</span>
-                                <span class="card__date_month">janvier</span>
-                            </p>
-                                                                    </div>
-                </div>
-                <div class="card__content">
-                    <div class="card__infos">
-                                                                            <p class="card__category">Musique</p>
-                                            </div>
-                                        <h3 class="card__title">Kanour Noz | Concert &amp; chant breton</h3>
-                                        <div class="card__description">
-                        <p>Kanour Noz, chanteur de nuit en breton, était le surnom que les habitants de Kerroc’h donnaient à un pêcheur qui avait l’habitude de chanter la nuit,…</p>
                     </div>
                 </div>
             </div>

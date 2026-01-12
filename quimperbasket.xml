@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
     <title>Quimper Basket</title>
-    <updated>2026-01-11T04:51:02.584Z</updated>
+    <updated>2026-01-12T04:53:43.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nm1.ffbb.com/assets/images/nm1/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
         <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
-        <updated>2026-01-11T04:50:40.457Z</updated>
+        <updated>2026-01-12T04:53:24.034Z</updated>
         <content type="html"><![CDATA[<th class="left">Date</th>
             <th class="left">Journée</th>
             <th class="left">Adversaire</th>
@@ -424,6 +424,9 @@
                         </a>
                                     </td>
                 <td class="right">
+                                                                        <span class="win">G</span>
+                        
+                        <a href="/match/845062-quimper-nantes" title="Voir le match">76-71</a>
                                     </td>]]></content>
     </entry>
     <entry>
@@ -830,7 +833,7 @@
         <title type="html"><![CDATA[]]></title>
         <id>https://nm1.ffbb.com/equipe/calendrier/264-quimper</id>
         <link href="https://nm1.ffbb.com/equipe/calendrier/264-quimper"/>
-        <updated>2026-01-11T04:50:40.464Z</updated>
+        <updated>2026-01-12T04:53:24.039Z</updated>
         <content type="html"><![CDATA[<th class="left">Date</th>
             <th class="left">Journée</th>
             <th class="left">Adversaire</th>
